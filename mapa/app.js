@@ -199,7 +199,7 @@
     tActual = ev.transform;
     dibujarPuntos();
     gZoom.attr('transform', ev.transform);
-    etiquetas.style('font-size', `${11 / ev.transform.k}px`).style('stroke-width', `${3 / ev.transform.k}px`).attr('opacity', ev.transform.k > 3.5 ? 0 : 1);
+    etiquetas.style('font-size', `${11 / ev.transform.k}px`).style('stroke-width', `${3 / ev.transform.k}px`).attr('opacity', ev.transform.k > 3.5 || (window.SITMAP.movil() && ev.transform.k < 2.2) ? 0 : 1);
   });
   svg.call(zoom).on('dblclick.zoom', null);
 
@@ -207,13 +207,9 @@
     if (!cont.clientWidth) return;
     W = cont.clientWidth; H = cont.clientHeight;
     svg.attr('viewBox', `0 0 ${W} ${H}`);
-    const angosto = W < 900;
-    const izq = angosto ? 16 : 370, der = angosto ? 16 : 30, arr = 70;
-    let aba = angosto ? Math.round(H * 0.42) + 120 : 120;
-    if (H - aba - arr < 160) aba = Math.max(10, H - arr - 160);
-    proj.fitExtent([[izq, arr], [Math.max(izq + 100, W - der), Math.max(arr + 100, H - aba)]], { type: 'FeatureCollection', features: tierra });
+    proj.fitExtent(window.SITMAP.extent(W, H, { izq: 370, der: 30, arr: 70, aba: 120 }), { type: 'FeatureCollection', features: tierra });
     munis.attr('d', path); lagosSel.attr('d', path); bordes.attr('d', path); contorno.attr('d', path);
-    etiquetas.attr('transform', (d) => { const c = path.centroid(d.feature); return `translate(${c[0]},${c[1]})`; });
+    etiquetas.attr('transform', (d) => { const c = path.centroid(d.feature); return `translate(${c[0]},${c[1]})`; }).attr('opacity', window.SITMAP.movil() && tActual.k < 2.2 ? 0 : 1);
     const dpr = window.devicePixelRatio || 1;
     canvas.width = W * dpr; canvas.height = H * dpr; canvas.style.width = `${W}px`; canvas.style.height = `${H}px`;
     baseLug = lugares.map((l) => proj([l[0], l[1]]));

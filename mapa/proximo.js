@@ -181,8 +181,7 @@
     const c = cont(); if (!c.clientWidth) return;
     W = c.clientWidth; H = c.clientHeight;
     svg.attr('viewBox', `0 0 ${W} ${H}`);
-    const angosto = W < 900;
-    proj.fitExtent([[angosto ? 16 : 370, 70], [W - (angosto ? 16 : 30), H - (angosto ? Math.round(H * 0.42) + 60 : 70)]], { type: 'FeatureCollection', features: D.geo.features.filter((f) => !f.properties.lake) });
+    proj.fitExtent(window.SITMAP.extent(W, H, { izq: 370, der: 30, arr: 70, aba: 70 }), { type: 'FeatureCollection', features: D.geo.features.filter((f) => !f.properties.lake) });
     gZoom.selectAll('path').attr('d', path);
     const dpr = window.devicePixelRatio || 1;
     [cvCalor, cvSit].forEach((cv) => { cv.width = W * dpr; cv.height = H * dpr; cv.style.width = `${W}px`; cv.style.height = `${H}px`; });
@@ -545,9 +544,15 @@
     E.vista = vista;
     const ld = document.getElementById('loading');
     if (!iniciado) {
-      ld.hidden = false; ld.textContent = 'Cargando datos simulados…';
-      await cargar(); definirMetricas(); construirMapa(); controlesMapa(); controlesTablero(); iniciado = true;
-      ld.hidden = true;
+      if (!window.__proximoInit) {
+        window.__proximoInit = (async () => {
+          ld.hidden = false; ld.textContent = 'Cargando datos simulados…';
+          await cargar(); definirMetricas(); construirMapa(); controlesMapa(); controlesTablero(); iniciado = true;
+          ld.hidden = true;
+        })();
+      }
+      await window.__proximoInit;
+      if (E.vista !== vista) return; // otra llamada más reciente ya eligió la vista
     }
     document.getElementById('vista-pmapa').hidden = vista !== 'mapa';
     document.getElementById('vista-ptablero').hidden = vista !== 'tablero';

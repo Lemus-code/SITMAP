@@ -3,13 +3,15 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Mapa Telecom Guatemala · SIT</title>
+<title>SITMAP · Observatorio Telecom GT</title>
+<meta name="theme-color" content="#0b1220">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@500&display=swap">
-<link rel="stylesheet" href="styles.css">
-<link rel="stylesheet" href="tablero.css">
-<link rel="stylesheet" href="proximo.css">
+<link rel="stylesheet" href="styles.css?v=3">
+<link rel="stylesheet" href="tablero.css?v=3">
+<link rel="stylesheet" href="proximo.css?v=3">
+<link rel="stylesheet" href="movil.css?v=3">
 </head>
 <body>
 <div class="app" id="app" data-vista="mapa">
@@ -21,8 +23,8 @@
 
     <aside class="panel panel-left">
       <div class="brand">
-        <span class="eyebrow">SIT · Datatón InnovaCon 2026</span>
-        <h1>Mapa telecom de Guatemala</h1>
+        <span class="eyebrow">Observatorio Telecom GT · SIT</span>
+        <h1>SITMAP</h1>
         <p class="question">Infraestructura y cobertura de telefonía en los 340 municipios, semestre a semestre.</p>
       </div>
 
@@ -60,7 +62,7 @@
     <div class="tab-wrap">
       <header class="tab-head">
         <span class="eyebrow">SIT · Datatón InnovaCon 2026</span>
-        <h1>Tablero telecom por municipio</h1>
+        <h1>SITMAP · Tablero por municipio</h1>
         <p class="question">La SIT necesita saber la calidad del servicio de telefonía e internet para decidir qué y dónde auditar en el territorio nacional.</p>
         <p class="lead" id="t-lead">—</p>
       </header>
@@ -334,6 +336,7 @@
 
   <!-- ===================== COMPARTIDO ===================== -->
   <div class="panel panel-top">
+    <span class="top-brand" aria-label="SITMAP">SIT<b>MAP</b></span>
     <div class="seg seg-modo" role="tablist" aria-label="Versión">
       <button type="button" role="tab" data-modo="actual" aria-selected="true">Actual</button>
       <button type="button" role="tab" data-modo="escuelas" aria-selected="false">Escuelas</button>
@@ -341,10 +344,13 @@
     </div>
     <div class="seg" role="tablist" aria-label="Vista">
       <button type="button" role="tab" data-vista="mapa" aria-selected="true">
-        <svg viewBox="0 0 20 20" aria-hidden="true"><path d="M2 5l5-2 6 2 5-2v12l-5 2-6-2-5 2z M7 3v12 M13 5v12" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/></svg>Mapa</button>
+        <svg viewBox="0 0 20 20" aria-hidden="true"><path d="M2 5l5-2 6 2 5-2v12l-5 2-6-2-5 2z M7 3v12 M13 5v12" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/></svg><span class="txt">Mapa</span></button>
       <button type="button" role="tab" data-vista="tablero" aria-selected="false">
-        <svg viewBox="0 0 20 20" aria-hidden="true"><path d="M3 3h6v6H3zM11 3h6v4h-6zM11 9h6v8h-6zM3 11h6v6H3z" fill="none" stroke="currentColor" stroke-width="1.6"/></svg>Tablero</button>
+        <svg viewBox="0 0 20 20" aria-hidden="true"><path d="M3 3h6v6H3zM11 3h6v4h-6zM11 9h6v8h-6zM3 11h6v6H3z" fill="none" stroke="currentColor" stroke-width="1.6"/></svg><span class="txt">Tablero</span></button>
     </div>
+    <button type="button" class="icon-btn btn-buscar" id="btn-buscar" aria-label="Buscar municipio" aria-expanded="false">
+      <svg viewBox="0 0 20 20" aria-hidden="true"><circle cx="8.5" cy="8.5" r="5.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M13 13l4 4" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+    </button>
     <div class="search">
       <svg viewBox="0 0 20 20" aria-hidden="true"><circle cx="8.5" cy="8.5" r="5.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M13 13l4 4" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
       <input id="search" type="search" placeholder="Buscar municipio…" autocomplete="off" aria-label="Buscar municipio">
@@ -387,12 +393,13 @@
     </div>
   </div>
 
-  <div id="loading" class="loading">Cargando datos de la SIT…</div>
+  <div id="loading" class="loading">Cargando SITMAP…</div>
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
-<script src="app.js"></script>
-<script src="proximo.js"></script>
-<script src="escuelas.js"></script>
+<script src="movil.js?v=3"></script>
+<script src="app.js?v=3"></script>
+<script src="proximo.js?v=3"></script>
+<script src="escuelas.js?v=3"></script>
 </body>
 </html>

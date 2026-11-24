@@ -96,8 +96,7 @@
     const c = cont(); if (!c.clientWidth) return;
     W = c.clientWidth; H = c.clientHeight;
     svg.attr('viewBox', `0 0 ${W} ${H}`);
-    const ang = W < 900;
-    proj.fitExtent([[ang ? 16 : 370, 70], [W - (ang ? 16 : 30), H - (ang ? Math.round(H * 0.42) + 60 : 40)]], { type: 'FeatureCollection', features: D.geo.features.filter((f) => !f.properties.lake) });
+    proj.fitExtent(window.SITMAP.extent(W, H, { izq: 370, der: 30, arr: 70, aba: 40 }), { type: 'FeatureCollection', features: D.geo.features.filter((f) => !f.properties.lake) });
     gZoom.selectAll('path').attr('d', path);
     const dpr = window.devicePixelRatio || 1;
     cv.width = W * dpr; cv.height = H * dpr; cv.style.width = `${W}px`; cv.style.height = `${H}px`;
@@ -119,7 +118,7 @@
       cx.fillStyle = '#94a3b8'; cx.globalAlpha = 0.35;
       for (let i = 0; i < baseCel.length; i++) { const x = t.x + baseCel[i][0] * k, y = t.y + baseCel[i][1] * k; if (fuera(x, y)) continue; cx.fillRect(x - 0.8, y - 0.8, 1.6, 1.6); }
     }
-    const r = Math.min(4.2, 1.1 + k * 0.22);
+    const r = window.SITMAP.movil() ? Math.min(3.6, 0.7 + k * 0.28) : Math.min(4.2, 1.1 + k * 0.22);
     if (E.escuelasOn) {
       for (let i = 0; i < D.escuelas.length; i++) {
         const e = D.escuelas[i]; if (!visibleEscuela(e)) continue;
@@ -352,8 +351,14 @@
   async function mostrar(v) {
     E.vista = v;
     if (!iniciado) {
-      const ld = document.getElementById('loading'); ld.hidden = false; ld.textContent = 'Cargando escuelas…';
-      await cargar(); construirMapa(); controles(); iniciado = true; ld.hidden = true;
+      if (!window.__escuelasInit) {
+        window.__escuelasInit = (async () => {
+          const ld = document.getElementById('loading'); ld.hidden = false; ld.textContent = 'Cargando escuelas…';
+          await cargar(); construirMapa(); controles(); iniciado = true; ld.hidden = true;
+        })();
+      }
+      await window.__escuelasInit;
+      if (E.vista !== v) return; // otra llamada más reciente ya eligió la vista
     }
     document.getElementById('vista-emapa').hidden = v !== 'mapa';
     document.getElementById('vista-etablero').hidden = v !== 'tablero';
