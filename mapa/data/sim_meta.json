@@ -1,0 +1,48 @@
+{
+ "simulado": [
+  "Sitios en municipios sin celdas observadas",
+  "Sectores",
+  "Bandas",
+  "Capacidad y tipo de enlace",
+  "Tráfico promedio y pico",
+  "Usuarios soportados y atendidos",
+  "Latencia",
+  "Fallas",
+  "Perfil de consumo por dispositivo",
+  "Radio de cobertura declarado",
+  "Marcas de posible duplicidad"
+ ],
+ "semilla": 2026,
+ "generado": "2026-11-24",
+ "aviso": "DATOS SIMULADOS. No describen la red real. Muestran qué análisis serían posibles si los operadores entregaran estas métricas a la SIT.",
+ "real": [
+  "Posición, operador y tecnologías de los sitios que vienen de OpenCelliD (estimados)",
+  "Población y área municipal",
+  "Lugares poblados",
+  "Radiobases SIT 2026-S1 (para cuántos sitios simular donde no hay celdas observadas)"
+ ],
+ "supuestos": {
+  "capacidad_por_sector_mbps": {
+   "2G": 0.2,
+   "3G": 21.0,
+   "4G": 75.0
+  },
+  "usuarios_por_sector": {
+   "2G": 150,
+   "3G": 250,
+   "4G": 600
+  },
+  "penetracion_movil": 1.15,
+  "concurrencia_pico": 0.04,
+  "mbps_por_usuario_pico": 0.6,
+  "duplicado_si_mismo_operador_a_menos_de_m": 80
+ },
+ "demanda_por_zona": {
+  "urbano": 1.0,
+  "intermedio": 0.8,
+  "rural": 0.55
+ },
+ "sitios": 15209,
+ "sitios_posicion_real": 10399,
+ "municipios": 340
+}

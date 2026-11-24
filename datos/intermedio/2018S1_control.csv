@@ -1,0 +1,46 @@
+﻿variable,departamento,declarado,suma_municipios,diferencia,periodo
+lineas_fijas,ALTA VERAPAZ,12869.0,12869.0,0.0,2018S1
+lineas_fijas,BAJA VERAPAZ,5613.0,5613.0,0.0,2018S1
+lineas_fijas,CHIMALTENANGO,19817.0,19817.0,0.0,2018S1
+lineas_fijas,CHIQUIMULA,18347.0,18347.0,0.0,2018S1
+lineas_fijas,ESCUINTLA,45347.0,45347.0,0.0,2018S1
+lineas_fijas,GUATEMALA,2048847.0,2048847.0,0.0,2018S1
+lineas_fijas,HUEHUETENANGO,22721.0,22721.0,0.0,2018S1
+lineas_fijas,IZABAL,24883.0,24883.0,0.0,2018S1
+lineas_fijas,JALAPA,9091.0,9091.0,0.0,2018S1
+lineas_fijas,JUTIAPA,13539.0,13539.0,0.0,2018S1
+lineas_fijas,EL PETÉN,9286.0,9286.0,0.0,2018S1
+lineas_fijas,EL PROGRESO,6719.0,6719.0,0.0,2018S1
+lineas_fijas,QUETZALTENANGO,66013.0,66013.0,0.0,2018S1
+lineas_fijas,QUICHÉ,9224.0,9224.0,0.0,2018S1
+lineas_fijas,RETALHULEU,12484.0,12484.0,0.0,2018S1
+lineas_fijas,SACATEPEQUEZ,36094.0,36094.0,0.0,2018S1
+lineas_fijas,SAN MARCOS,21024.0,21024.0,0.0,2018S1
+lineas_fijas,SANTA ROSA,9046.0,9046.0,0.0,2018S1
+lineas_fijas,SOLOLA,7997.0,7997.0,0.0,2018S1
+lineas_fijas,SUCHITEPEQUEZ,20543.0,20543.0,0.0,2018S1
+lineas_fijas,TOTONICAPAN,5573.0,5573.0,0.0,2018S1
+lineas_fijas,ZACAPA,15889.0,15889.0,0.0,2018S1
+lineas_fijas,TOTAL PAÍS,2440966.0,2440966.0,0.0,2018S1
+radiobases,Alta Verapaz,,667.0,,2018S1
+radiobases,Baja Verapaz,,255.0,,2018S1
+radiobases,Chimaltenango,,810.0,,2018S1
+radiobases,Chiquimula,,627.0,,2018S1
+radiobases,Escuintla,,1346.0,,2018S1
+radiobases,Guatemala,,5564.0,,2018S1
+radiobases,Huehuetenango,,4276.0,,2018S1
+radiobases,Izabal,,422.0,,2018S1
+radiobases,Jalapa,,394.0,,2018S1
+radiobases,Jutiapa,,1112.0,,2018S1
+radiobases,El Petén,,610.0,,2018S1
+radiobases,El Progreso,,358.0,,2018S1
+radiobases,Quetzaltenango,,1356.0,,2018S1
+radiobases,Quiché,,655.0,,2018S1
+radiobases,Retalhuleu,,539.0,,2018S1
+radiobases,Sacatepéquez,,548.0,,2018S1
+radiobases,San Marcos,,1390.0,,2018S1
+radiobases,Santa Rosa,,543.0,,2018S1
+radiobases,Sololá,,354.0,,2018S1
+radiobases,Suchitepéquez,,543.0,,2018S1
+radiobases,Totonicapán,,306.0,,2018S1
+radiobases,Zacapa,,478.0,,2018S1

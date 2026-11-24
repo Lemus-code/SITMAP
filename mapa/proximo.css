@@ -1,0 +1,58 @@
+/* Modo Próximamente (datos simulados). Usa los tokens de styles.css. */
+.seg-modo em { font-style: normal; font-size: 10px; letter-spacing: 0.06em; text-transform: uppercase; padding: 1px 6px; border-radius: 999px; background: rgba(255, 255, 255, 0.12); margin-left: 4px; }
+.seg-modo button[aria-selected="true"] em { background: rgba(26, 18, 5, 0.18); }
+.app[data-modo="proximo"] .timeline, .app[data-modo="proximo"] .search, .app[data-modo="proximo"] #reset { display: none; }
+.app[data-modo="proximo"] .panel-top { border-color: rgba(242, 184, 75, 0.45); }
+
+.sim-ribbon { position: absolute; left: 50%; bottom: max(16px, env(safe-area-inset-bottom)); transform: translateX(-50%); pointer-events: none;
+  font: 700 12px var(--font-display); letter-spacing: 0.3em; color: #1a1205; background: var(--accent); padding: 7px 18px; border-radius: 999px; box-shadow: 0 8px 30px rgba(0, 0, 0, 0.45); }
+.sim-banner { border: 1px dashed rgba(242, 184, 75, 0.6); background: rgba(242, 184, 75, 0.08); color: #f5d9a3; border-radius: 12px; padding: 12px 16px; line-height: 1.5; }
+.sim-banner b { color: var(--accent); }
+.simtag { font: 600 10px var(--font-body); letter-spacing: 0.08em; text-transform: uppercase; color: var(--accent); border: 1px solid rgba(242, 184, 75, 0.5); border-radius: 999px; padding: 2px 7px; vertical-align: middle; margin-left: 6px; }
+.req { display: flex; flex-wrap: wrap; gap: 5px; }
+.req em { font-style: normal; font-size: 11px; padding: 2px 8px; border-radius: 999px; background: rgba(79, 176, 207, 0.14); color: #9fdcf0; }
+.req em.extra { background: rgba(242, 184, 75, 0.12); color: #f5cf86; }
+.req .lbl { font-size: 11px; color: var(--fg-3); margin-right: 2px; align-self: center; }
+.heat-ramp { display: grid; grid-template-columns: auto 1fr auto; gap: 8px; align-items: center; font-size: 11px; color: var(--fg-3); }
+.heat-ramp i { height: 8px; border-radius: 4px; background: linear-gradient(90deg, #1d1347, #5b1f7a, #a8306b, #e2583e, #f6a635, #fbe87d); }
+.puntos-calor { position: absolute; inset: 0; pointer-events: none; mix-blend-mode: screen; }
+
+.pt-analisis { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px; }
+@media (max-width: 1100px) { .pt-analisis { grid-template-columns: minmax(0, 1fr); } }
+.pt-card { background: var(--ink-2); border: 1px solid var(--line); border-radius: 16px; padding: 20px; display: grid; gap: 10px; align-content: start; min-width: 0; position: relative; }
+.pt-card::after { content: "SIMULADO"; position: absolute; top: 14px; right: 16px; font: 600 10px var(--font-body); letter-spacing: 0.12em; color: var(--accent); opacity: 0.8; }
+.pt-card h3 { font: 700 17px var(--font-display); margin: 0; padding-right: 80px; }
+.pt-card .preg { margin: 0; color: var(--fg-2); font-size: 13px; line-height: 1.5; }
+.pt-card .hallazgo { margin: 0; font-size: 13.5px; line-height: 1.5; }
+.pt-card .hallazgo b { color: var(--accent); }
+.pt-chart { position: relative; min-height: 150px; }
+.pt-chart svg { display: block; width: 100%; height: auto; overflow: visible; }
+.pt-chart text { fill: var(--fg-2); font: 500 11px var(--font-body); }
+.pt-chart .num-l { font: 500 11px var(--font-mono); fill: var(--fg); }
+.pt-chart .grid line { stroke: rgba(160, 185, 220, 0.12); }
+.pt-chart .ref { stroke: var(--accent); stroke-dasharray: 4 3; }
+.mini-table { width: 100%; border-collapse: collapse; font-size: 12.5px; font-variant-numeric: tabular-nums; }
+.mini-table th { text-align: left; font-weight: 500; color: var(--fg-3); font-size: 11px; padding: 4px 6px; }
+.mini-table td { padding: 5px 6px; border-top: 1px solid var(--line); }
+.mini-table .num { text-align: right; }
+#pd-extra { display: grid; gap: 12px; }
+.pd-sec { display: grid; gap: 6px; }
+.sup-list { margin: 8px 0 0; padding-left: 1.2em; line-height: 1.6; color: var(--fg-2); }
+.sup-list code { font: 500 12px var(--font-mono); color: var(--fg); }
+.badge, .simtag { justify-self: start; }
+.t-kpi .simtag { margin-left: 0; margin-top: 4px; }
+
+/* catálogo de métricas a solicitar */
+.px-tabla td { vertical-align: top; line-height: 1.45; }
+.px-tabla tbody tr { cursor: default; }
+.px-tabla tr.px-grupo td { background: rgba(242, 184, 75, 0.08); color: var(--accent); font: 600 11.5px var(--font-body); letter-spacing: 0.08em; text-transform: uppercase; padding-top: 12px; }
+.px-tabla .px-nom { font-weight: 600; color: var(--fg); min-width: 170px; }
+#pt-metricas { scroll-margin-top: 80px; }
+
+/* modo escuelas */
+.app[data-modo="escuelas"] .timeline, .app[data-modo="escuelas"] .search, .app[data-modo="escuelas"] #reset { display: none; }
+.sel-full { width: 100%; }
+.cat.chk { cursor: pointer; }
+.cat.chk input { width: 15px; height: 15px; accent-color: var(--accent); margin: 0; }
+.cat.chk i { width: 11px; height: 11px; border-radius: 50%; flex: none; }
+#epot-ley .cat i { width: 11px; height: 11px; flex: none; }

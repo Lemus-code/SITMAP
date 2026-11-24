@@ -1,0 +1,46 @@
+﻿variable,departamento,declarado,suma_municipios,diferencia,periodo
+lineas_fijas,ALTA VERAPAZ,9735.0,9735.0,0.0,2019S2
+lineas_fijas,BAJA VERAPAZ,3872.0,3872.0,0.0,2019S2
+lineas_fijas,CHIMALTENANGO,13541.0,13541.0,0.0,2019S2
+lineas_fijas,CHIQUIMULA,17742.0,17742.0,0.0,2019S2
+lineas_fijas,ESCUINTLA,33426.0,33426.0,0.0,2019S2
+lineas_fijas,GUATEMALA,1580240.0,1580240.0,0.0,2019S2
+lineas_fijas,HUEHUETENANGO,16761.0,16761.0,0.0,2019S2
+lineas_fijas,IZABAL,17357.0,17357.0,0.0,2019S2
+lineas_fijas,JALAPA,6788.0,6788.0,0.0,2019S2
+lineas_fijas,JUTIAPA,50735.0,50735.0,0.0,2019S2
+lineas_fijas,EL PETÉN,8147.0,8147.0,0.0,2019S2
+lineas_fijas,EL PROGRESO,5584.0,5584.0,0.0,2019S2
+lineas_fijas,QUETZALTENANGO,100839.0,100839.0,0.0,2019S2
+lineas_fijas,QUICHÉ,8575.0,8575.0,0.0,2019S2
+lineas_fijas,RETALHULEU,8131.0,8131.0,0.0,2019S2
+lineas_fijas,SACATEPEQUEZ,18330.0,18330.0,0.0,2019S2
+lineas_fijas,SAN MARCOS,25156.0,25156.0,0.0,2019S2
+lineas_fijas,SANTA ROSA,6485.0,6485.0,0.0,2019S2
+lineas_fijas,SOLOLA,7620.0,7620.0,0.0,2019S2
+lineas_fijas,SUCHITEPEQUEZ,11517.0,11517.0,0.0,2019S2
+lineas_fijas,TOTONICAPAN,9522.0,9522.0,0.0,2019S2
+lineas_fijas,ZACAPA,11551.0,11551.0,0.0,2019S2
+lineas_fijas,TOTAL PAÍS,1971654.0,1971654.0,0.0,2019S2
+radiobases,Alta Verapaz,,495.0,,2019S2
+radiobases,Baja Verapaz,,199.0,,2019S2
+radiobases,Chimaltenango,,402.0,,2019S2
+radiobases,Chiquimula,,343.0,,2019S2
+radiobases,Escuintla,,685.0,,2019S2
+radiobases,Guatemala,,3498.0,,2019S2
+radiobases,Huehuetenango,,2546.0,,2019S2
+radiobases,Izabal,,372.0,,2019S2
+radiobases,Jalapa,,224.0,,2019S2
+radiobases,Jutiapa,,604.0,,2019S2
+radiobases,El Petén,,534.0,,2019S2
+radiobases,El Progreso,,237.0,,2019S2
+radiobases,Quetzaltenango,,827.0,,2019S2
+radiobases,Quiché,,527.0,,2019S2
+radiobases,Retalhuleu,,330.0,,2019S2
+radiobases,Sacatepéquez,,443.0,,2019S2
+radiobases,San Marcos,,740.0,,2019S2
+radiobases,Santa Rosa,,392.0,,2019S2
+radiobases,Sololá,,283.0,,2019S2
+radiobases,Suchitepéquez,,413.0,,2019S2
+radiobases,Totonicapán,,253.0,,2019S2
+radiobases,Zacapa,,258.0,,2019S2

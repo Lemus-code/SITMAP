@@ -1,0 +1,25 @@
+{
+ "fuente_escuelas": "Giga (UNICEF/UIT), reporte de escuelas de Guatemala descargado el 2026-11-24",
+ "fuente_cobertura": "OpenCelliD (celdas observadas, licencia CC BY-SA 4.0)",
+ "generado": "2026-11-24",
+ "escuelas": 31642,
+ "registros_originales": 31642,
+ "fuera_de_limites": 31,
+ "por_categoria": {
+  "sin": 13955,
+  "3G": 10728,
+  "borde": 4618,
+  "2G": 2184,
+  "4G": 157
+ },
+ "potencial_extension": 2351,
+ "potencial_nuevo_sitio": 14040,
+ "sitios_candidatos": 937,
+ "parametros": {
+  "alcance_minimo_m": 500,
+  "extension_km": 5,
+  "sitio_radio_km": 3,
+  "sitio_min_escuelas": 5
+ },
+ "aviso": "Cobertura OBSERVADA por teléfonos (OpenCelliD), no cobertura oficial. Hay más mediciones en ciudades: una escuela sin cobertura observada puede tener señal no medida."
+}

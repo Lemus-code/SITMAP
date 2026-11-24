@@ -1,0 +1,398 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Mapa Telecom Guatemala · SIT</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@500&display=swap">
+<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="tablero.css">
+<link rel="stylesheet" href="proximo.css">
+</head>
+<body>
+<div class="app" id="app" data-vista="mapa">
+
+  <!-- ===================== VISTA MAPA ===================== -->
+  <section class="vista vista-mapa" id="vista-mapa" aria-label="Vista de mapa">
+    <div id="map" class="map" aria-label="Mapa de Guatemala por municipio"></div>
+    <div id="tip" class="tip" hidden></div>
+
+    <aside class="panel panel-left">
+      <div class="brand">
+        <span class="eyebrow">SIT · Datatón InnovaCon 2026</span>
+        <h1>Mapa telecom de Guatemala</h1>
+        <p class="question">Infraestructura y cobertura de telefonía en los 340 municipios, semestre a semestre.</p>
+      </div>
+
+      <div class="block">
+        <span class="label">Colorear por</span>
+        <div class="metrics" id="metrics" role="radiogroup" aria-label="Indicador del mapa"></div>
+        <p class="metric-desc" id="metric-desc"></p>
+      </div>
+
+      <div class="block"><div class="legend" id="legend"></div></div>
+
+      <div class="block capas">
+        <span class="label">Capas</span>
+        <label class="toggle" for="capa-celdas"><input type="checkbox" id="capa-celdas"> <span>Celdas observadas <small id="celdas-n">(OpenCelliD)</small></span></label>
+        <div class="capa-opts" id="celdas-opts" hidden>
+          <div class="seg seg-sm" role="radiogroup" aria-label="Color de las celdas">
+            <button type="button" data-modo="tec" aria-checked="true">Tecnología</button>
+            <button type="button" data-modo="op" aria-checked="false">Operador</button>
+          </div>
+          <div class="cats" id="leyenda-celdas"></div>
+          <p class="fine">Posiciones estimadas con mediciones de teléfonos, no ubicación confirmada de torres. Donde no hay puntos puede haber servicio sin medir. Al acercarte se dibuja el alcance estimado de cada celda.</p>
+          <p class="fine attrib">Datos de celdas: <a href="https://opencellid.org" target="_blank" rel="noopener">OpenCelliD</a>, licencia <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>.</p>
+        </div>
+        <label class="toggle" for="capa-lugares"><input type="checkbox" id="capa-lugares"> <span>Lugares poblados <small>(27,351 · 2026)</small></span></label>
+        <div class="cats capa-opts" id="leyenda-lugares" hidden></div>
+      </div>
+
+      <div class="block kpis" id="kpis"></div>
+      <p class="caveat" id="caveat" hidden></p>
+    </aside>
+  </section>
+
+  <!-- ===================== VISTA TABLERO ===================== -->
+  <section class="vista vista-tablero" id="vista-tablero" aria-label="Vista de tablero" hidden>
+    <div class="tab-wrap">
+      <header class="tab-head">
+        <span class="eyebrow">SIT · Datatón InnovaCon 2026</span>
+        <h1>Tablero telecom por municipio</h1>
+        <p class="question">La SIT necesita saber la calidad del servicio de telefonía e internet para decidir qué y dónde auditar en el territorio nacional.</p>
+        <p class="lead" id="t-lead">—</p>
+      </header>
+
+      <div class="t-kpis" id="t-kpis"></div>
+
+      <section class="t-card" id="t-idm">
+        <div class="t-card-head">
+          <div>
+            <h2>IDM · Índice de desarrollo por municipio</h2>
+            <p class="sub">0 a 100. Combina antenas por habitante, líneas fijas por habitante y competencia en telefonía fija, comparando cada municipio con los demás del mismo semestre. Más bajo = menos desarrollo = auditar primero.</p>
+          </div>
+          <div class="t-tools">
+            <label class="mini-search"><span class="sr">Filtrar municipio</span><input id="t-filtro" type="search" placeholder="Filtrar municipio…"></label>
+          </div>
+        </div>
+        <div class="t-tablewrap">
+          <table class="t-table" id="t-tabla">
+            <thead>
+              <tr>
+                <th data-sort="rank" class="num">Puesto</th>
+                <th data-sort="municipio">Municipio</th>
+                <th data-sort="idm" class="num">IDM</th>
+                <th data-sort="antenas" class="num">Antenas / 10 mil hab.</th>
+                <th data-sort="lineas" class="num">Líneas fijas / 100 hab.</th>
+                <th data-sort="ops" class="num">Operadores fijos</th>
+                <th data-sort="principal">Operador fijo principal</th>
+                <th data-sort="celdas" class="num">Celdas observadas</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+        <button type="button" class="btn" id="t-mas">Ver todos los municipios</button>
+      </section>
+
+      <div class="t-grid">
+        <section class="t-card" id="t-deptos">
+          <h2>IDM promedio por departamento</h2>
+          <p class="sub">Promedio simple del IDM de sus municipios en el semestre elegido.</p>
+          <div class="t-chart" id="t-chart-deptos"></div>
+        </section>
+        <section class="t-card" id="t-serie">
+          <h2>Infraestructura nacional por semestre</h2>
+          <p class="sub">Suma de los municipios según los boletines de la SIT. Los puntos marcados indican cambios bruscos en la forma de contar radiobases.</p>
+          <span class="label">Radiobases móviles</span>
+          <div class="t-chart" id="t-chart-rbs"></div>
+          <span class="label">Líneas fijas en operación</span>
+          <div class="t-chart" id="t-chart-fx"></div>
+        </section>
+      </div>
+
+      <section class="t-card" id="t-celdas">
+        <h2>Celdas observadas por teléfonos (OpenCelliD)</h2>
+        <p class="sub" id="t-celdas-sub">—</p>
+        <div class="t-grid3">
+          <div><span class="label">Por tecnología</span><div class="bars" id="t-celdas-tec"></div></div>
+          <div><span class="label">Por operador (código de red)</span><div class="bars" id="t-celdas-op"></div></div>
+          <div><span class="label">Cobertura de la muestra</span><div class="t-facts" id="t-celdas-cob"></div></div>
+        </div>
+        <p class="fine">Posiciones estimadas por mediciones voluntarias de teléfonos, no ubicación confirmada de torres; una torre puede tener varias celdas. Hay más mediciones en zonas urbanas: la falta de celdas en un municipio no significa falta de servicio. Datos de celdas: <a href="https://opencellid.org" target="_blank" rel="noopener">OpenCelliD</a>, licencia <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>.</p>
+      </section>
+
+      <details class="t-card metodo">
+        <summary>Cómo se calcula y qué le falta a estos datos</summary>
+        <ul>
+          <li><b>Fuente principal:</b> Boletines Estadísticos de Telefonía de la SIT, 2014–2026 (datos que reportan los operadores cada semestre). Un semestre se usa solo si sus totales por departamento cuadran.</li>
+          <li><b>IDM:</b> 100 menos el promedio de tres posiciones relativas (0 = el mejor del país, 100 = el peor): antenas por 10 mil habitantes, líneas fijas por 100 habitantes y concentración del mercado fijo (índice Herfindahl). Si un municipio no reporta líneas fijas, el IDM usa solo las antenas. Es relativo: compara municipios, no certifica un nivel de servicio.</li>
+          <li><b>No mide calidad:</b> velocidad, caídas, latencia o capacidad no están en los boletines. El modo Próximamente muestra, con datos simulados, qué se podría analizar si los operadores los entregaran.</li>
+          <li><b>Radiobases:</b> la serie nacional tiene saltos por cambios de método; compare semestres con cautela.</li>
+          <li><b>Límites:</b> KMZ municipal oficial; los 7 municipios creados desde 2014 usan un borde aproximado con su municipio de origen. Población: proyección 2024.</li>
+        </ul>
+      </details>
+    </div>
+  </section>
+
+  <!-- ===================== ESCUELAS (CONECTIVIDAD ESTRATÉGICA) ===================== -->
+  <section class="vista vista-mapa" id="vista-emapa" aria-label="Mapa de conectividad de escuelas" hidden>
+    <div id="emap" class="map"></div>
+    <div id="etip" class="tip" hidden></div>
+    <aside class="panel panel-left">
+      <div class="brand">
+        <span class="eyebrow">Conectividad estratégica</span>
+        <h1>Escuelas y cobertura móvil</h1>
+        <p class="question">31,642 escuelas (Giga · UNICEF/UIT) cruzadas con las celdas que los teléfonos han observado (OpenCelliD). Cobertura <b>observada</b>, no oficial.</p>
+      </div>
+      <div class="block">
+        <label class="label" for="enivel">Nivel educativo</label>
+        <select id="enivel" class="sel-full"><option value="">Todos los niveles</option><option>Preprimaria</option><option>Primaria</option><option>Secundaria</option></select>
+      </div>
+      <div class="block">
+        <span class="label">Colorear municipios por</span>
+        <div class="metrics" id="emetrics" role="radiogroup" aria-label="Indicador de escuelas"></div>
+      </div>
+      <div class="block"><div class="legend" id="elegend"></div></div>
+      <div class="block capas">
+        <span class="label">Capas</span>
+        <label class="toggle" for="ecapa-escuelas"><input type="checkbox" id="ecapa-escuelas"> <span>Escuelas por cobertura</span></label>
+        <div class="capa-opts cats" id="ecats"></div>
+        <label class="toggle" for="ecapa-pot"><input type="checkbox" id="ecapa-pot"> <span>Escuelas con potencial</span></label>
+        <div class="capa-opts cats" id="epot-ley"></div>
+        <label class="toggle" for="ecapa-sitios"><input type="checkbox" id="ecapa-sitios"> <span>Sitios candidatos</span></label>
+        <div class="capa-opts"><p class="fine" id="esitios-ley"></p></div>
+        <label class="toggle" for="ecapa-celdas"><input type="checkbox" id="ecapa-celdas"> <span>Celdas observadas <small>(OpenCelliD)</small></span></label>
+      </div>
+      <div class="block kpis" id="ekpis"></div>
+      <p class="fine">Cobertura: celda observada a la distancia de su alcance estimado (mínimo 500 m). "Borde": a menos del doble del alcance. Hay más mediciones en ciudades: "sin cobertura observada" puede tener señal sin medir.</p>
+      <p class="fine attrib">Escuelas: <a href="https://giga.global" target="_blank" rel="noopener">Giga</a> (UNICEF/UIT). Celdas: <a href="https://opencellid.org" target="_blank" rel="noopener">OpenCelliD</a>, CC BY-SA 4.0.</p>
+    </aside>
+  </section>
+
+  <section class="vista vista-tablero" id="vista-etablero" aria-label="Tablero de conectividad de escuelas" hidden>
+    <div class="tab-wrap">
+      <header class="tab-head">
+        <span class="eyebrow">Conectividad estratégica</span>
+        <h1>Escuelas y cobertura móvil</h1>
+        <p class="question">¿Qué escuelas pueden conectarse hoy por red móvil, cuáles están al borde y dónde haría falta un sitio nuevo?</p>
+        <p class="lead" id="et-lead">—</p>
+      </header>
+      <div class="t-kpis" id="et-kpis"></div>
+      <div class="t-grid">
+        <section class="t-card"><h2>Escuelas por cobertura observada</h2><p class="sub">Mejor tecnología de una celda observada que alcanza a la escuela.</p><div class="t-chart" id="et-cat"></div></section>
+        <section class="t-card"><h2>% de escuelas con cobertura por departamento</h2><p class="sub">4G, 3G o 2G observados, sobre el total de escuelas del departamento.</p><div class="t-chart" id="et-dep"></div></section>
+      </div>
+      <section class="t-card">
+        <h2>Sitios candidatos con más escuelas</h2>
+        <p class="sub">Puntos donde una radiobase nueva alcanzaría 5 o más escuelas sin cobertura observada en un radio de 3 km, lejos (más de 5 km) de toda celda observada. Propuestas para verificar en campo.</p>
+        <div class="t-tablewrap"><table class="t-table" id="et-sitios"><thead><tr><th>Sitio</th><th>Municipio</th><th class="num">Escuelas a 3 km</th><th class="num">Celda más cercana</th></tr></thead><tbody></tbody></table></div>
+      </section>
+      <section class="t-card">
+        <div class="t-card-head">
+          <div><h2>Municipios</h2><p class="sub">Toque una fila para ver su ficha.</p></div>
+          <label class="mini-search"><span class="sr">Filtrar municipio</span><input id="et-filtro" type="search" placeholder="Filtrar municipio…"></label>
+        </div>
+        <div class="t-tablewrap">
+          <table class="t-table" id="et-tabla">
+            <thead><tr>
+              <th data-sort="municipio">Municipio</th><th data-sort="total" class="num">Escuelas</th><th data-sort="pct_cubiertas" class="num">% con cobertura</th>
+              <th data-sort="4G" class="num">4G</th><th data-sort="3G" class="num">3G</th><th data-sort="2G" class="num">Solo 2G</th><th data-sort="borde" class="num">Borde</th>
+              <th data-sort="sin" class="num">Sin cobertura</th><th data-sort="pot_extension" class="num">Potencial extensión</th><th data-sort="pot_nuevo" class="num">Potencial sitio nuevo</th>
+            </tr></thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </section>
+      <details class="t-card metodo">
+        <summary>Cómo se calcula y qué le falta</summary>
+        <ul>
+          <li><b>Escuelas:</b> reporte de Giga (UNICEF/UIT) para Guatemala, 33,099 registros; 31,642 escuelas únicas por su identificador. No incluye datos de conectividad de cada escuela.</li>
+          <li><b>Cobertura:</b> una escuela está cubierta si alguna celda observada por OpenCelliD está a una distancia menor que su alcance estimado (mínimo 500 m). Se toma la mejor tecnología: 4G, 3G o solo 2G. "Borde": fuera del alcance pero a menos del doble.</li>
+          <li><b>Potencial de extensión:</b> escuela sin cobertura con una celda observada a 5 km o menos. <b>Sitio nuevo:</b> grupos de 5 o más escuelas sin cobertura a más de 5 km de toda celda, cubiertos por un punto en un radio de 3 km.</li>
+          <li><b>Limitación principal:</b> OpenCelliD tiene muchas más mediciones en ciudades. En municipios rurales "sin cobertura observada" no prueba que no haya señal; la ficha muestra las radiobases que reporta la SIT para contrastar.</li>
+        </ul>
+      </details>
+    </div>
+  </section>
+
+  <aside class="panel panel-right" id="edetail" hidden>
+    <button class="close" id="eclose" aria-label="Cerrar ficha">×</button>
+    <span class="eyebrow" id="ed-sub"></span>
+    <h2 id="ed-nombre"></h2>
+    <div class="rank" id="ed-estado"></div>
+    <dl class="facts" id="ed-facts"></dl>
+    <div id="ed-extra" class="pd-sec"></div>
+  </aside>
+
+  <!-- ===================== PRÓXIMAMENTE (DATOS SIMULADOS) ===================== -->
+  <section class="vista vista-mapa" id="vista-pmapa" aria-label="Mapa con datos simulados" hidden>
+    <div id="pmap" class="map"></div>
+    <div id="ptip" class="tip" hidden></div>
+    <div class="sim-ribbon" aria-hidden="true">DATOS SIMULADOS</div>
+    <aside class="panel panel-left">
+      <div class="brand">
+        <span class="badge">Próximamente · datos simulados</span>
+        <h1>Lo que la SIT podría ver</h1>
+        <p class="question">Si los operadores entregaran métricas por radiobase. Todas las cifras de esta vista son <b>simuladas</b> para mostrar el tipo de análisis; no describen la red real.</p>
+      </div>
+      <div class="block">
+        <span class="label">Colorear municipios por <small>· simulado</small></span>
+        <div class="metrics" id="pmetrics" role="radiogroup" aria-label="Indicador simulado"></div>
+        <p class="metric-desc" id="pmetric-desc"></p>
+        <div class="req" id="pmetric-req"></div>
+      </div>
+      <div class="block"><div class="legend" id="plegend"></div></div>
+      <div class="block capas">
+        <span class="label">Capas</span>
+        <label class="toggle" for="pcapa-calor"><input type="checkbox" id="pcapa-calor" checked> <span>Mapa de calor de cobertura</span></label>
+        <div class="capa-opts" id="pcalor-opts">
+          <div class="seg seg-sm" role="radiogroup" aria-label="Fuente del mapa de calor">
+            <button type="button" data-calor="obs" aria-checked="true">Observada · real</button>
+            <button type="button" data-calor="sim" aria-checked="false">Declarada · simulada</button>
+          </div>
+          <div class="heat-ramp"><span>Menos señal</span><i></i><span>Más señal</span></div>
+          <p class="fine" id="pcalor-nota"></p>
+        </div>
+        <label class="toggle" for="pcapa-sitios"><input type="checkbox" id="pcapa-sitios"> <span>Radiobases simuladas <small id="psitios-n"></small></span></label>
+        <div class="capa-opts" id="psitios-opts" hidden>
+          <div class="cats" id="psitios-leyenda"></div>
+          <p class="fine">Posición: real (agrupando celdas de OpenCelliD) o simulada en lugares poblados donde no hay mediciones. Todo lo demás es simulado. Toque un punto para ver su ficha.</p>
+        </div>
+      </div>
+      <div class="block">
+        <button type="button" class="link-btn" id="pir-metricas">Ver la lista de métricas a solicitar →</button>
+      </div>
+      <p class="fine attrib">Celdas observadas: <a href="https://opencellid.org" target="_blank" rel="noopener">OpenCelliD</a>, licencia <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>.</p>
+    </aside>
+  </section>
+
+  <section class="vista vista-tablero" id="vista-ptablero" aria-label="Tablero con datos simulados" hidden>
+    <div class="tab-wrap">
+      <div class="sim-banner"><b>Datos simulados.</b> Esta versión muestra qué análisis podría hacer la SIT si los operadores entregaran métricas por radiobase. Las cifras no describen la red real; se generaron con supuestos explícitos (ver al final).</div>
+      <header class="tab-head">
+        <span class="badge">Próximamente · datos simulados</span>
+        <h1>Tablero de capacidad y calidad por radiobase</h1>
+        <p class="question">Versión que podría llegar a ser: de medir cuánta infraestructura hay a medir cuánto rinde y cómo falla.</p>
+      </header>
+      <section class="t-card" id="pt-metricas">
+        <div class="t-card-head">
+          <div>
+            <span class="badge">Datos que hoy no existen</span>
+            <h2 id="pt-metricas-tit">Métricas a solicitar</h2>
+            <p class="sub">Lo que la SIT necesitaría pedir (sobre todo a los operadores) para pasar de contar infraestructura a medir calidad. Ninguna de estas métricas está disponible hoy; los análisis simulados de abajo muestran para qué servirían.</p>
+          </div>
+        </div>
+        <div class="t-tablewrap" style="max-height:none">
+          <table class="t-table px-tabla" id="pt-metricas-tabla">
+            <thead><tr><th>#</th><th>Métrica</th><th>Qué se pide</th><th>Nivel de detalle</th><th>Frecuencia</th><th>Quién la tiene</th><th>Para qué sirve</th></tr></thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </section>
+      <div class="t-kpis" id="pt-kpis"></div>
+      <div id="pt-analisis" class="pt-analisis"></div>
+      <section class="t-card" id="pt-tabla-card">
+        <div class="t-card-head">
+          <div><h2>Municipios <small class="simtag">simulado</small></h2><p class="sub">Indicadores agregados de las radiobases simuladas de cada municipio. Toque una fila para ver su ficha.</p></div>
+          <label class="mini-search"><span class="sr">Filtrar municipio</span><input id="pt-filtro" type="search" placeholder="Filtrar municipio…"></label>
+        </div>
+        <div class="t-tablewrap">
+          <table class="t-table" id="pt-tabla">
+            <thead><tr>
+              <th data-sort="municipio">Municipio</th>
+              <th data-sort="sitios" class="num">Radiobases</th>
+              <th data-sort="usuarios_por_sitio" class="num">Usuarios por radiobase</th>
+              <th data-sort="ocupacion_pico_pct" class="num">Ocupación pico</th>
+              <th data-sort="uso_prom_usuario_kbps" class="num">Uso por usuario</th>
+              <th data-sort="latencia_mediana_ms" class="num">Latencia</th>
+              <th data-sort="fallas_sesion_datos" class="num">Sesiones cortadas</th>
+              <th data-sort="gb_usuario_mes" class="num">GB por usuario/mes</th>
+              <th data-sort="posibles_duplicados" class="num">Posibles duplicados</th>
+            </tr></thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </section>
+      <details class="t-card metodo" id="pt-supuestos">
+        <summary>Cómo se simularon estos datos</summary>
+        <div id="pt-supuestos-body"></div>
+      </details>
+    </div>
+  </section>
+
+  <aside class="panel panel-right" id="pdetail" hidden>
+    <button class="close" id="pclose" aria-label="Cerrar ficha">×</button>
+    <span class="badge">Simulado</span>
+    <span class="eyebrow" id="pd-sub"></span>
+    <h2 id="pd-nombre"></h2>
+    <dl class="facts" id="pd-facts"></dl>
+    <div id="pd-extra"></div>
+  </aside>
+
+  <!-- ===================== COMPARTIDO ===================== -->
+  <div class="panel panel-top">
+    <div class="seg seg-modo" role="tablist" aria-label="Versión">
+      <button type="button" role="tab" data-modo="actual" aria-selected="true">Actual</button>
+      <button type="button" role="tab" data-modo="escuelas" aria-selected="false">Escuelas</button>
+      <button type="button" role="tab" data-modo="proximo" aria-selected="false">Próximamente <em>simulado</em></button>
+    </div>
+    <div class="seg" role="tablist" aria-label="Vista">
+      <button type="button" role="tab" data-vista="mapa" aria-selected="true">
+        <svg viewBox="0 0 20 20" aria-hidden="true"><path d="M2 5l5-2 6 2 5-2v12l-5 2-6-2-5 2z M7 3v12 M13 5v12" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/></svg>Mapa</button>
+      <button type="button" role="tab" data-vista="tablero" aria-selected="false">
+        <svg viewBox="0 0 20 20" aria-hidden="true"><path d="M3 3h6v6H3zM11 3h6v4h-6zM11 9h6v8h-6zM3 11h6v6H3z" fill="none" stroke="currentColor" stroke-width="1.6"/></svg>Tablero</button>
+    </div>
+    <div class="search">
+      <svg viewBox="0 0 20 20" aria-hidden="true"><circle cx="8.5" cy="8.5" r="5.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M13 13l4 4" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+      <input id="search" type="search" placeholder="Buscar municipio…" autocomplete="off" aria-label="Buscar municipio">
+      <div id="results" class="results" hidden></div>
+    </div>
+    <select id="depto" aria-label="Departamento"><option value="">Todo el país</option></select>
+    <button id="reset" class="icon-btn" title="Ver todo el país" aria-label="Ver todo el país">
+      <svg viewBox="0 0 20 20" aria-hidden="true"><path d="M3 8V3h5M17 8V3h-5M3 12v5h5M17 12v5h-5" fill="none" stroke="currentColor" stroke-width="1.8"/></svg>
+    </button>
+  </div>
+
+  <aside class="panel panel-right" id="detail" hidden>
+    <button class="close" id="close-detail" aria-label="Cerrar ficha">×</button>
+    <span class="eyebrow" id="d-depto"></span>
+    <h2 id="d-nombre"></h2>
+    <div class="rank" id="d-rank"></div>
+    <dl class="facts" id="d-facts"></dl>
+    <div class="spark-wrap">
+      <span class="label" id="d-spark-title"></span>
+      <svg id="d-spark" class="spark" role="img"></svg>
+    </div>
+    <div>
+      <span class="label">Líneas fijas por operador</span>
+      <div class="bars" id="d-ops"></div>
+    </div>
+    <div>
+      <span class="label">Celdas observadas (OpenCelliD)</span>
+      <div class="bars" id="d-celdas"></div>
+    </div>
+    <button type="button" class="link-btn" id="d-ver-mapa" data-ir="mapa">Ver en el mapa →</button>
+  </aside>
+
+  <div class="panel timeline">
+    <button id="play" class="play" aria-label="Reproducir la serie">
+      <svg viewBox="0 0 20 20" aria-hidden="true"><path id="play-icon" d="M6 4l10 6-10 6z" fill="currentColor"/></svg>
+    </button>
+    <div class="tl-body">
+      <div class="tl-head"><span class="tl-period" id="period-label">—</span><span class="tl-hint">← → para cambiar de semestre</span></div>
+      <div class="ticks" id="ticks"></div>
+    </div>
+  </div>
+
+  <div id="loading" class="loading">Cargando datos de la SIT…</div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
+<script src="app.js"></script>
+<script src="proximo.js"></script>
+<script src="escuelas.js"></script>
+</body>
+</html>

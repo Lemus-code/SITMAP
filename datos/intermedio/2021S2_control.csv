@@ -1,0 +1,46 @@
+﻿variable,departamento,declarado,suma_municipios,diferencia,periodo
+lineas_fijas,ALTA VERAPAZ,17124.0,17124.0,0.0,2021S2
+lineas_fijas,BAJA VERAPAZ,6325.0,6325.0,0.0,2021S2
+lineas_fijas,CHIMALTENANGO,17779.0,17779.0,0.0,2021S2
+lineas_fijas,CHIQUIMULA,22609.0,22609.0,0.0,2021S2
+lineas_fijas,ESCUINTLA,40357.0,40357.0,0.0,2021S2
+lineas_fijas,GUATEMALA,1744456.0,1744456.0,0.0,2021S2
+lineas_fijas,HUEHUETENANGO,29407.0,29407.0,0.0,2021S2
+lineas_fijas,IZABAL,25738.0,25738.0,0.0,2021S2
+lineas_fijas,JALAPA,9966.0,9966.0,0.0,2021S2
+lineas_fijas,JUTIAPA,68226.0,68226.0,0.0,2021S2
+lineas_fijas,EL PETÉN,13822.0,13822.0,0.0,2021S2
+lineas_fijas,EL PROGRESO,9374.0,9374.0,0.0,2021S2
+lineas_fijas,QUETZALTENANGO,142745.0,142745.0,0.0,2021S2
+lineas_fijas,QUICHÉ,16411.0,16411.0,0.0,2021S2
+lineas_fijas,RETALHULEU,13672.0,13672.0,0.0,2021S2
+lineas_fijas,SACATEPEQUEZ,28016.0,28016.0,0.0,2021S2
+lineas_fijas,SAN MARCOS,38953.0,38953.0,0.0,2021S2
+lineas_fijas,SANTA ROSA,12023.0,12023.0,0.0,2021S2
+lineas_fijas,SOLOLA,11952.0,11952.0,0.0,2021S2
+lineas_fijas,SUCHITEPEQUEZ,18299.0,18299.0,0.0,2021S2
+lineas_fijas,TOTONICAPAN,15611.0,15611.0,0.0,2021S2
+lineas_fijas,ZACAPA,16778.0,16778.0,0.0,2021S2
+lineas_fijas,TOTAL PAÍS,2319643.0,2319643.0,0.0,2021S2
+radiobases,Alta Verapaz,,542.0,,2021S2
+radiobases,Baja Verapaz,,229.0,,2021S2
+radiobases,Chimaltenango,,443.0,,2021S2
+radiobases,Chiquimula,,373.0,,2021S2
+radiobases,Escuintla,,701.0,,2021S2
+radiobases,Guatemala,,3257.0,,2021S2
+radiobases,Huehuetenango,,2495.0,,2021S2
+radiobases,Izabal,,373.0,,2021S2
+radiobases,Jalapa,,249.0,,2021S2
+radiobases,Jutiapa,,623.0,,2021S2
+radiobases,El Petén,,575.0,,2021S2
+radiobases,El Progreso,,263.0,,2021S2
+radiobases,Quetzaltenango,,790.0,,2021S2
+radiobases,Quiché,,549.0,,2021S2
+radiobases,Retalhuleu,,340.0,,2021S2
+radiobases,Sacatepéquez,,429.0,,2021S2
+radiobases,San Marcos,,725.0,,2021S2
+radiobases,Santa Rosa,,440.0,,2021S2
+radiobases,Sololá,,286.0,,2021S2
+radiobases,Suchitepéquez,,445.0,,2021S2
+radiobases,Totonicapán,,254.0,,2021S2
+radiobases,Zacapa,,259.0,,2021S2

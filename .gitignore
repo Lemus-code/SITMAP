@@ -1,0 +1,17 @@
+# Fuentes crudas (se descargan aparte; ver README)
+fuentes/
+KMZ/
+escuelas/
+*.csv.gz
+piloto-dashboard/
+
+# Material del evento y salidas que no son parte de la app
+*.pdf
+datos/dashboard/
+
+# Entorno local
+.claude/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

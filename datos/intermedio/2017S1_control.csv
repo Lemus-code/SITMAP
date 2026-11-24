@@ -1,0 +1,46 @@
+﻿variable,departamento,declarado,suma_municipios,diferencia,periodo
+lineas_fijas,ALTA VERAPAZ,13578.0,13578.0,0.0,2017S1
+lineas_fijas,BAJA VERAPAZ,5763.0,5763.0,0.0,2017S1
+lineas_fijas,CHIMALTENANGO,20989.0,20989.0,0.0,2017S1
+lineas_fijas,CHIQUIMULA,18174.0,18174.0,0.0,2017S1
+lineas_fijas,ESCUINTLA,45511.0,45511.0,0.0,2017S1
+lineas_fijas,GUATEMALA,2196610.0,2196610.0,0.0,2017S1
+lineas_fijas,HUEHUETENANGO,22285.0,22285.0,0.0,2017S1
+lineas_fijas,IZABAL,24193.0,24193.0,0.0,2017S1
+lineas_fijas,JALAPA,8225.0,8225.0,0.0,2017S1
+lineas_fijas,JUTIAPA,13828.0,13828.0,0.0,2017S1
+lineas_fijas,EL PETÉN,9310.0,9310.0,0.0,2017S1
+lineas_fijas,EL PROGRESO,6382.0,6382.0,0.0,2017S1
+lineas_fijas,QUETZALTENANGO,64953.0,64953.0,0.0,2017S1
+lineas_fijas,QUICHÉ,8266.0,8266.0,0.0,2017S1
+lineas_fijas,RETALHULEU,11410.0,11410.0,0.0,2017S1
+lineas_fijas,SACATEPEQUEZ,35435.0,35435.0,0.0,2017S1
+lineas_fijas,SAN MARCOS,21235.0,21235.0,0.0,2017S1
+lineas_fijas,SANTA ROSA,9067.0,9067.0,0.0,2017S1
+lineas_fijas,SOLOLA,7353.0,7353.0,0.0,2017S1
+lineas_fijas,SUCHITEPEQUEZ,20837.0,20837.0,0.0,2017S1
+lineas_fijas,TOTONICAPAN,6394.0,6394.0,0.0,2017S1
+lineas_fijas,ZACAPA,13813.0,13813.0,0.0,2017S1
+lineas_fijas,TOTAL PAÍS,2583611.0,2583611.0,0.0,2017S1
+radiobases,Alta Verapaz,,697.0,,2017S1
+radiobases,Baja Verapaz,,274.0,,2017S1
+radiobases,Chimaltenango,,631.0,,2017S1
+radiobases,Chiquimula,,477.0,,2017S1
+radiobases,Escuintla,,1228.0,,2017S1
+radiobases,Guatemala,,7475.0,,2017S1
+radiobases,Huehuetenango,,1129.0,,2017S1
+radiobases,Izabal,,610.0,,2017S1
+radiobases,Jalapa,,356.0,,2017S1
+radiobases,Jutiapa,,696.0,,2017S1
+radiobases,El Petén,,768.0,,2017S1
+radiobases,El Progreso,,328.0,,2017S1
+radiobases,Quetzaltenango,,1167.0,,2017S1
+radiobases,Quiché,,683.0,,2017S1
+radiobases,Retalhuleu,,472.0,,2017S1
+radiobases,Sacatepéquez,,567.0,,2017S1
+radiobases,San Marcos,,1014.0,,2017S1
+radiobases,Santa Rosa,,586.0,,2017S1
+radiobases,Sololá,,382.0,,2017S1
+radiobases,Suchitepéquez,,629.0,,2017S1
+radiobases,Totonicapán,,334.0,,2017S1
+radiobases,Zacapa,,395.0,,2017S1

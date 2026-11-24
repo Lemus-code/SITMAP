@@ -1,0 +1,5 @@
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SANTA ROSA / SANTA ROSA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SANTA ROSA / BARBERENA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SANTA ROSA / CASILLAS
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SANTA ROSA / CHIQUIMULILLA
+Anexo B (tabla) p.47: cifra 14640 sin fila libre en y=689

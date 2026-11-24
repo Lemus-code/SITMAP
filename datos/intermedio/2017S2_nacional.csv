@@ -1,0 +1,108 @@
+﻿tabla,operador,indicador,valor,unidad,periodo
+Telefonía Fija: Líneas en Operación,Teléfonos del Norte,lineas_fijas,217.0,líneas,2017S2
+Telefonía Fija: Líneas en Operación,Teléfonos del Norte,participacion_lineas_fijas,0.0088,%,2017S2
+Telefonía Fija: Líneas en Operación,A-Tel,lineas_fijas,6084.0,líneas,2017S2
+Telefonía Fija: Líneas en Operación,A-Tel,participacion_lineas_fijas,0.25,%,2017S2
+Telefonía Fija: Líneas en Operación,Guatel,lineas_fijas,0.0,líneas,2017S2
+Telefonía Fija: Líneas en Operación,Guatel,participacion_lineas_fijas,0.0,%,2017S2
+Telefonía Fija: Líneas en Operación,Cablenet,lineas_fijas,69383.0,líneas,2017S2
+Telefonía Fija: Líneas en Operación,Cablenet,participacion_lineas_fijas,2.82,%,2017S2
+Telefonía Fija: Líneas en Operación,Liberty (Columbus),lineas_fijas,2.0,líneas,2017S2
+Telefonía Fija: Líneas en Operación,Liberty (Columbus),participacion_lineas_fijas,0.0,%,2017S2
+Telefonía Fija: Líneas en Operación,Telefónica (Movistar),lineas_fijas,121994.0,líneas,2017S2
+Telefonía Fija: Líneas en Operación,Telefónica (Movistar),participacion_lineas_fijas,4.96,%,2017S2
+Telefonía Fija: Líneas en Operación,Comcel (Tigo),lineas_fijas,238127.0,líneas,2017S2
+Telefonía Fija: Líneas en Operación,Comcel (Tigo),participacion_lineas_fijas,9.68,%,2017S2
+Telefonía Fija: Líneas en Operación,Telgua (Claro),lineas_fijas,2022659.0,líneas,2017S2
+Telefonía Fija: Líneas en Operación,Telgua (Claro),participacion_lineas_fijas,82.18,%,2017S2
+Telefonía Fija: Líneas en Operación,TOTAL,lineas_fijas,2461109.0,líneas,2017S2
+Telefonía Fija: Líneas en Operación,TOTAL,participacion_lineas_fijas,100.0,%,2017S2
+Telefonía Móvil: Usuarios en Operación,Telefónica (Movistar),usuarios_moviles,4124355.0,usuarios,2017S2
+Telefonía Móvil: Usuarios en Operación,Telefónica (Movistar),participacion_usuarios_moviles,20.64,%,2017S2
+Telefonía Móvil: Usuarios en Operación,Comcel (Tigo),usuarios_moviles,10435379.0,usuarios,2017S2
+Telefonía Móvil: Usuarios en Operación,Comcel (Tigo),participacion_usuarios_moviles,52.21,%,2017S2
+Telefonía Móvil: Usuarios en Operación,Telgua (Claro),usuarios_moviles,5426748.0,usuarios,2017S2
+Telefonía Móvil: Usuarios en Operación,Telgua (Claro),participacion_usuarios_moviles,27.15,%,2017S2
+Telefonía Móvil: Usuarios en Operación,TOTAL,usuarios_moviles,19986482.0,usuarios,2017S2
+Telefonía Móvil: Usuarios en Operación,TOTAL,participacion_usuarios_moviles,100.0,%,2017S2
+Usuarios Móviles Crédito por Operador,Telefónica (Movistar),usuarios_pospago,221440.0,usuarios,2017S2
+Usuarios Móviles Crédito por Operador,Telefónica (Movistar),participacion_pospago,19.03,%,2017S2
+Usuarios Móviles Crédito por Operador,Comcel (Tigo),usuarios_pospago,612881.0,usuarios,2017S2
+Usuarios Móviles Crédito por Operador,Comcel (Tigo),participacion_pospago,52.68,%,2017S2
+Usuarios Móviles Crédito por Operador,Telgua (Claro),usuarios_pospago,329151.0,usuarios,2017S2
+Usuarios Móviles Crédito por Operador,Telgua (Claro),participacion_pospago,28.29,%,2017S2
+Usuarios Móviles Crédito por Operador,TOTAL,usuarios_pospago,1163472.0,usuarios,2017S2
+Usuarios Móviles Crédito por Operador,TOTAL,participacion_pospago,100.0,%,2017S2
+Usuarios Móviles Prepago por Operador,Telefónica (Movistar),usuarios_prepago,3902915.0,usuarios,2017S2
+Usuarios Móviles Prepago por Operador,Telefónica (Movistar),participacion_prepago,20.73,%,2017S2
+Usuarios Móviles Prepago por Operador,Comcel (Tigo),usuarios_prepago,9822498.0,usuarios,2017S2
+Usuarios Móviles Prepago por Operador,Comcel (Tigo),participacion_prepago,52.18,%,2017S2
+Usuarios Móviles Prepago por Operador,Telgua (Claro),usuarios_prepago,5097597.0,usuarios,2017S2
+Usuarios Móviles Prepago por Operador,Telgua (Claro),participacion_prepago,27.08,%,2017S2
+Usuarios Móviles Prepago por Operador,TOTAL,usuarios_prepago,18823010.0,usuarios,2017S2
+Usuarios Móviles Prepago por Operador,TOTAL,participacion_prepago,100.0,%,2017S2
+Red de Telefonía Fija: Tráfico Nacional,Teléfonos del Norte,trafico_fijo_a_moviles_min,176360.48,minutos,2017S2
+Red de Telefonía Fija: Tráfico Nacional,Teléfonos del Norte,trafico_fijo_a_fijas_min,36758.77,minutos,2017S2
+Red de Telefonía Fija: Tráfico Nacional,Teléfonos del Norte,trafico_fijo_on_net_min,11541.73,minutos,2017S2
+Red de Telefonía Fija: Tráfico Nacional,Teléfonos del Norte,trafico_fijo_total_min,224660.98,minutos,2017S2
+Red de Telefonía Fija: Tráfico Nacional,Teléfonos del Norte,participacion_trafico_fijo,0.01424,%,2017S2
+Red de Telefonía Fija: Tráfico Nacional,A-Tel,trafico_fijo_a_moviles_min,1166655.58,minutos,2017S2
+Red de Telefonía Fija: Tráfico Nacional,A-Tel,trafico_fijo_a_fijas_min,235290.52,minutos,2017S2
+Red de Telefonía Fija: Tráfico Nacional,A-Tel,trafico_fijo_on_net_min,130333.73,minutos,2017S2
+Red de Telefonía Fija: Tráfico Nacional,A-Tel,trafico_fijo_total_min,1532279.83,minutos,2017S2
+Red de Telefonía Fija: Tráfico Nacional,A-Tel,participacion_trafico_fijo,0.1,%,2017S2
+Red de Telefonía Fija: Tráfico Nacional,Guatel,trafico_fijo_a_moviles_min,0.0,minutos,2017S2
+Red de Telefonía Fija: Tráfico Nacional,Guatel,trafico_fijo_a_fijas_min,0.0,minutos,2017S2
+Red de Telefonía Fija: Tráfico Nacional,Guatel,trafico_fijo_on_net_min,0.0,minutos,2017S2
+Red de Telefonía Fija: Tráfico Nacional,Guatel,trafico_fijo_total_min,0.0,minutos,2017S2
+Red de Telefonía Fija: Tráfico Nacional,Guatel,participacion_trafico_fijo,0.0,%,2017S2
+Red de Telefonía Fija: Tráfico Nacional,Cablenet,trafico_fijo_a_moviles_min,30721770.98,minutos,2017S2
+Red de Telefonía Fija: Tráfico Nacional,Cablenet,trafico_fijo_a_fijas_min,9309082.09,minutos,2017S2
+Red de Telefonía Fija: Tráfico Nacional,Cablenet,trafico_fijo_on_net_min,2490840.0,minutos,2017S2
+Red de Telefonía Fija: Tráfico Nacional,Cablenet,trafico_fijo_total_min,42521693.07,minutos,2017S2
+Red de Telefonía Fija: Tráfico Nacional,Cablenet,participacion_trafico_fijo,2.7,%,2017S2
+Red de Telefonía Fija: Tráfico Nacional,Liberty (Columbus),trafico_fijo_a_moviles_min,15774.0,minutos,2017S2
+Red de Telefonía Fija: Tráfico Nacional,Liberty (Columbus),trafico_fijo_a_fijas_min,1131.0,minutos,2017S2
+Red de Telefonía Fija: Tráfico Nacional,Liberty (Columbus),trafico_fijo_on_net_min,3.0,minutos,2017S2
+Red de Telefonía Fija: Tráfico Nacional,Liberty (Columbus),trafico_fijo_total_min,16908.0,minutos,2017S2
+Red de Telefonía Fija: Tráfico Nacional,Liberty (Columbus),participacion_trafico_fijo,0.00107,%,2017S2
+Red de Telefonía Fija: Tráfico Nacional,Telefónica (Movistar),trafico_fijo_a_moviles_min,71289383.0,minutos,2017S2
+Red de Telefonía Fija: Tráfico Nacional,Telefónica (Movistar),trafico_fijo_a_fijas_min,7826921.0,minutos,2017S2
+Red de Telefonía Fija: Tráfico Nacional,Telefónica (Movistar),trafico_fijo_on_net_min,34075747.0,minutos,2017S2
+Red de Telefonía Fija: Tráfico Nacional,Telefónica (Movistar),trafico_fijo_total_min,113192051.0,minutos,2017S2
+Red de Telefonía Fija: Tráfico Nacional,Telefónica (Movistar),participacion_trafico_fijo,7.18,%,2017S2
+Red de Telefonía Fija: Tráfico Nacional,Comcel (Tigo),trafico_fijo_a_moviles_min,28778722.0,minutos,2017S2
+Red de Telefonía Fija: Tráfico Nacional,Comcel (Tigo),trafico_fijo_a_fijas_min,16743983.0,minutos,2017S2
+Red de Telefonía Fija: Tráfico Nacional,Comcel (Tigo),trafico_fijo_on_net_min,6802243.0,minutos,2017S2
+Red de Telefonía Fija: Tráfico Nacional,Comcel (Tigo),trafico_fijo_total_min,52324948.0,minutos,2017S2
+Red de Telefonía Fija: Tráfico Nacional,Comcel (Tigo),participacion_trafico_fijo,3.32,%,2017S2
+Red de Telefonía Fija: Tráfico Nacional,Telgua (Claro),trafico_fijo_a_moviles_min,1064737096.0,minutos,2017S2
+Red de Telefonía Fija: Tráfico Nacional,Telgua (Claro),trafico_fijo_a_fijas_min,118014318.0,minutos,2017S2
+Red de Telefonía Fija: Tráfico Nacional,Telgua (Claro),trafico_fijo_on_net_min,184805692.0,minutos,2017S2
+Red de Telefonía Fija: Tráfico Nacional,Telgua (Claro),trafico_fijo_total_min,1367557106.0,minutos,2017S2
+Red de Telefonía Fija: Tráfico Nacional,Telgua (Claro),participacion_trafico_fijo,86.69,%,2017S2
+Red de Telefonía Fija: Tráfico Nacional,TOTAL,trafico_fijo_a_moviles_min,1196931526.0,minutos,2017S2
+Red de Telefonía Fija: Tráfico Nacional,TOTAL,trafico_fijo_a_fijas_min,152198788.22,minutos,2017S2
+Red de Telefonía Fija: Tráfico Nacional,TOTAL,trafico_fijo_on_net_min,228365091.94,minutos,2017S2
+Red de Telefonía Fija: Tráfico Nacional,TOTAL,trafico_fijo_total_min,1577495406.16,minutos,2017S2
+Red de Telefonía Fija: Tráfico Nacional,TOTAL,participacion_trafico_fijo,100.0,%,2017S2
+Telefonía Móvil: Tráfico Nacional,Telefónica (Movistar),trafico_movil_a_fijas_min,24643601.0,minutos,2017S2
+Telefonía Móvil: Tráfico Nacional,Telefónica (Movistar),trafico_movil_a_moviles_min,296197122.0,minutos,2017S2
+Telefonía Móvil: Tráfico Nacional,Telefónica (Movistar),trafico_movil_on_net_min,454942517.0,minutos,2017S2
+Telefonía Móvil: Tráfico Nacional,Telefónica (Movistar),trafico_movil_total_min,775783240.0,minutos,2017S2
+Telefonía Móvil: Tráfico Nacional,Telefónica (Movistar),participacion_trafico_movil,5.72,%,2017S2
+Telefonía Móvil: Tráfico Nacional,Comcel (Tigo),trafico_movil_a_fijas_min,143893705.0,minutos,2017S2
+Telefonía Móvil: Tráfico Nacional,Comcel (Tigo),trafico_movil_a_moviles_min,916084072.0,minutos,2017S2
+Telefonía Móvil: Tráfico Nacional,Comcel (Tigo),trafico_movil_on_net_min,6687760024.0,minutos,2017S2
+Telefonía Móvil: Tráfico Nacional,Comcel (Tigo),trafico_movil_total_min,7747737801.0,minutos,2017S2
+Telefonía Móvil: Tráfico Nacional,Comcel (Tigo),participacion_trafico_movil,57.15,%,2017S2
+Telefonía Móvil: Tráfico Nacional,Telgua (Claro),trafico_movil_a_fijas_min,203156046.0,minutos,2017S2
+Telefonía Móvil: Tráfico Nacional,Telgua (Claro),trafico_movil_a_moviles_min,986218421.0,minutos,2017S2
+Telefonía Móvil: Tráfico Nacional,Telgua (Claro),trafico_movil_on_net_min,3844934352.0,minutos,2017S2
+Telefonía Móvil: Tráfico Nacional,Telgua (Claro),trafico_movil_total_min,5034308819.0,minutos,2017S2
+Telefonía Móvil: Tráfico Nacional,Telgua (Claro),participacion_trafico_movil,37.13,%,2017S2
+Telefonía Móvil: Tráfico Nacional,TOTAL,trafico_movil_a_fijas_min,371693352.0,minutos,2017S2
+Telefonía Móvil: Tráfico Nacional,TOTAL,trafico_movil_a_moviles_min,2198499615.0,minutos,2017S2
+Telefonía Móvil: Tráfico Nacional,TOTAL,trafico_movil_on_net_min,10987636893.0,minutos,2017S2
+Telefonía Móvil: Tráfico Nacional,TOTAL,trafico_movil_total_min,13557829860.0,minutos,2017S2
+Telefonía Móvil: Tráfico Nacional,TOTAL,participacion_trafico_movil,100.0,%,2017S2

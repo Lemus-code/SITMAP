@@ -1,0 +1,46 @@
+﻿variable,departamento,declarado,suma_municipios,diferencia,periodo
+lineas_fijas,ALTA VERAPAZ,11676.0,11676.0,0.0,2020S1
+lineas_fijas,BAJA VERAPAZ,4645.0,4645.0,0.0,2020S1
+lineas_fijas,CHIMALTENANGO,14881.0,14881.0,0.0,2020S1
+lineas_fijas,CHIQUIMULA,19106.0,19106.0,0.0,2020S1
+lineas_fijas,ESCUINTLA,36148.0,36148.0,0.0,2020S1
+lineas_fijas,GUATEMALA,1805408.0,1805408.0,0.0,2020S1
+lineas_fijas,HUEHUETENANGO,20085.0,20085.0,0.0,2020S1
+lineas_fijas,IZABAL,19090.0,19090.0,0.0,2020S1
+lineas_fijas,JALAPA,7466.0,7466.0,0.0,2020S1
+lineas_fijas,JUTIAPA,55809.0,55809.0,0.0,2020S1
+lineas_fijas,EL PETÉN,8963.0,8963.0,0.0,2020S1
+lineas_fijas,EL PROGRESO,6139.0,6139.0,0.0,2020S1
+lineas_fijas,QUETZALTENANGO,119361.0,119361.0,0.0,2020S1
+lineas_fijas,QUICHÉ,9431.0,9431.0,0.0,2020S1
+lineas_fijas,RETALHULEU,8940.0,8940.0,0.0,2020S1
+lineas_fijas,SACATEPEQUEZ,20110.0,20110.0,0.0,2020S1
+lineas_fijas,SAN MARCOS,30179.0,30179.0,0.0,2020S1
+lineas_fijas,SANTA ROSA,7133.0,7133.0,0.0,2020S1
+lineas_fijas,SOLOLA,8382.0,8382.0,0.0,2020S1
+lineas_fijas,SUCHITEPEQUEZ,13237.0,13237.0,0.0,2020S1
+lineas_fijas,TOTONICAPAN,10468.0,10468.0,0.0,2020S1
+lineas_fijas,ZACAPA,13282.0,13282.0,0.0,2020S1
+lineas_fijas,TOTAL PAÍS,2249939.0,2249939.0,0.0,2020S1
+radiobases,Alta Verapaz,,495.0,,2020S1
+radiobases,Baja Verapaz,,199.0,,2020S1
+radiobases,Chimaltenango,,417.0,,2020S1
+radiobases,Chiquimula,,351.0,,2020S1
+radiobases,Escuintla,,788.0,,2020S1
+radiobases,Guatemala,,4575.0,,2020S1
+radiobases,Huehuetenango,,858.0,,2020S1
+radiobases,Izabal,,451.0,,2020S1
+radiobases,Jalapa,,294.0,,2020S1
+radiobases,Jutiapa,,528.0,,2020S1
+radiobases,El Petén,,602.0,,2020S1
+radiobases,El Progreso,,241.0,,2020S1
+radiobases,Quetzaltenango,,779.0,,2020S1
+radiobases,Quiché,,501.0,,2020S1
+radiobases,Retalhuleu,,328.0,,2020S1
+radiobases,Sacatepéquez,,419.0,,2020S1
+radiobases,San Marcos,,699.0,,2020S1
+radiobases,Santa Rosa,,429.0,,2020S1
+radiobases,Sololá,,277.0,,2020S1
+radiobases,Suchitepéquez,,427.0,,2020S1
+radiobases,Totonicapán,,242.0,,2020S1
+radiobases,Zacapa,,246.0,,2020S1

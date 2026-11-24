@@ -1,0 +1,28 @@
+{
+ "fuente": "OpenCelliD",
+ "url": "https://opencellid.org",
+ "licencia": "CC BY-SA 4.0",
+ "atribucion": "Datos de celdas: OpenCelliD, licencia CC BY-SA 4.0",
+ "archivo": "704.csv.gz",
+ "primera_observacion": "2025-05-24",
+ "ultima_observacion": "2026-11-23",
+ "celdas": 25522,
+ "fuera_de_guatemala": 156,
+ "municipios_con_celdas": 201,
+ "por_tecnologia": {
+  "2G": 4260,
+  "3G": 20989,
+  "4G": 273
+ },
+ "por_mnc": {
+  "01": 22000,
+  "02": 3330,
+  "03": 192
+ },
+ "mnc": {
+  "01": "Claro",
+  "02": "Tigo",
+  "03": "Movistar"
+ },
+ "nota": "Posiciones estimadas con mediciones de teléfonos de voluntarios, no ubicaciones confirmadas de torres. Varias celdas pueden pertenecer a la misma torre. La ausencia de celdas no significa ausencia de servicio."
+}

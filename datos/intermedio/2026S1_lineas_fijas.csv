@@ -1,0 +1,2905 @@
+﻿departamento_boletin,nombre_boletin,tipo,operador,lineas_fijas,periodo
+GUATEMALA,GUATEMALA,departamento,Cablenet,0.0,2026S1
+GUATEMALA,GUATEMALA,departamento,Comcel (Tigo),338369.0,2026S1
+GUATEMALA,GUATEMALA,departamento,A-Tel,10.0,2026S1
+GUATEMALA,GUATEMALA,departamento,Telgua (Claro),1245250.0,2026S1
+GUATEMALA,GUATEMALA,departamento,Teléfonos del Norte,142.0,2026S1
+GUATEMALA,GUATEMALA,departamento,Claro Guatemala,0.0,2026S1
+GUATEMALA,GUATEMALA,departamento,Guatel,0.0,2026S1
+GUATEMALA,GUATEMALA,departamento,Liberty (Columbus),6.0,2026S1
+GUATEMALA,Guatemala,municipio,Cablenet,0.0,2026S1
+GUATEMALA,Guatemala,municipio,Comcel (Tigo),294771.0,2026S1
+GUATEMALA,Guatemala,municipio,A-Tel,4.0,2026S1
+GUATEMALA,Guatemala,municipio,Telgua (Claro),1090457.0,2026S1
+GUATEMALA,Guatemala,municipio,Teléfonos del Norte,142.0,2026S1
+GUATEMALA,Guatemala,municipio,Claro Guatemala,0.0,2026S1
+GUATEMALA,Guatemala,municipio,Guatel,0.0,2026S1
+GUATEMALA,Guatemala,municipio,Liberty (Columbus),6.0,2026S1
+GUATEMALA,Santa Catarina Pinula,municipio,Cablenet,0.0,2026S1
+GUATEMALA,Santa Catarina Pinula,municipio,Comcel (Tigo),40.0,2026S1
+GUATEMALA,Santa Catarina Pinula,municipio,A-Tel,0.0,2026S1
+GUATEMALA,Santa Catarina Pinula,municipio,Telgua (Claro),15100.0,2026S1
+GUATEMALA,Santa Catarina Pinula,municipio,Teléfonos del Norte,0.0,2026S1
+GUATEMALA,Santa Catarina Pinula,municipio,Claro Guatemala,0.0,2026S1
+GUATEMALA,Santa Catarina Pinula,municipio,Guatel,0.0,2026S1
+GUATEMALA,Santa Catarina Pinula,municipio,Liberty (Columbus),0.0,2026S1
+GUATEMALA,San José Pinula,municipio,Cablenet,0.0,2026S1
+GUATEMALA,San José Pinula,municipio,Comcel (Tigo),13.0,2026S1
+GUATEMALA,San José Pinula,municipio,A-Tel,0.0,2026S1
+GUATEMALA,San José Pinula,municipio,Telgua (Claro),11829.0,2026S1
+GUATEMALA,San José Pinula,municipio,Teléfonos del Norte,0.0,2026S1
+GUATEMALA,San José Pinula,municipio,Claro Guatemala,0.0,2026S1
+GUATEMALA,San José Pinula,municipio,Guatel,0.0,2026S1
+GUATEMALA,San José Pinula,municipio,Liberty (Columbus),0.0,2026S1
+GUATEMALA,San José del Golfo,municipio,Cablenet,0.0,2026S1
+GUATEMALA,San José del Golfo,municipio,Comcel (Tigo),1.0,2026S1
+GUATEMALA,San José del Golfo,municipio,A-Tel,0.0,2026S1
+GUATEMALA,San José del Golfo,municipio,Telgua (Claro),446.0,2026S1
+GUATEMALA,San José del Golfo,municipio,Teléfonos del Norte,0.0,2026S1
+GUATEMALA,San José del Golfo,municipio,Claro Guatemala,0.0,2026S1
+GUATEMALA,San José del Golfo,municipio,Guatel,0.0,2026S1
+GUATEMALA,San José del Golfo,municipio,Liberty (Columbus),0.0,2026S1
+GUATEMALA,Palencia,municipio,Cablenet,0.0,2026S1
+GUATEMALA,Palencia,municipio,Comcel (Tigo),6.0,2026S1
+GUATEMALA,Palencia,municipio,A-Tel,0.0,2026S1
+GUATEMALA,Palencia,municipio,Telgua (Claro),1049.0,2026S1
+GUATEMALA,Palencia,municipio,Teléfonos del Norte,0.0,2026S1
+GUATEMALA,Palencia,municipio,Claro Guatemala,0.0,2026S1
+GUATEMALA,Palencia,municipio,Guatel,0.0,2026S1
+GUATEMALA,Palencia,municipio,Liberty (Columbus),0.0,2026S1
+GUATEMALA,Chinautla,municipio,Cablenet,0.0,2026S1
+GUATEMALA,Chinautla,municipio,Comcel (Tigo),12.0,2026S1
+GUATEMALA,Chinautla,municipio,A-Tel,0.0,2026S1
+GUATEMALA,Chinautla,municipio,Telgua (Claro),5946.0,2026S1
+GUATEMALA,Chinautla,municipio,Teléfonos del Norte,0.0,2026S1
+GUATEMALA,Chinautla,municipio,Claro Guatemala,0.0,2026S1
+GUATEMALA,Chinautla,municipio,Guatel,0.0,2026S1
+GUATEMALA,Chinautla,municipio,Liberty (Columbus),0.0,2026S1
+GUATEMALA,San Pedro Ayampuc,municipio,Cablenet,0.0,2026S1
+GUATEMALA,San Pedro Ayampuc,municipio,Comcel (Tigo),2.0,2026S1
+GUATEMALA,San Pedro Ayampuc,municipio,A-Tel,0.0,2026S1
+GUATEMALA,San Pedro Ayampuc,municipio,Telgua (Claro),1473.0,2026S1
+GUATEMALA,San Pedro Ayampuc,municipio,Teléfonos del Norte,0.0,2026S1
+GUATEMALA,San Pedro Ayampuc,municipio,Claro Guatemala,0.0,2026S1
+GUATEMALA,San Pedro Ayampuc,municipio,Guatel,0.0,2026S1
+GUATEMALA,San Pedro Ayampuc,municipio,Liberty (Columbus),0.0,2026S1
+GUATEMALA,Mixco,municipio,Cablenet,0.0,2026S1
+GUATEMALA,Mixco,municipio,Comcel (Tigo),106.0,2026S1
+GUATEMALA,Mixco,municipio,A-Tel,6.0,2026S1
+GUATEMALA,Mixco,municipio,Telgua (Claro),57557.0,2026S1
+GUATEMALA,Mixco,municipio,Teléfonos del Norte,0.0,2026S1
+GUATEMALA,Mixco,municipio,Claro Guatemala,0.0,2026S1
+GUATEMALA,Mixco,municipio,Guatel,0.0,2026S1
+GUATEMALA,Mixco,municipio,Liberty (Columbus),0.0,2026S1
+GUATEMALA,San Pedro Sacatepéquez,municipio,Cablenet,0.0,2026S1
+GUATEMALA,San Pedro Sacatepéquez,municipio,Comcel (Tigo),2.0,2026S1
+GUATEMALA,San Pedro Sacatepéquez,municipio,A-Tel,0.0,2026S1
+GUATEMALA,San Pedro Sacatepéquez,municipio,Telgua (Claro),1471.0,2026S1
+GUATEMALA,San Pedro Sacatepéquez,municipio,Teléfonos del Norte,0.0,2026S1
+GUATEMALA,San Pedro Sacatepéquez,municipio,Claro Guatemala,0.0,2026S1
+GUATEMALA,San Pedro Sacatepéquez,municipio,Guatel,0.0,2026S1
+GUATEMALA,San Pedro Sacatepéquez,municipio,Liberty (Columbus),0.0,2026S1
+GUATEMALA,San Juan Sacatepéquez,municipio,Cablenet,0.0,2026S1
+GUATEMALA,San Juan Sacatepéquez,municipio,Comcel (Tigo),7.0,2026S1
+GUATEMALA,San Juan Sacatepéquez,municipio,A-Tel,0.0,2026S1
+GUATEMALA,San Juan Sacatepéquez,municipio,Telgua (Claro),4852.0,2026S1
+GUATEMALA,San Juan Sacatepéquez,municipio,Teléfonos del Norte,0.0,2026S1
+GUATEMALA,San Juan Sacatepéquez,municipio,Claro Guatemala,0.0,2026S1
+GUATEMALA,San Juan Sacatepéquez,municipio,Guatel,0.0,2026S1
+GUATEMALA,San Juan Sacatepéquez,municipio,Liberty (Columbus),0.0,2026S1
+GUATEMALA,San Raymundo,municipio,Cablenet,0.0,2026S1
+GUATEMALA,San Raymundo,municipio,Comcel (Tigo),1.0,2026S1
+GUATEMALA,San Raymundo,municipio,A-Tel,0.0,2026S1
+GUATEMALA,San Raymundo,municipio,Telgua (Claro),971.0,2026S1
+GUATEMALA,San Raymundo,municipio,Teléfonos del Norte,0.0,2026S1
+GUATEMALA,San Raymundo,municipio,Claro Guatemala,0.0,2026S1
+GUATEMALA,San Raymundo,municipio,Guatel,0.0,2026S1
+GUATEMALA,San Raymundo,municipio,Liberty (Columbus),0.0,2026S1
+GUATEMALA,Chuarrancho,municipio,Cablenet,0.0,2026S1
+GUATEMALA,Chuarrancho,municipio,Comcel (Tigo),2.0,2026S1
+GUATEMALA,Chuarrancho,municipio,A-Tel,0.0,2026S1
+GUATEMALA,Chuarrancho,municipio,Telgua (Claro),0.0,2026S1
+GUATEMALA,Chuarrancho,municipio,Teléfonos del Norte,0.0,2026S1
+GUATEMALA,Chuarrancho,municipio,Claro Guatemala,0.0,2026S1
+GUATEMALA,Chuarrancho,municipio,Guatel,0.0,2026S1
+GUATEMALA,Chuarrancho,municipio,Liberty (Columbus),0.0,2026S1
+GUATEMALA,Fraijanes,municipio,Cablenet,0.0,2026S1
+GUATEMALA,Fraijanes,municipio,Comcel (Tigo),30.0,2026S1
+GUATEMALA,Fraijanes,municipio,A-Tel,0.0,2026S1
+GUATEMALA,Fraijanes,municipio,Telgua (Claro),7168.0,2026S1
+GUATEMALA,Fraijanes,municipio,Teléfonos del Norte,0.0,2026S1
+GUATEMALA,Fraijanes,municipio,Claro Guatemala,0.0,2026S1
+GUATEMALA,Fraijanes,municipio,Guatel,0.0,2026S1
+GUATEMALA,Fraijanes,municipio,Liberty (Columbus),0.0,2026S1
+GUATEMALA,Amatitlán,municipio,Cablenet,0.0,2026S1
+GUATEMALA,Amatitlán,municipio,Comcel (Tigo),9.0,2026S1
+GUATEMALA,Amatitlán,municipio,A-Tel,0.0,2026S1
+GUATEMALA,Amatitlán,municipio,Telgua (Claro),6482.0,2026S1
+GUATEMALA,Amatitlán,municipio,Teléfonos del Norte,0.0,2026S1
+GUATEMALA,Amatitlán,municipio,Claro Guatemala,0.0,2026S1
+GUATEMALA,Amatitlán,municipio,Guatel,0.0,2026S1
+GUATEMALA,Amatitlán,municipio,Liberty (Columbus),0.0,2026S1
+GUATEMALA,Villa Nueva,municipio,Cablenet,0.0,2026S1
+GUATEMALA,Villa Nueva,municipio,Comcel (Tigo),43320.0,2026S1
+GUATEMALA,Villa Nueva,municipio,A-Tel,0.0,2026S1
+GUATEMALA,Villa Nueva,municipio,Telgua (Claro),26502.0,2026S1
+GUATEMALA,Villa Nueva,municipio,Teléfonos del Norte,0.0,2026S1
+GUATEMALA,Villa Nueva,municipio,Claro Guatemala,0.0,2026S1
+GUATEMALA,Villa Nueva,municipio,Guatel,0.0,2026S1
+GUATEMALA,Villa Nueva,municipio,Liberty (Columbus),0.0,2026S1
+GUATEMALA,Villa Canales,municipio,Cablenet,0.0,2026S1
+GUATEMALA,Villa Canales,municipio,Comcel (Tigo),28.0,2026S1
+GUATEMALA,Villa Canales,municipio,A-Tel,0.0,2026S1
+GUATEMALA,Villa Canales,municipio,Telgua (Claro),9155.0,2026S1
+GUATEMALA,Villa Canales,municipio,Teléfonos del Norte,0.0,2026S1
+GUATEMALA,Villa Canales,municipio,Claro Guatemala,0.0,2026S1
+GUATEMALA,Villa Canales,municipio,Guatel,0.0,2026S1
+GUATEMALA,Villa Canales,municipio,Liberty (Columbus),0.0,2026S1
+GUATEMALA,San Miguel Petapa,municipio,Cablenet,0.0,2026S1
+GUATEMALA,San Miguel Petapa,municipio,Comcel (Tigo),19.0,2026S1
+GUATEMALA,San Miguel Petapa,municipio,A-Tel,0.0,2026S1
+GUATEMALA,San Miguel Petapa,municipio,Telgua (Claro),4792.0,2026S1
+GUATEMALA,San Miguel Petapa,municipio,Teléfonos del Norte,0.0,2026S1
+GUATEMALA,San Miguel Petapa,municipio,Claro Guatemala,0.0,2026S1
+GUATEMALA,San Miguel Petapa,municipio,Guatel,0.0,2026S1
+GUATEMALA,San Miguel Petapa,municipio,Liberty (Columbus),0.0,2026S1
+EL PROGRESO,EL PROGRESO,departamento,Cablenet,0.0,2026S1
+EL PROGRESO,EL PROGRESO,departamento,Comcel (Tigo),12.0,2026S1
+EL PROGRESO,EL PROGRESO,departamento,A-Tel,0.0,2026S1
+EL PROGRESO,EL PROGRESO,departamento,Telgua (Claro),10598.0,2026S1
+EL PROGRESO,EL PROGRESO,departamento,Teléfonos del Norte,0.0,2026S1
+EL PROGRESO,EL PROGRESO,departamento,Claro Guatemala,0.0,2026S1
+EL PROGRESO,EL PROGRESO,departamento,Guatel,0.0,2026S1
+EL PROGRESO,EL PROGRESO,departamento,Liberty (Columbus),0.0,2026S1
+EL PROGRESO,Guastatoya,municipio,Cablenet,0.0,2026S1
+EL PROGRESO,Guastatoya,municipio,Comcel (Tigo),2.0,2026S1
+EL PROGRESO,Guastatoya,municipio,A-Tel,0.0,2026S1
+EL PROGRESO,Guastatoya,municipio,Telgua (Claro),4991.0,2026S1
+EL PROGRESO,Guastatoya,municipio,Teléfonos del Norte,0.0,2026S1
+EL PROGRESO,Guastatoya,municipio,Claro Guatemala,0.0,2026S1
+EL PROGRESO,Guastatoya,municipio,Guatel,0.0,2026S1
+EL PROGRESO,Guastatoya,municipio,Liberty (Columbus),0.0,2026S1
+EL PROGRESO,Morazán,municipio,Cablenet,0.0,2026S1
+EL PROGRESO,Morazán,municipio,Comcel (Tigo),1.0,2026S1
+EL PROGRESO,Morazán,municipio,A-Tel,0.0,2026S1
+EL PROGRESO,Morazán,municipio,Telgua (Claro),165.0,2026S1
+EL PROGRESO,Morazán,municipio,Teléfonos del Norte,0.0,2026S1
+EL PROGRESO,Morazán,municipio,Claro Guatemala,0.0,2026S1
+EL PROGRESO,Morazán,municipio,Guatel,0.0,2026S1
+EL PROGRESO,Morazán,municipio,Liberty (Columbus),0.0,2026S1
+EL PROGRESO,San Agustín Acasaguastlán,municipio,Cablenet,0.0,2026S1
+EL PROGRESO,San Agustín Acasaguastlán,municipio,Comcel (Tigo),3.0,2026S1
+EL PROGRESO,San Agustín Acasaguastlán,municipio,A-Tel,0.0,2026S1
+EL PROGRESO,San Agustín Acasaguastlán,municipio,Telgua (Claro),210.0,2026S1
+EL PROGRESO,San Agustín Acasaguastlán,municipio,Teléfonos del Norte,0.0,2026S1
+EL PROGRESO,San Agustín Acasaguastlán,municipio,Claro Guatemala,0.0,2026S1
+EL PROGRESO,San Agustín Acasaguastlán,municipio,Guatel,0.0,2026S1
+EL PROGRESO,San Agustín Acasaguastlán,municipio,Liberty (Columbus),0.0,2026S1
+EL PROGRESO,San Cristóbal Acasaguastlán,municipio,Cablenet,0.0,2026S1
+EL PROGRESO,San Cristóbal Acasaguastlán,municipio,Comcel (Tigo),1.0,2026S1
+EL PROGRESO,San Cristóbal Acasaguastlán,municipio,A-Tel,0.0,2026S1
+EL PROGRESO,San Cristóbal Acasaguastlán,municipio,Telgua (Claro),210.0,2026S1
+EL PROGRESO,San Cristóbal Acasaguastlán,municipio,Teléfonos del Norte,0.0,2026S1
+EL PROGRESO,San Cristóbal Acasaguastlán,municipio,Claro Guatemala,0.0,2026S1
+EL PROGRESO,San Cristóbal Acasaguastlán,municipio,Guatel,0.0,2026S1
+EL PROGRESO,San Cristóbal Acasaguastlán,municipio,Liberty (Columbus),0.0,2026S1
+EL PROGRESO,El Jícaro,municipio,Cablenet,0.0,2026S1
+EL PROGRESO,El Jícaro,municipio,Comcel (Tigo),0.0,2026S1
+EL PROGRESO,El Jícaro,municipio,A-Tel,0.0,2026S1
+EL PROGRESO,El Jícaro,municipio,Telgua (Claro),210.0,2026S1
+EL PROGRESO,El Jícaro,municipio,Teléfonos del Norte,0.0,2026S1
+EL PROGRESO,El Jícaro,municipio,Claro Guatemala,0.0,2026S1
+EL PROGRESO,El Jícaro,municipio,Guatel,0.0,2026S1
+EL PROGRESO,El Jícaro,municipio,Liberty (Columbus),0.0,2026S1
+EL PROGRESO,Sansare,municipio,Cablenet,0.0,2026S1
+EL PROGRESO,Sansare,municipio,Comcel (Tigo),1.0,2026S1
+EL PROGRESO,Sansare,municipio,A-Tel,0.0,2026S1
+EL PROGRESO,Sansare,municipio,Telgua (Claro),301.0,2026S1
+EL PROGRESO,Sansare,municipio,Teléfonos del Norte,0.0,2026S1
+EL PROGRESO,Sansare,municipio,Claro Guatemala,0.0,2026S1
+EL PROGRESO,Sansare,municipio,Guatel,0.0,2026S1
+EL PROGRESO,Sansare,municipio,Liberty (Columbus),0.0,2026S1
+EL PROGRESO,Sanarate,municipio,Cablenet,0.0,2026S1
+EL PROGRESO,Sanarate,municipio,Comcel (Tigo),2.0,2026S1
+EL PROGRESO,Sanarate,municipio,A-Tel,0.0,2026S1
+EL PROGRESO,Sanarate,municipio,Telgua (Claro),4346.0,2026S1
+EL PROGRESO,Sanarate,municipio,Teléfonos del Norte,0.0,2026S1
+EL PROGRESO,Sanarate,municipio,Claro Guatemala,0.0,2026S1
+EL PROGRESO,Sanarate,municipio,Guatel,0.0,2026S1
+EL PROGRESO,Sanarate,municipio,Liberty (Columbus),0.0,2026S1
+EL PROGRESO,San Antonio La Paz,municipio,Cablenet,0.0,2026S1
+EL PROGRESO,San Antonio La Paz,municipio,Comcel (Tigo),2.0,2026S1
+EL PROGRESO,San Antonio La Paz,municipio,A-Tel,0.0,2026S1
+EL PROGRESO,San Antonio La Paz,municipio,Telgua (Claro),165.0,2026S1
+EL PROGRESO,San Antonio La Paz,municipio,Teléfonos del Norte,0.0,2026S1
+EL PROGRESO,San Antonio La Paz,municipio,Claro Guatemala,0.0,2026S1
+EL PROGRESO,San Antonio La Paz,municipio,Guatel,0.0,2026S1
+EL PROGRESO,San Antonio La Paz,municipio,Liberty (Columbus),0.0,2026S1
+SACATEPÉQUEZ,SACATEPÉQUEZ,departamento,Cablenet,0.0,2026S1
+SACATEPÉQUEZ,SACATEPÉQUEZ,departamento,Comcel (Tigo),47.0,2026S1
+SACATEPÉQUEZ,SACATEPÉQUEZ,departamento,A-Tel,0.0,2026S1
+SACATEPÉQUEZ,SACATEPÉQUEZ,departamento,Telgua (Claro),25003.0,2026S1
+SACATEPÉQUEZ,SACATEPÉQUEZ,departamento,Teléfonos del Norte,0.0,2026S1
+SACATEPÉQUEZ,SACATEPÉQUEZ,departamento,Claro Guatemala,0.0,2026S1
+SACATEPÉQUEZ,SACATEPÉQUEZ,departamento,Guatel,0.0,2026S1
+SACATEPÉQUEZ,SACATEPÉQUEZ,departamento,Liberty (Columbus),0.0,2026S1
+SACATEPÉQUEZ,Antigua Guatemala,municipio,Cablenet,0.0,2026S1
+SACATEPÉQUEZ,Antigua Guatemala,municipio,Comcel (Tigo),25.0,2026S1
+SACATEPÉQUEZ,Antigua Guatemala,municipio,A-Tel,0.0,2026S1
+SACATEPÉQUEZ,Antigua Guatemala,municipio,Telgua (Claro),8419.0,2026S1
+SACATEPÉQUEZ,Antigua Guatemala,municipio,Teléfonos del Norte,0.0,2026S1
+SACATEPÉQUEZ,Antigua Guatemala,municipio,Claro Guatemala,0.0,2026S1
+SACATEPÉQUEZ,Antigua Guatemala,municipio,Guatel,0.0,2026S1
+SACATEPÉQUEZ,Antigua Guatemala,municipio,Liberty (Columbus),0.0,2026S1
+SACATEPÉQUEZ,Jocotenango,municipio,Cablenet,0.0,2026S1
+SACATEPÉQUEZ,Jocotenango,municipio,Comcel (Tigo),2.0,2026S1
+SACATEPÉQUEZ,Jocotenango,municipio,A-Tel,0.0,2026S1
+SACATEPÉQUEZ,Jocotenango,municipio,Telgua (Claro),3879.0,2026S1
+SACATEPÉQUEZ,Jocotenango,municipio,Teléfonos del Norte,0.0,2026S1
+SACATEPÉQUEZ,Jocotenango,municipio,Claro Guatemala,0.0,2026S1
+SACATEPÉQUEZ,Jocotenango,municipio,Guatel,0.0,2026S1
+SACATEPÉQUEZ,Jocotenango,municipio,Liberty (Columbus),0.0,2026S1
+SACATEPÉQUEZ,Pastores,municipio,Cablenet,0.0,2026S1
+SACATEPÉQUEZ,Pastores,municipio,Comcel (Tigo),1.0,2026S1
+SACATEPÉQUEZ,Pastores,municipio,A-Tel,0.0,2026S1
+SACATEPÉQUEZ,Pastores,municipio,Telgua (Claro),127.0,2026S1
+SACATEPÉQUEZ,Pastores,municipio,Teléfonos del Norte,0.0,2026S1
+SACATEPÉQUEZ,Pastores,municipio,Claro Guatemala,0.0,2026S1
+SACATEPÉQUEZ,Pastores,municipio,Guatel,0.0,2026S1
+SACATEPÉQUEZ,Pastores,municipio,Liberty (Columbus),0.0,2026S1
+SACATEPÉQUEZ,Sumpango,municipio,Cablenet,0.0,2026S1
+SACATEPÉQUEZ,Sumpango,municipio,Comcel (Tigo),3.0,2026S1
+SACATEPÉQUEZ,Sumpango,municipio,A-Tel,0.0,2026S1
+SACATEPÉQUEZ,Sumpango,municipio,Telgua (Claro),738.0,2026S1
+SACATEPÉQUEZ,Sumpango,municipio,Teléfonos del Norte,0.0,2026S1
+SACATEPÉQUEZ,Sumpango,municipio,Claro Guatemala,0.0,2026S1
+SACATEPÉQUEZ,Sumpango,municipio,Guatel,0.0,2026S1
+SACATEPÉQUEZ,Sumpango,municipio,Liberty (Columbus),0.0,2026S1
+SACATEPÉQUEZ,Santo Domingo Xenacoj,municipio,Cablenet,0.0,2026S1
+SACATEPÉQUEZ,Santo Domingo Xenacoj,municipio,Comcel (Tigo),1.0,2026S1
+SACATEPÉQUEZ,Santo Domingo Xenacoj,municipio,A-Tel,0.0,2026S1
+SACATEPÉQUEZ,Santo Domingo Xenacoj,municipio,Telgua (Claro),185.0,2026S1
+SACATEPÉQUEZ,Santo Domingo Xenacoj,municipio,Teléfonos del Norte,0.0,2026S1
+SACATEPÉQUEZ,Santo Domingo Xenacoj,municipio,Claro Guatemala,0.0,2026S1
+SACATEPÉQUEZ,Santo Domingo Xenacoj,municipio,Guatel,0.0,2026S1
+SACATEPÉQUEZ,Santo Domingo Xenacoj,municipio,Liberty (Columbus),0.0,2026S1
+SACATEPÉQUEZ,Santiago Sacatepéquez,municipio,Cablenet,0.0,2026S1
+SACATEPÉQUEZ,Santiago Sacatepéquez,municipio,Comcel (Tigo),2.0,2026S1
+SACATEPÉQUEZ,Santiago Sacatepéquez,municipio,A-Tel,0.0,2026S1
+SACATEPÉQUEZ,Santiago Sacatepéquez,municipio,Telgua (Claro),443.0,2026S1
+SACATEPÉQUEZ,Santiago Sacatepéquez,municipio,Teléfonos del Norte,0.0,2026S1
+SACATEPÉQUEZ,Santiago Sacatepéquez,municipio,Claro Guatemala,0.0,2026S1
+SACATEPÉQUEZ,Santiago Sacatepéquez,municipio,Guatel,0.0,2026S1
+SACATEPÉQUEZ,Santiago Sacatepéquez,municipio,Liberty (Columbus),0.0,2026S1
+SACATEPÉQUEZ,San Bartolomé Milpas Altas,municipio,Cablenet,0.0,2026S1
+SACATEPÉQUEZ,San Bartolomé Milpas Altas,municipio,Comcel (Tigo),1.0,2026S1
+SACATEPÉQUEZ,San Bartolomé Milpas Altas,municipio,A-Tel,0.0,2026S1
+SACATEPÉQUEZ,San Bartolomé Milpas Altas,municipio,Telgua (Claro),127.0,2026S1
+SACATEPÉQUEZ,San Bartolomé Milpas Altas,municipio,Teléfonos del Norte,0.0,2026S1
+SACATEPÉQUEZ,San Bartolomé Milpas Altas,municipio,Claro Guatemala,0.0,2026S1
+SACATEPÉQUEZ,San Bartolomé Milpas Altas,municipio,Guatel,0.0,2026S1
+SACATEPÉQUEZ,San Bartolomé Milpas Altas,municipio,Liberty (Columbus),0.0,2026S1
+SACATEPÉQUEZ,San Lucas Sacatepéquez,municipio,Cablenet,0.0,2026S1
+SACATEPÉQUEZ,San Lucas Sacatepéquez,municipio,Comcel (Tigo),2.0,2026S1
+SACATEPÉQUEZ,San Lucas Sacatepéquez,municipio,A-Tel,0.0,2026S1
+SACATEPÉQUEZ,San Lucas Sacatepéquez,municipio,Telgua (Claro),7036.0,2026S1
+SACATEPÉQUEZ,San Lucas Sacatepéquez,municipio,Teléfonos del Norte,0.0,2026S1
+SACATEPÉQUEZ,San Lucas Sacatepéquez,municipio,Claro Guatemala,0.0,2026S1
+SACATEPÉQUEZ,San Lucas Sacatepéquez,municipio,Guatel,0.0,2026S1
+SACATEPÉQUEZ,San Lucas Sacatepéquez,municipio,Liberty (Columbus),0.0,2026S1
+SACATEPÉQUEZ,Santa Lucía Milpas Altas,municipio,Cablenet,0.0,2026S1
+SACATEPÉQUEZ,Santa Lucía Milpas Altas,municipio,Comcel (Tigo),5.0,2026S1
+SACATEPÉQUEZ,Santa Lucía Milpas Altas,municipio,A-Tel,0.0,2026S1
+SACATEPÉQUEZ,Santa Lucía Milpas Altas,municipio,Telgua (Claro),127.0,2026S1
+SACATEPÉQUEZ,Santa Lucía Milpas Altas,municipio,Teléfonos del Norte,0.0,2026S1
+SACATEPÉQUEZ,Santa Lucía Milpas Altas,municipio,Claro Guatemala,0.0,2026S1
+SACATEPÉQUEZ,Santa Lucía Milpas Altas,municipio,Guatel,0.0,2026S1
+SACATEPÉQUEZ,Santa Lucía Milpas Altas,municipio,Liberty (Columbus),0.0,2026S1
+SACATEPÉQUEZ,Magdalena Milpas Altas,municipio,Cablenet,0.0,2026S1
+SACATEPÉQUEZ,Magdalena Milpas Altas,municipio,Comcel (Tigo),1.0,2026S1
+SACATEPÉQUEZ,Magdalena Milpas Altas,municipio,A-Tel,0.0,2026S1
+SACATEPÉQUEZ,Magdalena Milpas Altas,municipio,Telgua (Claro),127.0,2026S1
+SACATEPÉQUEZ,Magdalena Milpas Altas,municipio,Teléfonos del Norte,0.0,2026S1
+SACATEPÉQUEZ,Magdalena Milpas Altas,municipio,Claro Guatemala,0.0,2026S1
+SACATEPÉQUEZ,Magdalena Milpas Altas,municipio,Guatel,0.0,2026S1
+SACATEPÉQUEZ,Magdalena Milpas Altas,municipio,Liberty (Columbus),0.0,2026S1
+SACATEPÉQUEZ,Santa María de Jesús,municipio,Cablenet,0.0,2026S1
+SACATEPÉQUEZ,Santa María de Jesús,municipio,Comcel (Tigo),1.0,2026S1
+SACATEPÉQUEZ,Santa María de Jesús,municipio,A-Tel,0.0,2026S1
+SACATEPÉQUEZ,Santa María de Jesús,municipio,Telgua (Claro),228.0,2026S1
+SACATEPÉQUEZ,Santa María de Jesús,municipio,Teléfonos del Norte,0.0,2026S1
+SACATEPÉQUEZ,Santa María de Jesús,municipio,Claro Guatemala,0.0,2026S1
+SACATEPÉQUEZ,Santa María de Jesús,municipio,Guatel,0.0,2026S1
+SACATEPÉQUEZ,Santa María de Jesús,municipio,Liberty (Columbus),0.0,2026S1
+SACATEPÉQUEZ,Ciudad Vieja,municipio,Cablenet,0.0,2026S1
+SACATEPÉQUEZ,Ciudad Vieja,municipio,Comcel (Tigo),2.0,2026S1
+SACATEPÉQUEZ,Ciudad Vieja,municipio,A-Tel,0.0,2026S1
+SACATEPÉQUEZ,Ciudad Vieja,municipio,Telgua (Claro),2948.0,2026S1
+SACATEPÉQUEZ,Ciudad Vieja,municipio,Teléfonos del Norte,0.0,2026S1
+SACATEPÉQUEZ,Ciudad Vieja,municipio,Claro Guatemala,0.0,2026S1
+SACATEPÉQUEZ,Ciudad Vieja,municipio,Guatel,0.0,2026S1
+SACATEPÉQUEZ,Ciudad Vieja,municipio,Liberty (Columbus),0.0,2026S1
+SACATEPÉQUEZ,San Miguel Dueñas,municipio,Cablenet,0.0,2026S1
+SACATEPÉQUEZ,San Miguel Dueñas,municipio,Comcel (Tigo),0.0,2026S1
+SACATEPÉQUEZ,San Miguel Dueñas,municipio,A-Tel,0.0,2026S1
+SACATEPÉQUEZ,San Miguel Dueñas,municipio,Telgua (Claro),127.0,2026S1
+SACATEPÉQUEZ,San Miguel Dueñas,municipio,Teléfonos del Norte,0.0,2026S1
+SACATEPÉQUEZ,San Miguel Dueñas,municipio,Claro Guatemala,0.0,2026S1
+SACATEPÉQUEZ,San Miguel Dueñas,municipio,Guatel,0.0,2026S1
+SACATEPÉQUEZ,San Miguel Dueñas,municipio,Liberty (Columbus),0.0,2026S1
+SACATEPÉQUEZ,San Juan Alotenango,municipio,Cablenet,0.0,2026S1
+SACATEPÉQUEZ,San Juan Alotenango,municipio,Comcel (Tigo),0.0,2026S1
+SACATEPÉQUEZ,San Juan Alotenango,municipio,A-Tel,0.0,2026S1
+SACATEPÉQUEZ,San Juan Alotenango,municipio,Telgua (Claro),0.0,2026S1
+SACATEPÉQUEZ,San Juan Alotenango,municipio,Teléfonos del Norte,0.0,2026S1
+SACATEPÉQUEZ,San Juan Alotenango,municipio,Claro Guatemala,0.0,2026S1
+SACATEPÉQUEZ,San Juan Alotenango,municipio,Guatel,0.0,2026S1
+SACATEPÉQUEZ,San Juan Alotenango,municipio,Liberty (Columbus),0.0,2026S1
+SACATEPÉQUEZ,San Antonio Aguas Calientes,municipio,Cablenet,0.0,2026S1
+SACATEPÉQUEZ,San Antonio Aguas Calientes,municipio,Comcel (Tigo),1.0,2026S1
+SACATEPÉQUEZ,San Antonio Aguas Calientes,municipio,A-Tel,0.0,2026S1
+SACATEPÉQUEZ,San Antonio Aguas Calientes,municipio,Telgua (Claro),385.0,2026S1
+SACATEPÉQUEZ,San Antonio Aguas Calientes,municipio,Teléfonos del Norte,0.0,2026S1
+SACATEPÉQUEZ,San Antonio Aguas Calientes,municipio,Claro Guatemala,0.0,2026S1
+SACATEPÉQUEZ,San Antonio Aguas Calientes,municipio,Guatel,0.0,2026S1
+SACATEPÉQUEZ,San Antonio Aguas Calientes,municipio,Liberty (Columbus),0.0,2026S1
+SACATEPÉQUEZ,Santa Catarina Barahona,municipio,Cablenet,0.0,2026S1
+SACATEPÉQUEZ,Santa Catarina Barahona,municipio,Comcel (Tigo),0.0,2026S1
+SACATEPÉQUEZ,Santa Catarina Barahona,municipio,A-Tel,0.0,2026S1
+SACATEPÉQUEZ,Santa Catarina Barahona,municipio,Telgua (Claro),107.0,2026S1
+SACATEPÉQUEZ,Santa Catarina Barahona,municipio,Teléfonos del Norte,0.0,2026S1
+SACATEPÉQUEZ,Santa Catarina Barahona,municipio,Claro Guatemala,0.0,2026S1
+SACATEPÉQUEZ,Santa Catarina Barahona,municipio,Guatel,0.0,2026S1
+SACATEPÉQUEZ,Santa Catarina Barahona,municipio,Liberty (Columbus),0.0,2026S1
+CHIMALTENANGO,CHIMALTENANGO,departamento,Cablenet,0.0,2026S1
+CHIMALTENANGO,CHIMALTENANGO,departamento,Comcel (Tigo),17.0,2026S1
+CHIMALTENANGO,CHIMALTENANGO,departamento,A-Tel,0.0,2026S1
+CHIMALTENANGO,CHIMALTENANGO,departamento,Telgua (Claro),16292.0,2026S1
+CHIMALTENANGO,CHIMALTENANGO,departamento,Teléfonos del Norte,0.0,2026S1
+CHIMALTENANGO,CHIMALTENANGO,departamento,Claro Guatemala,0.0,2026S1
+CHIMALTENANGO,CHIMALTENANGO,departamento,Guatel,0.0,2026S1
+CHIMALTENANGO,CHIMALTENANGO,departamento,Liberty (Columbus),0.0,2026S1
+CHIMALTENANGO,Chimaltenango,municipio,Cablenet,0.0,2026S1
+CHIMALTENANGO,Chimaltenango,municipio,Comcel (Tigo),5.0,2026S1
+CHIMALTENANGO,Chimaltenango,municipio,A-Tel,0.0,2026S1
+CHIMALTENANGO,Chimaltenango,municipio,Telgua (Claro),6873.0,2026S1
+CHIMALTENANGO,Chimaltenango,municipio,Teléfonos del Norte,0.0,2026S1
+CHIMALTENANGO,Chimaltenango,municipio,Claro Guatemala,0.0,2026S1
+CHIMALTENANGO,Chimaltenango,municipio,Guatel,0.0,2026S1
+CHIMALTENANGO,Chimaltenango,municipio,Liberty (Columbus),0.0,2026S1
+CHIMALTENANGO,San José Poaquil,municipio,Cablenet,0.0,2026S1
+CHIMALTENANGO,San José Poaquil,municipio,Comcel (Tigo),1.0,2026S1
+CHIMALTENANGO,San José Poaquil,municipio,A-Tel,0.0,2026S1
+CHIMALTENANGO,San José Poaquil,municipio,Telgua (Claro),181.0,2026S1
+CHIMALTENANGO,San José Poaquil,municipio,Teléfonos del Norte,0.0,2026S1
+CHIMALTENANGO,San José Poaquil,municipio,Claro Guatemala,0.0,2026S1
+CHIMALTENANGO,San José Poaquil,municipio,Guatel,0.0,2026S1
+CHIMALTENANGO,San José Poaquil,municipio,Liberty (Columbus),0.0,2026S1
+CHIMALTENANGO,San Martín Jilotepeque,municipio,Cablenet,0.0,2026S1
+CHIMALTENANGO,San Martín Jilotepeque,municipio,Comcel (Tigo),1.0,2026S1
+CHIMALTENANGO,San Martín Jilotepeque,municipio,A-Tel,0.0,2026S1
+CHIMALTENANGO,San Martín Jilotepeque,municipio,Telgua (Claro),484.0,2026S1
+CHIMALTENANGO,San Martín Jilotepeque,municipio,Teléfonos del Norte,0.0,2026S1
+CHIMALTENANGO,San Martín Jilotepeque,municipio,Claro Guatemala,0.0,2026S1
+CHIMALTENANGO,San Martín Jilotepeque,municipio,Guatel,0.0,2026S1
+CHIMALTENANGO,San Martín Jilotepeque,municipio,Liberty (Columbus),0.0,2026S1
+CHIMALTENANGO,San Juan Comalapa,municipio,Cablenet,0.0,2026S1
+CHIMALTENANGO,San Juan Comalapa,municipio,Comcel (Tigo),1.0,2026S1
+CHIMALTENANGO,San Juan Comalapa,municipio,A-Tel,0.0,2026S1
+CHIMALTENANGO,San Juan Comalapa,municipio,Telgua (Claro),1400.0,2026S1
+CHIMALTENANGO,San Juan Comalapa,municipio,Teléfonos del Norte,0.0,2026S1
+CHIMALTENANGO,San Juan Comalapa,municipio,Claro Guatemala,0.0,2026S1
+CHIMALTENANGO,San Juan Comalapa,municipio,Guatel,0.0,2026S1
+CHIMALTENANGO,San Juan Comalapa,municipio,Liberty (Columbus),0.0,2026S1
+CHIMALTENANGO,Santa Apolonia,municipio,Cablenet,0.0,2026S1
+CHIMALTENANGO,Santa Apolonia,municipio,Comcel (Tigo),4.0,2026S1
+CHIMALTENANGO,Santa Apolonia,municipio,A-Tel,0.0,2026S1
+CHIMALTENANGO,Santa Apolonia,municipio,Telgua (Claro),0.0,2026S1
+CHIMALTENANGO,Santa Apolonia,municipio,Teléfonos del Norte,0.0,2026S1
+CHIMALTENANGO,Santa Apolonia,municipio,Claro Guatemala,0.0,2026S1
+CHIMALTENANGO,Santa Apolonia,municipio,Guatel,0.0,2026S1
+CHIMALTENANGO,Santa Apolonia,municipio,Liberty (Columbus),0.0,2026S1
+CHIMALTENANGO,Tecpán Guatemala,municipio,Cablenet,0.0,2026S1
+CHIMALTENANGO,Tecpán Guatemala,municipio,Comcel (Tigo),2.0,2026S1
+CHIMALTENANGO,Tecpán Guatemala,municipio,A-Tel,0.0,2026S1
+CHIMALTENANGO,Tecpán Guatemala,municipio,Telgua (Claro),1671.0,2026S1
+CHIMALTENANGO,Tecpán Guatemala,municipio,Teléfonos del Norte,0.0,2026S1
+CHIMALTENANGO,Tecpán Guatemala,municipio,Claro Guatemala,0.0,2026S1
+CHIMALTENANGO,Tecpán Guatemala,municipio,Guatel,0.0,2026S1
+CHIMALTENANGO,Tecpán Guatemala,municipio,Liberty (Columbus),0.0,2026S1
+CHIMALTENANGO,Patzún,municipio,Cablenet,0.0,2026S1
+CHIMALTENANGO,Patzún,municipio,Comcel (Tigo),0.0,2026S1
+CHIMALTENANGO,Patzún,municipio,A-Tel,0.0,2026S1
+CHIMALTENANGO,Patzún,municipio,Telgua (Claro),1569.0,2026S1
+CHIMALTENANGO,Patzún,municipio,Teléfonos del Norte,0.0,2026S1
+CHIMALTENANGO,Patzún,municipio,Claro Guatemala,0.0,2026S1
+CHIMALTENANGO,Patzún,municipio,Guatel,0.0,2026S1
+CHIMALTENANGO,Patzún,municipio,Liberty (Columbus),0.0,2026S1
+CHIMALTENANGO,San Miguel Pochuta,municipio,Cablenet,0.0,2026S1
+CHIMALTENANGO,San Miguel Pochuta,municipio,Comcel (Tigo),0.0,2026S1
+CHIMALTENANGO,San Miguel Pochuta,municipio,A-Tel,0.0,2026S1
+CHIMALTENANGO,San Miguel Pochuta,municipio,Telgua (Claro),27.0,2026S1
+CHIMALTENANGO,San Miguel Pochuta,municipio,Teléfonos del Norte,0.0,2026S1
+CHIMALTENANGO,San Miguel Pochuta,municipio,Claro Guatemala,0.0,2026S1
+CHIMALTENANGO,San Miguel Pochuta,municipio,Guatel,0.0,2026S1
+CHIMALTENANGO,San Miguel Pochuta,municipio,Liberty (Columbus),0.0,2026S1
+CHIMALTENANGO,Patzicía,municipio,Cablenet,0.0,2026S1
+CHIMALTENANGO,Patzicía,municipio,Comcel (Tigo),1.0,2026S1
+CHIMALTENANGO,Patzicía,municipio,A-Tel,0.0,2026S1
+CHIMALTENANGO,Patzicía,municipio,Telgua (Claro),267.0,2026S1
+CHIMALTENANGO,Patzicía,municipio,Teléfonos del Norte,0.0,2026S1
+CHIMALTENANGO,Patzicía,municipio,Claro Guatemala,0.0,2026S1
+CHIMALTENANGO,Patzicía,municipio,Guatel,0.0,2026S1
+CHIMALTENANGO,Patzicía,municipio,Liberty (Columbus),0.0,2026S1
+CHIMALTENANGO,Santa Cruz Balanyá,municipio,Cablenet,0.0,2026S1
+CHIMALTENANGO,Santa Cruz Balanyá,municipio,Comcel (Tigo),0.0,2026S1
+CHIMALTENANGO,Santa Cruz Balanyá,municipio,A-Tel,0.0,2026S1
+CHIMALTENANGO,Santa Cruz Balanyá,municipio,Telgua (Claro),0.0,2026S1
+CHIMALTENANGO,Santa Cruz Balanyá,municipio,Teléfonos del Norte,0.0,2026S1
+CHIMALTENANGO,Santa Cruz Balanyá,municipio,Claro Guatemala,0.0,2026S1
+CHIMALTENANGO,Santa Cruz Balanyá,municipio,Guatel,0.0,2026S1
+CHIMALTENANGO,Santa Cruz Balanyá,municipio,Liberty (Columbus),0.0,2026S1
+CHIMALTENANGO,Acatenango,municipio,Cablenet,0.0,2026S1
+CHIMALTENANGO,Acatenango,municipio,Comcel (Tigo),1.0,2026S1
+CHIMALTENANGO,Acatenango,municipio,A-Tel,0.0,2026S1
+CHIMALTENANGO,Acatenango,municipio,Telgua (Claro),301.0,2026S1
+CHIMALTENANGO,Acatenango,municipio,Teléfonos del Norte,0.0,2026S1
+CHIMALTENANGO,Acatenango,municipio,Claro Guatemala,0.0,2026S1
+CHIMALTENANGO,Acatenango,municipio,Guatel,0.0,2026S1
+CHIMALTENANGO,Acatenango,municipio,Liberty (Columbus),0.0,2026S1
+CHIMALTENANGO,San Pedro Yepocapa,municipio,Cablenet,0.0,2026S1
+CHIMALTENANGO,San Pedro Yepocapa,municipio,Comcel (Tigo),0.0,2026S1
+CHIMALTENANGO,San Pedro Yepocapa,municipio,A-Tel,0.0,2026S1
+CHIMALTENANGO,San Pedro Yepocapa,municipio,Telgua (Claro),67.0,2026S1
+CHIMALTENANGO,San Pedro Yepocapa,municipio,Teléfonos del Norte,0.0,2026S1
+CHIMALTENANGO,San Pedro Yepocapa,municipio,Claro Guatemala,0.0,2026S1
+CHIMALTENANGO,San Pedro Yepocapa,municipio,Guatel,0.0,2026S1
+CHIMALTENANGO,San Pedro Yepocapa,municipio,Liberty (Columbus),0.0,2026S1
+CHIMALTENANGO,San Andrés Itzapa,municipio,Cablenet,0.0,2026S1
+CHIMALTENANGO,San Andrés Itzapa,municipio,Comcel (Tigo),1.0,2026S1
+CHIMALTENANGO,San Andrés Itzapa,municipio,A-Tel,0.0,2026S1
+CHIMALTENANGO,San Andrés Itzapa,municipio,Telgua (Claro),1213.0,2026S1
+CHIMALTENANGO,San Andrés Itzapa,municipio,Teléfonos del Norte,0.0,2026S1
+CHIMALTENANGO,San Andrés Itzapa,municipio,Claro Guatemala,0.0,2026S1
+CHIMALTENANGO,San Andrés Itzapa,municipio,Guatel,0.0,2026S1
+CHIMALTENANGO,San Andrés Itzapa,municipio,Liberty (Columbus),0.0,2026S1
+CHIMALTENANGO,Parramos,municipio,Cablenet,0.0,2026S1
+CHIMALTENANGO,Parramos,municipio,Comcel (Tigo),0.0,2026S1
+CHIMALTENANGO,Parramos,municipio,A-Tel,0.0,2026S1
+CHIMALTENANGO,Parramos,municipio,Telgua (Claro),298.0,2026S1
+CHIMALTENANGO,Parramos,municipio,Teléfonos del Norte,0.0,2026S1
+CHIMALTENANGO,Parramos,municipio,Claro Guatemala,0.0,2026S1
+CHIMALTENANGO,Parramos,municipio,Guatel,0.0,2026S1
+CHIMALTENANGO,Parramos,municipio,Liberty (Columbus),0.0,2026S1
+CHIMALTENANGO,Zaragoza,municipio,Cablenet,0.0,2026S1
+CHIMALTENANGO,Zaragoza,municipio,Comcel (Tigo),0.0,2026S1
+CHIMALTENANGO,Zaragoza,municipio,A-Tel,0.0,2026S1
+CHIMALTENANGO,Zaragoza,municipio,Telgua (Claro),544.0,2026S1
+CHIMALTENANGO,Zaragoza,municipio,Teléfonos del Norte,0.0,2026S1
+CHIMALTENANGO,Zaragoza,municipio,Claro Guatemala,0.0,2026S1
+CHIMALTENANGO,Zaragoza,municipio,Guatel,0.0,2026S1
+CHIMALTENANGO,Zaragoza,municipio,Liberty (Columbus),0.0,2026S1
+CHIMALTENANGO,El Tejar,municipio,Cablenet,0.0,2026S1
+CHIMALTENANGO,El Tejar,municipio,Comcel (Tigo),0.0,2026S1
+CHIMALTENANGO,El Tejar,municipio,A-Tel,0.0,2026S1
+CHIMALTENANGO,El Tejar,municipio,Telgua (Claro),1397.0,2026S1
+CHIMALTENANGO,El Tejar,municipio,Teléfonos del Norte,0.0,2026S1
+CHIMALTENANGO,El Tejar,municipio,Claro Guatemala,0.0,2026S1
+CHIMALTENANGO,El Tejar,municipio,Guatel,0.0,2026S1
+CHIMALTENANGO,El Tejar,municipio,Liberty (Columbus),0.0,2026S1
+ESCUINTLA,ESCUINTLA,departamento,Cablenet,0.0,2026S1
+ESCUINTLA,ESCUINTLA,departamento,Comcel (Tigo),64.0,2026S1
+ESCUINTLA,ESCUINTLA,departamento,A-Tel,0.0,2026S1
+ESCUINTLA,ESCUINTLA,departamento,Telgua (Claro),27735.0,2026S1
+ESCUINTLA,ESCUINTLA,departamento,Teléfonos del Norte,0.0,2026S1
+ESCUINTLA,ESCUINTLA,departamento,Claro Guatemala,0.0,2026S1
+ESCUINTLA,ESCUINTLA,departamento,Guatel,0.0,2026S1
+ESCUINTLA,ESCUINTLA,departamento,Liberty (Columbus),0.0,2026S1
+ESCUINTLA,Escuintla,municipio,Cablenet,0.0,2026S1
+ESCUINTLA,Escuintla,municipio,Comcel (Tigo),23.0,2026S1
+ESCUINTLA,Escuintla,municipio,A-Tel,0.0,2026S1
+ESCUINTLA,Escuintla,municipio,Telgua (Claro),12836.0,2026S1
+ESCUINTLA,Escuintla,municipio,Teléfonos del Norte,0.0,2026S1
+ESCUINTLA,Escuintla,municipio,Claro Guatemala,0.0,2026S1
+ESCUINTLA,Escuintla,municipio,Guatel,0.0,2026S1
+ESCUINTLA,Escuintla,municipio,Liberty (Columbus),0.0,2026S1
+ESCUINTLA,Santa Lucía Cotzumalguapa,municipio,Cablenet,0.0,2026S1
+ESCUINTLA,Santa Lucía Cotzumalguapa,municipio,Comcel (Tigo),6.0,2026S1
+ESCUINTLA,Santa Lucía Cotzumalguapa,municipio,A-Tel,0.0,2026S1
+ESCUINTLA,Santa Lucía Cotzumalguapa,municipio,Telgua (Claro),3963.0,2026S1
+ESCUINTLA,Santa Lucía Cotzumalguapa,municipio,Teléfonos del Norte,0.0,2026S1
+ESCUINTLA,Santa Lucía Cotzumalguapa,municipio,Claro Guatemala,0.0,2026S1
+ESCUINTLA,Santa Lucía Cotzumalguapa,municipio,Guatel,0.0,2026S1
+ESCUINTLA,Santa Lucía Cotzumalguapa,municipio,Liberty (Columbus),0.0,2026S1
+ESCUINTLA,La Democracia,municipio,Cablenet,0.0,2026S1
+ESCUINTLA,La Democracia,municipio,Comcel (Tigo),0.0,2026S1
+ESCUINTLA,La Democracia,municipio,A-Tel,0.0,2026S1
+ESCUINTLA,La Democracia,municipio,Telgua (Claro),489.0,2026S1
+ESCUINTLA,La Democracia,municipio,Teléfonos del Norte,0.0,2026S1
+ESCUINTLA,La Democracia,municipio,Claro Guatemala,0.0,2026S1
+ESCUINTLA,La Democracia,municipio,Guatel,0.0,2026S1
+ESCUINTLA,La Democracia,municipio,Liberty (Columbus),0.0,2026S1
+ESCUINTLA,Siquinalá,municipio,Cablenet,0.0,2026S1
+ESCUINTLA,Siquinalá,municipio,Comcel (Tigo),2.0,2026S1
+ESCUINTLA,Siquinalá,municipio,A-Tel,0.0,2026S1
+ESCUINTLA,Siquinalá,municipio,Telgua (Claro),829.0,2026S1
+ESCUINTLA,Siquinalá,municipio,Teléfonos del Norte,0.0,2026S1
+ESCUINTLA,Siquinalá,municipio,Claro Guatemala,0.0,2026S1
+ESCUINTLA,Siquinalá,municipio,Guatel,0.0,2026S1
+ESCUINTLA,Siquinalá,municipio,Liberty (Columbus),0.0,2026S1
+ESCUINTLA,Masagua,municipio,Cablenet,0.0,2026S1
+ESCUINTLA,Masagua,municipio,Comcel (Tigo),8.0,2026S1
+ESCUINTLA,Masagua,municipio,A-Tel,0.0,2026S1
+ESCUINTLA,Masagua,municipio,Telgua (Claro),189.0,2026S1
+ESCUINTLA,Masagua,municipio,Teléfonos del Norte,0.0,2026S1
+ESCUINTLA,Masagua,municipio,Claro Guatemala,0.0,2026S1
+ESCUINTLA,Masagua,municipio,Guatel,0.0,2026S1
+ESCUINTLA,Masagua,municipio,Liberty (Columbus),0.0,2026S1
+ESCUINTLA,Tiquisate,municipio,Cablenet,0.0,2026S1
+ESCUINTLA,Tiquisate,municipio,Comcel (Tigo),0.0,2026S1
+ESCUINTLA,Tiquisate,municipio,A-Tel,0.0,2026S1
+ESCUINTLA,Tiquisate,municipio,Telgua (Claro),2476.0,2026S1
+ESCUINTLA,Tiquisate,municipio,Teléfonos del Norte,0.0,2026S1
+ESCUINTLA,Tiquisate,municipio,Claro Guatemala,0.0,2026S1
+ESCUINTLA,Tiquisate,municipio,Guatel,0.0,2026S1
+ESCUINTLA,Tiquisate,municipio,Liberty (Columbus),0.0,2026S1
+ESCUINTLA,La Gomera,municipio,Cablenet,0.0,2026S1
+ESCUINTLA,La Gomera,municipio,Comcel (Tigo),2.0,2026S1
+ESCUINTLA,La Gomera,municipio,A-Tel,0.0,2026S1
+ESCUINTLA,La Gomera,municipio,Telgua (Claro),1010.0,2026S1
+ESCUINTLA,La Gomera,municipio,Teléfonos del Norte,0.0,2026S1
+ESCUINTLA,La Gomera,municipio,Claro Guatemala,0.0,2026S1
+ESCUINTLA,La Gomera,municipio,Guatel,0.0,2026S1
+ESCUINTLA,La Gomera,municipio,Liberty (Columbus),0.0,2026S1
+ESCUINTLA,Guanagazapa,municipio,Cablenet,0.0,2026S1
+ESCUINTLA,Guanagazapa,municipio,Comcel (Tigo),0.0,2026S1
+ESCUINTLA,Guanagazapa,municipio,A-Tel,0.0,2026S1
+ESCUINTLA,Guanagazapa,municipio,Telgua (Claro),27.0,2026S1
+ESCUINTLA,Guanagazapa,municipio,Teléfonos del Norte,0.0,2026S1
+ESCUINTLA,Guanagazapa,municipio,Claro Guatemala,0.0,2026S1
+ESCUINTLA,Guanagazapa,municipio,Guatel,0.0,2026S1
+ESCUINTLA,Guanagazapa,municipio,Liberty (Columbus),0.0,2026S1
+ESCUINTLA,San José,municipio,Cablenet,0.0,2026S1
+ESCUINTLA,San José,municipio,Comcel (Tigo),13.0,2026S1
+ESCUINTLA,San José,municipio,A-Tel,0.0,2026S1
+ESCUINTLA,San José,municipio,Telgua (Claro),2907.0,2026S1
+ESCUINTLA,San José,municipio,Teléfonos del Norte,0.0,2026S1
+ESCUINTLA,San José,municipio,Claro Guatemala,0.0,2026S1
+ESCUINTLA,San José,municipio,Guatel,0.0,2026S1
+ESCUINTLA,San José,municipio,Liberty (Columbus),0.0,2026S1
+ESCUINTLA,Iztapa,municipio,Cablenet,0.0,2026S1
+ESCUINTLA,Iztapa,municipio,Comcel (Tigo),0.0,2026S1
+ESCUINTLA,Iztapa,municipio,A-Tel,0.0,2026S1
+ESCUINTLA,Iztapa,municipio,Telgua (Claro),179.0,2026S1
+ESCUINTLA,Iztapa,municipio,Teléfonos del Norte,0.0,2026S1
+ESCUINTLA,Iztapa,municipio,Claro Guatemala,0.0,2026S1
+ESCUINTLA,Iztapa,municipio,Guatel,0.0,2026S1
+ESCUINTLA,Iztapa,municipio,Liberty (Columbus),0.0,2026S1
+ESCUINTLA,Palín,municipio,Cablenet,0.0,2026S1
+ESCUINTLA,Palín,municipio,Comcel (Tigo),6.0,2026S1
+ESCUINTLA,Palín,municipio,A-Tel,0.0,2026S1
+ESCUINTLA,Palín,municipio,Telgua (Claro),2309.0,2026S1
+ESCUINTLA,Palín,municipio,Teléfonos del Norte,0.0,2026S1
+ESCUINTLA,Palín,municipio,Claro Guatemala,0.0,2026S1
+ESCUINTLA,Palín,municipio,Guatel,0.0,2026S1
+ESCUINTLA,Palín,municipio,Liberty (Columbus),0.0,2026S1
+ESCUINTLA,San Vicente Pacaya,municipio,Cablenet,0.0,2026S1
+ESCUINTLA,San Vicente Pacaya,municipio,Comcel (Tigo),2.0,2026S1
+ESCUINTLA,San Vicente Pacaya,municipio,A-Tel,0.0,2026S1
+ESCUINTLA,San Vicente Pacaya,municipio,Telgua (Claro),45.0,2026S1
+ESCUINTLA,San Vicente Pacaya,municipio,Teléfonos del Norte,0.0,2026S1
+ESCUINTLA,San Vicente Pacaya,municipio,Claro Guatemala,0.0,2026S1
+ESCUINTLA,San Vicente Pacaya,municipio,Guatel,0.0,2026S1
+ESCUINTLA,San Vicente Pacaya,municipio,Liberty (Columbus),0.0,2026S1
+ESCUINTLA,Nueva Concepción,municipio,Cablenet,0.0,2026S1
+ESCUINTLA,Nueva Concepción,municipio,Comcel (Tigo),2.0,2026S1
+ESCUINTLA,Nueva Concepción,municipio,A-Tel,0.0,2026S1
+ESCUINTLA,Nueva Concepción,municipio,Telgua (Claro),476.0,2026S1
+ESCUINTLA,Nueva Concepción,municipio,Teléfonos del Norte,0.0,2026S1
+ESCUINTLA,Nueva Concepción,municipio,Claro Guatemala,0.0,2026S1
+ESCUINTLA,Nueva Concepción,municipio,Guatel,0.0,2026S1
+ESCUINTLA,Nueva Concepción,municipio,Liberty (Columbus),0.0,2026S1
+ESCUINTLA,Sipacate,municipio,Cablenet,0.0,2026S1
+ESCUINTLA,Sipacate,municipio,Comcel (Tigo),0.0,2026S1
+ESCUINTLA,Sipacate,municipio,A-Tel,0.0,2026S1
+ESCUINTLA,Sipacate,municipio,Telgua (Claro),0.0,2026S1
+ESCUINTLA,Sipacate,municipio,Teléfonos del Norte,0.0,2026S1
+ESCUINTLA,Sipacate,municipio,Claro Guatemala,0.0,2026S1
+ESCUINTLA,Sipacate,municipio,Guatel,0.0,2026S1
+ESCUINTLA,Sipacate,municipio,Liberty (Columbus),0.0,2026S1
+SANTA ROSA,SANTA ROSA,departamento,Cablenet,0.0,2026S1
+SANTA ROSA,SANTA ROSA,departamento,Comcel (Tigo),32.0,2026S1
+SANTA ROSA,SANTA ROSA,departamento,A-Tel,0.0,2026S1
+SANTA ROSA,SANTA ROSA,departamento,Telgua (Claro),11030.0,2026S1
+SANTA ROSA,SANTA ROSA,departamento,Teléfonos del Norte,0.0,2026S1
+SANTA ROSA,SANTA ROSA,departamento,Claro Guatemala,0.0,2026S1
+SANTA ROSA,SANTA ROSA,departamento,Guatel,0.0,2026S1
+SANTA ROSA,SANTA ROSA,departamento,Liberty (Columbus),0.0,2026S1
+SANTA ROSA,Cuilapa,municipio,Cablenet,0.0,2026S1
+SANTA ROSA,Cuilapa,municipio,Comcel (Tigo),6.0,2026S1
+SANTA ROSA,Cuilapa,municipio,A-Tel,0.0,2026S1
+SANTA ROSA,Cuilapa,municipio,Telgua (Claro),1937.0,2026S1
+SANTA ROSA,Cuilapa,municipio,Teléfonos del Norte,0.0,2026S1
+SANTA ROSA,Cuilapa,municipio,Claro Guatemala,0.0,2026S1
+SANTA ROSA,Cuilapa,municipio,Guatel,0.0,2026S1
+SANTA ROSA,Cuilapa,municipio,Liberty (Columbus),0.0,2026S1
+SANTA ROSA,Barberena,municipio,Cablenet,0.0,2026S1
+SANTA ROSA,Barberena,municipio,Comcel (Tigo),4.0,2026S1
+SANTA ROSA,Barberena,municipio,A-Tel,0.0,2026S1
+SANTA ROSA,Barberena,municipio,Telgua (Claro),2654.0,2026S1
+SANTA ROSA,Barberena,municipio,Teléfonos del Norte,0.0,2026S1
+SANTA ROSA,Barberena,municipio,Claro Guatemala,0.0,2026S1
+SANTA ROSA,Barberena,municipio,Guatel,0.0,2026S1
+SANTA ROSA,Barberena,municipio,Liberty (Columbus),0.0,2026S1
+SANTA ROSA,Santa Rosa de Lima,municipio,Cablenet,0.0,2026S1
+SANTA ROSA,Santa Rosa de Lima,municipio,Comcel (Tigo),1.0,2026S1
+SANTA ROSA,Santa Rosa de Lima,municipio,A-Tel,0.0,2026S1
+SANTA ROSA,Santa Rosa de Lima,municipio,Telgua (Claro),100.0,2026S1
+SANTA ROSA,Santa Rosa de Lima,municipio,Teléfonos del Norte,0.0,2026S1
+SANTA ROSA,Santa Rosa de Lima,municipio,Claro Guatemala,0.0,2026S1
+SANTA ROSA,Santa Rosa de Lima,municipio,Guatel,0.0,2026S1
+SANTA ROSA,Santa Rosa de Lima,municipio,Liberty (Columbus),0.0,2026S1
+SANTA ROSA,Casillas,municipio,Cablenet,0.0,2026S1
+SANTA ROSA,Casillas,municipio,Comcel (Tigo),2.0,2026S1
+SANTA ROSA,Casillas,municipio,A-Tel,0.0,2026S1
+SANTA ROSA,Casillas,municipio,Telgua (Claro),57.0,2026S1
+SANTA ROSA,Casillas,municipio,Teléfonos del Norte,0.0,2026S1
+SANTA ROSA,Casillas,municipio,Claro Guatemala,0.0,2026S1
+SANTA ROSA,Casillas,municipio,Guatel,0.0,2026S1
+SANTA ROSA,Casillas,municipio,Liberty (Columbus),0.0,2026S1
+SANTA ROSA,San Rafael Las Flores,municipio,Cablenet,0.0,2026S1
+SANTA ROSA,San Rafael Las Flores,municipio,Comcel (Tigo),2.0,2026S1
+SANTA ROSA,San Rafael Las Flores,municipio,A-Tel,0.0,2026S1
+SANTA ROSA,San Rafael Las Flores,municipio,Telgua (Claro),165.0,2026S1
+SANTA ROSA,San Rafael Las Flores,municipio,Teléfonos del Norte,0.0,2026S1
+SANTA ROSA,San Rafael Las Flores,municipio,Claro Guatemala,0.0,2026S1
+SANTA ROSA,San Rafael Las Flores,municipio,Guatel,0.0,2026S1
+SANTA ROSA,San Rafael Las Flores,municipio,Liberty (Columbus),0.0,2026S1
+SANTA ROSA,Oratorio,municipio,Cablenet,0.0,2026S1
+SANTA ROSA,Oratorio,municipio,Comcel (Tigo),3.0,2026S1
+SANTA ROSA,Oratorio,municipio,A-Tel,0.0,2026S1
+SANTA ROSA,Oratorio,municipio,Telgua (Claro),301.0,2026S1
+SANTA ROSA,Oratorio,municipio,Teléfonos del Norte,0.0,2026S1
+SANTA ROSA,Oratorio,municipio,Claro Guatemala,0.0,2026S1
+SANTA ROSA,Oratorio,municipio,Guatel,0.0,2026S1
+SANTA ROSA,Oratorio,municipio,Liberty (Columbus),0.0,2026S1
+SANTA ROSA,San Juan Tecuaco,municipio,Cablenet,0.0,2026S1
+SANTA ROSA,San Juan Tecuaco,municipio,Comcel (Tigo),0.0,2026S1
+SANTA ROSA,San Juan Tecuaco,municipio,A-Tel,0.0,2026S1
+SANTA ROSA,San Juan Tecuaco,municipio,Telgua (Claro),0.0,2026S1
+SANTA ROSA,San Juan Tecuaco,municipio,Teléfonos del Norte,0.0,2026S1
+SANTA ROSA,San Juan Tecuaco,municipio,Claro Guatemala,0.0,2026S1
+SANTA ROSA,San Juan Tecuaco,municipio,Guatel,0.0,2026S1
+SANTA ROSA,San Juan Tecuaco,municipio,Liberty (Columbus),0.0,2026S1
+SANTA ROSA,Chiquimulilla,municipio,Cablenet,0.0,2026S1
+SANTA ROSA,Chiquimulilla,municipio,Comcel (Tigo),4.0,2026S1
+SANTA ROSA,Chiquimulilla,municipio,A-Tel,0.0,2026S1
+SANTA ROSA,Chiquimulilla,municipio,Telgua (Claro),3044.0,2026S1
+SANTA ROSA,Chiquimulilla,municipio,Teléfonos del Norte,0.0,2026S1
+SANTA ROSA,Chiquimulilla,municipio,Claro Guatemala,0.0,2026S1
+SANTA ROSA,Chiquimulilla,municipio,Guatel,0.0,2026S1
+SANTA ROSA,Chiquimulilla,municipio,Liberty (Columbus),0.0,2026S1
+SANTA ROSA,Taxisco,municipio,Cablenet,0.0,2026S1
+SANTA ROSA,Taxisco,municipio,Comcel (Tigo),4.0,2026S1
+SANTA ROSA,Taxisco,municipio,A-Tel,0.0,2026S1
+SANTA ROSA,Taxisco,municipio,Telgua (Claro),849.0,2026S1
+SANTA ROSA,Taxisco,municipio,Teléfonos del Norte,0.0,2026S1
+SANTA ROSA,Taxisco,municipio,Claro Guatemala,0.0,2026S1
+SANTA ROSA,Taxisco,municipio,Guatel,0.0,2026S1
+SANTA ROSA,Taxisco,municipio,Liberty (Columbus),0.0,2026S1
+SANTA ROSA,Santa María Ixhuatán,municipio,Cablenet,0.0,2026S1
+SANTA ROSA,Santa María Ixhuatán,municipio,Comcel (Tigo),0.0,2026S1
+SANTA ROSA,Santa María Ixhuatán,municipio,A-Tel,0.0,2026S1
+SANTA ROSA,Santa María Ixhuatán,municipio,Telgua (Claro),91.0,2026S1
+SANTA ROSA,Santa María Ixhuatán,municipio,Teléfonos del Norte,0.0,2026S1
+SANTA ROSA,Santa María Ixhuatán,municipio,Claro Guatemala,0.0,2026S1
+SANTA ROSA,Santa María Ixhuatán,municipio,Guatel,0.0,2026S1
+SANTA ROSA,Santa María Ixhuatán,municipio,Liberty (Columbus),0.0,2026S1
+SANTA ROSA,Guazacapán,municipio,Cablenet,0.0,2026S1
+SANTA ROSA,Guazacapán,municipio,Comcel (Tigo),1.0,2026S1
+SANTA ROSA,Guazacapán,municipio,A-Tel,0.0,2026S1
+SANTA ROSA,Guazacapán,municipio,Telgua (Claro),666.0,2026S1
+SANTA ROSA,Guazacapán,municipio,Teléfonos del Norte,0.0,2026S1
+SANTA ROSA,Guazacapán,municipio,Claro Guatemala,0.0,2026S1
+SANTA ROSA,Guazacapán,municipio,Guatel,0.0,2026S1
+SANTA ROSA,Guazacapán,municipio,Liberty (Columbus),0.0,2026S1
+SANTA ROSA,Santa Cruz Naranjo,municipio,Cablenet,0.0,2026S1
+SANTA ROSA,Santa Cruz Naranjo,municipio,Comcel (Tigo),1.0,2026S1
+SANTA ROSA,Santa Cruz Naranjo,municipio,A-Tel,0.0,2026S1
+SANTA ROSA,Santa Cruz Naranjo,municipio,Telgua (Claro),210.0,2026S1
+SANTA ROSA,Santa Cruz Naranjo,municipio,Teléfonos del Norte,0.0,2026S1
+SANTA ROSA,Santa Cruz Naranjo,municipio,Claro Guatemala,0.0,2026S1
+SANTA ROSA,Santa Cruz Naranjo,municipio,Guatel,0.0,2026S1
+SANTA ROSA,Santa Cruz Naranjo,municipio,Liberty (Columbus),0.0,2026S1
+SANTA ROSA,Pueblo Nuevo Viñas,municipio,Cablenet,0.0,2026S1
+SANTA ROSA,Pueblo Nuevo Viñas,municipio,Comcel (Tigo),1.0,2026S1
+SANTA ROSA,Pueblo Nuevo Viñas,municipio,A-Tel,0.0,2026S1
+SANTA ROSA,Pueblo Nuevo Viñas,municipio,Telgua (Claro),107.0,2026S1
+SANTA ROSA,Pueblo Nuevo Viñas,municipio,Teléfonos del Norte,0.0,2026S1
+SANTA ROSA,Pueblo Nuevo Viñas,municipio,Claro Guatemala,0.0,2026S1
+SANTA ROSA,Pueblo Nuevo Viñas,municipio,Guatel,0.0,2026S1
+SANTA ROSA,Pueblo Nuevo Viñas,municipio,Liberty (Columbus),0.0,2026S1
+SANTA ROSA,Nueva Santa Rosa,municipio,Cablenet,0.0,2026S1
+SANTA ROSA,Nueva Santa Rosa,municipio,Comcel (Tigo),3.0,2026S1
+SANTA ROSA,Nueva Santa Rosa,municipio,A-Tel,0.0,2026S1
+SANTA ROSA,Nueva Santa Rosa,municipio,Telgua (Claro),849.0,2026S1
+SANTA ROSA,Nueva Santa Rosa,municipio,Teléfonos del Norte,0.0,2026S1
+SANTA ROSA,Nueva Santa Rosa,municipio,Claro Guatemala,0.0,2026S1
+SANTA ROSA,Nueva Santa Rosa,municipio,Guatel,0.0,2026S1
+SANTA ROSA,Nueva Santa Rosa,municipio,Liberty (Columbus),0.0,2026S1
+SOLOLÁ,SOLOLÁ,departamento,Cablenet,0.0,2026S1
+SOLOLÁ,SOLOLÁ,departamento,Comcel (Tigo),20.0,2026S1
+SOLOLÁ,SOLOLÁ,departamento,A-Tel,0.0,2026S1
+SOLOLÁ,SOLOLÁ,departamento,Telgua (Claro),11113.0,2026S1
+SOLOLÁ,SOLOLÁ,departamento,Teléfonos del Norte,0.0,2026S1
+SOLOLÁ,SOLOLÁ,departamento,Claro Guatemala,0.0,2026S1
+SOLOLÁ,SOLOLÁ,departamento,Guatel,0.0,2026S1
+SOLOLÁ,SOLOLÁ,departamento,Liberty (Columbus),0.0,2026S1
+SOLOLÁ,Sololá,municipio,Cablenet,0.0,2026S1
+SOLOLÁ,Sololá,municipio,Comcel (Tigo),3.0,2026S1
+SOLOLÁ,Sololá,municipio,A-Tel,0.0,2026S1
+SOLOLÁ,Sololá,municipio,Telgua (Claro),2251.0,2026S1
+SOLOLÁ,Sololá,municipio,Teléfonos del Norte,0.0,2026S1
+SOLOLÁ,Sololá,municipio,Claro Guatemala,0.0,2026S1
+SOLOLÁ,Sololá,municipio,Guatel,0.0,2026S1
+SOLOLÁ,Sololá,municipio,Liberty (Columbus),0.0,2026S1
+SOLOLÁ,San José Chacayá,municipio,Cablenet,0.0,2026S1
+SOLOLÁ,San José Chacayá,municipio,Comcel (Tigo),0.0,2026S1
+SOLOLÁ,San José Chacayá,municipio,A-Tel,0.0,2026S1
+SOLOLÁ,San José Chacayá,municipio,Telgua (Claro),33.0,2026S1
+SOLOLÁ,San José Chacayá,municipio,Teléfonos del Norte,0.0,2026S1
+SOLOLÁ,San José Chacayá,municipio,Claro Guatemala,0.0,2026S1
+SOLOLÁ,San José Chacayá,municipio,Guatel,0.0,2026S1
+SOLOLÁ,San José Chacayá,municipio,Liberty (Columbus),0.0,2026S1
+SOLOLÁ,Santa María Visitación,municipio,Cablenet,0.0,2026S1
+SOLOLÁ,Santa María Visitación,municipio,Comcel (Tigo),0.0,2026S1
+SOLOLÁ,Santa María Visitación,municipio,A-Tel,0.0,2026S1
+SOLOLÁ,Santa María Visitación,municipio,Telgua (Claro),78.0,2026S1
+SOLOLÁ,Santa María Visitación,municipio,Teléfonos del Norte,0.0,2026S1
+SOLOLÁ,Santa María Visitación,municipio,Claro Guatemala,0.0,2026S1
+SOLOLÁ,Santa María Visitación,municipio,Guatel,0.0,2026S1
+SOLOLÁ,Santa María Visitación,municipio,Liberty (Columbus),0.0,2026S1
+SOLOLÁ,Santa Lucía Utatlán,municipio,Cablenet,0.0,2026S1
+SOLOLÁ,Santa Lucía Utatlán,municipio,Comcel (Tigo),2.0,2026S1
+SOLOLÁ,Santa Lucía Utatlán,municipio,A-Tel,0.0,2026S1
+SOLOLÁ,Santa Lucía Utatlán,municipio,Telgua (Claro),163.0,2026S1
+SOLOLÁ,Santa Lucía Utatlán,municipio,Teléfonos del Norte,0.0,2026S1
+SOLOLÁ,Santa Lucía Utatlán,municipio,Claro Guatemala,0.0,2026S1
+SOLOLÁ,Santa Lucía Utatlán,municipio,Guatel,0.0,2026S1
+SOLOLÁ,Santa Lucía Utatlán,municipio,Liberty (Columbus),0.0,2026S1
+SOLOLÁ,Nahualá,municipio,Cablenet,0.0,2026S1
+SOLOLÁ,Nahualá,municipio,Comcel (Tigo),1.0,2026S1
+SOLOLÁ,Nahualá,municipio,A-Tel,0.0,2026S1
+SOLOLÁ,Nahualá,municipio,Telgua (Claro),37.0,2026S1
+SOLOLÁ,Nahualá,municipio,Teléfonos del Norte,0.0,2026S1
+SOLOLÁ,Nahualá,municipio,Claro Guatemala,0.0,2026S1
+SOLOLÁ,Nahualá,municipio,Guatel,0.0,2026S1
+SOLOLÁ,Nahualá,municipio,Liberty (Columbus),0.0,2026S1
+SOLOLÁ,Santa Catarina Ixtahuacán,municipio,Cablenet,0.0,2026S1
+SOLOLÁ,Santa Catarina Ixtahuacán,municipio,Comcel (Tigo),0.0,2026S1
+SOLOLÁ,Santa Catarina Ixtahuacán,municipio,A-Tel,0.0,2026S1
+SOLOLÁ,Santa Catarina Ixtahuacán,municipio,Telgua (Claro),27.0,2026S1
+SOLOLÁ,Santa Catarina Ixtahuacán,municipio,Teléfonos del Norte,0.0,2026S1
+SOLOLÁ,Santa Catarina Ixtahuacán,municipio,Claro Guatemala,0.0,2026S1
+SOLOLÁ,Santa Catarina Ixtahuacán,municipio,Guatel,0.0,2026S1
+SOLOLÁ,Santa Catarina Ixtahuacán,municipio,Liberty (Columbus),0.0,2026S1
+SOLOLÁ,Santa Clara La Laguna,municipio,Cablenet,0.0,2026S1
+SOLOLÁ,Santa Clara La Laguna,municipio,Comcel (Tigo),0.0,2026S1
+SOLOLÁ,Santa Clara La Laguna,municipio,A-Tel,0.0,2026S1
+SOLOLÁ,Santa Clara La Laguna,municipio,Telgua (Claro),437.0,2026S1
+SOLOLÁ,Santa Clara La Laguna,municipio,Teléfonos del Norte,0.0,2026S1
+SOLOLÁ,Santa Clara La Laguna,municipio,Claro Guatemala,0.0,2026S1
+SOLOLÁ,Santa Clara La Laguna,municipio,Guatel,0.0,2026S1
+SOLOLÁ,Santa Clara La Laguna,municipio,Liberty (Columbus),0.0,2026S1
+SOLOLÁ,Concepción,municipio,Cablenet,0.0,2026S1
+SOLOLÁ,Concepción,municipio,Comcel (Tigo),0.0,2026S1
+SOLOLÁ,Concepción,municipio,A-Tel,0.0,2026S1
+SOLOLÁ,Concepción,municipio,Telgua (Claro),33.0,2026S1
+SOLOLÁ,Concepción,municipio,Teléfonos del Norte,0.0,2026S1
+SOLOLÁ,Concepción,municipio,Claro Guatemala,0.0,2026S1
+SOLOLÁ,Concepción,municipio,Guatel,0.0,2026S1
+SOLOLÁ,Concepción,municipio,Liberty (Columbus),0.0,2026S1
+SOLOLÁ,San Andrés Semetabaj,municipio,Cablenet,0.0,2026S1
+SOLOLÁ,San Andrés Semetabaj,municipio,Comcel (Tigo),3.0,2026S1
+SOLOLÁ,San Andrés Semetabaj,municipio,A-Tel,0.0,2026S1
+SOLOLÁ,San Andrés Semetabaj,municipio,Telgua (Claro),98.0,2026S1
+SOLOLÁ,San Andrés Semetabaj,municipio,Teléfonos del Norte,0.0,2026S1
+SOLOLÁ,San Andrés Semetabaj,municipio,Claro Guatemala,0.0,2026S1
+SOLOLÁ,San Andrés Semetabaj,municipio,Guatel,0.0,2026S1
+SOLOLÁ,San Andrés Semetabaj,municipio,Liberty (Columbus),0.0,2026S1
+SOLOLÁ,Panajachel,municipio,Cablenet,0.0,2026S1
+SOLOLÁ,Panajachel,municipio,Comcel (Tigo),4.0,2026S1
+SOLOLÁ,Panajachel,municipio,A-Tel,0.0,2026S1
+SOLOLÁ,Panajachel,municipio,Telgua (Claro),4409.0,2026S1
+SOLOLÁ,Panajachel,municipio,Teléfonos del Norte,0.0,2026S1
+SOLOLÁ,Panajachel,municipio,Claro Guatemala,0.0,2026S1
+SOLOLÁ,Panajachel,municipio,Guatel,0.0,2026S1
+SOLOLÁ,Panajachel,municipio,Liberty (Columbus),0.0,2026S1
+SOLOLÁ,Santa Catarina Palopó,municipio,Cablenet,0.0,2026S1
+SOLOLÁ,Santa Catarina Palopó,municipio,Comcel (Tigo),0.0,2026S1
+SOLOLÁ,Santa Catarina Palopó,municipio,A-Tel,0.0,2026S1
+SOLOLÁ,Santa Catarina Palopó,municipio,Telgua (Claro),78.0,2026S1
+SOLOLÁ,Santa Catarina Palopó,municipio,Teléfonos del Norte,0.0,2026S1
+SOLOLÁ,Santa Catarina Palopó,municipio,Claro Guatemala,0.0,2026S1
+SOLOLÁ,Santa Catarina Palopó,municipio,Guatel,0.0,2026S1
+SOLOLÁ,Santa Catarina Palopó,municipio,Liberty (Columbus),0.0,2026S1
+SOLOLÁ,San Antonio Palopó,municipio,Cablenet,0.0,2026S1
+SOLOLÁ,San Antonio Palopó,municipio,Comcel (Tigo),3.0,2026S1
+SOLOLÁ,San Antonio Palopó,municipio,A-Tel,0.0,2026S1
+SOLOLÁ,San Antonio Palopó,municipio,Telgua (Claro),33.0,2026S1
+SOLOLÁ,San Antonio Palopó,municipio,Teléfonos del Norte,0.0,2026S1
+SOLOLÁ,San Antonio Palopó,municipio,Claro Guatemala,0.0,2026S1
+SOLOLÁ,San Antonio Palopó,municipio,Guatel,0.0,2026S1
+SOLOLÁ,San Antonio Palopó,municipio,Liberty (Columbus),0.0,2026S1
+SOLOLÁ,San Lucas Tolimán,municipio,Cablenet,0.0,2026S1
+SOLOLÁ,San Lucas Tolimán,municipio,Comcel (Tigo),1.0,2026S1
+SOLOLÁ,San Lucas Tolimán,municipio,A-Tel,0.0,2026S1
+SOLOLÁ,San Lucas Tolimán,municipio,Telgua (Claro),1397.0,2026S1
+SOLOLÁ,San Lucas Tolimán,municipio,Teléfonos del Norte,0.0,2026S1
+SOLOLÁ,San Lucas Tolimán,municipio,Claro Guatemala,0.0,2026S1
+SOLOLÁ,San Lucas Tolimán,municipio,Guatel,0.0,2026S1
+SOLOLÁ,San Lucas Tolimán,municipio,Liberty (Columbus),0.0,2026S1
+SOLOLÁ,Santa Cruz La Laguna,municipio,Cablenet,0.0,2026S1
+SOLOLÁ,Santa Cruz La Laguna,municipio,Comcel (Tigo),0.0,2026S1
+SOLOLÁ,Santa Cruz La Laguna,municipio,A-Tel,0.0,2026S1
+SOLOLÁ,Santa Cruz La Laguna,municipio,Telgua (Claro),33.0,2026S1
+SOLOLÁ,Santa Cruz La Laguna,municipio,Teléfonos del Norte,0.0,2026S1
+SOLOLÁ,Santa Cruz La Laguna,municipio,Claro Guatemala,0.0,2026S1
+SOLOLÁ,Santa Cruz La Laguna,municipio,Guatel,0.0,2026S1
+SOLOLÁ,Santa Cruz La Laguna,municipio,Liberty (Columbus),0.0,2026S1
+SOLOLÁ,San Pablo La Laguna,municipio,Cablenet,0.0,2026S1
+SOLOLÁ,San Pablo La Laguna,municipio,Comcel (Tigo),0.0,2026S1
+SOLOLÁ,San Pablo La Laguna,municipio,A-Tel,0.0,2026S1
+SOLOLÁ,San Pablo La Laguna,municipio,Telgua (Claro),27.0,2026S1
+SOLOLÁ,San Pablo La Laguna,municipio,Teléfonos del Norte,0.0,2026S1
+SOLOLÁ,San Pablo La Laguna,municipio,Claro Guatemala,0.0,2026S1
+SOLOLÁ,San Pablo La Laguna,municipio,Guatel,0.0,2026S1
+SOLOLÁ,San Pablo La Laguna,municipio,Liberty (Columbus),0.0,2026S1
+SOLOLÁ,San Marcos La Laguna,municipio,Cablenet,0.0,2026S1
+SOLOLÁ,San Marcos La Laguna,municipio,Comcel (Tigo),1.0,2026S1
+SOLOLÁ,San Marcos La Laguna,municipio,A-Tel,0.0,2026S1
+SOLOLÁ,San Marcos La Laguna,municipio,Telgua (Claro),27.0,2026S1
+SOLOLÁ,San Marcos La Laguna,municipio,Teléfonos del Norte,0.0,2026S1
+SOLOLÁ,San Marcos La Laguna,municipio,Claro Guatemala,0.0,2026S1
+SOLOLÁ,San Marcos La Laguna,municipio,Guatel,0.0,2026S1
+SOLOLÁ,San Marcos La Laguna,municipio,Liberty (Columbus),0.0,2026S1
+SOLOLÁ,San Juan La Laguna,municipio,Cablenet,0.0,2026S1
+SOLOLÁ,San Juan La Laguna,municipio,Comcel (Tigo),1.0,2026S1
+SOLOLÁ,San Juan La Laguna,municipio,A-Tel,0.0,2026S1
+SOLOLÁ,San Juan La Laguna,municipio,Telgua (Claro),33.0,2026S1
+SOLOLÁ,San Juan La Laguna,municipio,Teléfonos del Norte,0.0,2026S1
+SOLOLÁ,San Juan La Laguna,municipio,Claro Guatemala,0.0,2026S1
+SOLOLÁ,San Juan La Laguna,municipio,Guatel,0.0,2026S1
+SOLOLÁ,San Juan La Laguna,municipio,Liberty (Columbus),0.0,2026S1
+SOLOLÁ,San Pedro La Laguna,municipio,Cablenet,0.0,2026S1
+SOLOLÁ,San Pedro La Laguna,municipio,Comcel (Tigo),0.0,2026S1
+SOLOLÁ,San Pedro La Laguna,municipio,A-Tel,0.0,2026S1
+SOLOLÁ,San Pedro La Laguna,municipio,Telgua (Claro),1122.0,2026S1
+SOLOLÁ,San Pedro La Laguna,municipio,Teléfonos del Norte,0.0,2026S1
+SOLOLÁ,San Pedro La Laguna,municipio,Claro Guatemala,0.0,2026S1
+SOLOLÁ,San Pedro La Laguna,municipio,Guatel,0.0,2026S1
+SOLOLÁ,San Pedro La Laguna,municipio,Liberty (Columbus),0.0,2026S1
+SOLOLÁ,Santiago Atitlán,municipio,Cablenet,0.0,2026S1
+SOLOLÁ,Santiago Atitlán,municipio,Comcel (Tigo),1.0,2026S1
+SOLOLÁ,Santiago Atitlán,municipio,A-Tel,0.0,2026S1
+SOLOLÁ,Santiago Atitlán,municipio,Telgua (Claro),797.0,2026S1
+SOLOLÁ,Santiago Atitlán,municipio,Teléfonos del Norte,0.0,2026S1
+SOLOLÁ,Santiago Atitlán,municipio,Claro Guatemala,0.0,2026S1
+SOLOLÁ,Santiago Atitlán,municipio,Guatel,0.0,2026S1
+SOLOLÁ,Santiago Atitlán,municipio,Liberty (Columbus),0.0,2026S1
+TOTONICAPÁN,TOTONICAPÁN,departamento,Cablenet,0.0,2026S1
+TOTONICAPÁN,TOTONICAPÁN,departamento,Comcel (Tigo),7.0,2026S1
+TOTONICAPÁN,TOTONICAPÁN,departamento,A-Tel,0.0,2026S1
+TOTONICAPÁN,TOTONICAPÁN,departamento,Telgua (Claro),14195.0,2026S1
+TOTONICAPÁN,TOTONICAPÁN,departamento,Teléfonos del Norte,0.0,2026S1
+TOTONICAPÁN,TOTONICAPÁN,departamento,Claro Guatemala,0.0,2026S1
+TOTONICAPÁN,TOTONICAPÁN,departamento,Guatel,0.0,2026S1
+TOTONICAPÁN,TOTONICAPÁN,departamento,Liberty (Columbus),0.0,2026S1
+TOTONICAPÁN,Totonicapán,municipio,Cablenet,0.0,2026S1
+TOTONICAPÁN,Totonicapán,municipio,Comcel (Tigo),1.0,2026S1
+TOTONICAPÁN,Totonicapán,municipio,A-Tel,0.0,2026S1
+TOTONICAPÁN,Totonicapán,municipio,Telgua (Claro),5553.0,2026S1
+TOTONICAPÁN,Totonicapán,municipio,Teléfonos del Norte,0.0,2026S1
+TOTONICAPÁN,Totonicapán,municipio,Claro Guatemala,0.0,2026S1
+TOTONICAPÁN,Totonicapán,municipio,Guatel,0.0,2026S1
+TOTONICAPÁN,Totonicapán,municipio,Liberty (Columbus),0.0,2026S1
+TOTONICAPÁN,San Cristóbal Totonicapán,municipio,Cablenet,0.0,2026S1
+TOTONICAPÁN,San Cristóbal Totonicapán,municipio,Comcel (Tigo),1.0,2026S1
+TOTONICAPÁN,San Cristóbal Totonicapán,municipio,A-Tel,0.0,2026S1
+TOTONICAPÁN,San Cristóbal Totonicapán,municipio,Telgua (Claro),1944.0,2026S1
+TOTONICAPÁN,San Cristóbal Totonicapán,municipio,Teléfonos del Norte,0.0,2026S1
+TOTONICAPÁN,San Cristóbal Totonicapán,municipio,Claro Guatemala,0.0,2026S1
+TOTONICAPÁN,San Cristóbal Totonicapán,municipio,Guatel,0.0,2026S1
+TOTONICAPÁN,San Cristóbal Totonicapán,municipio,Liberty (Columbus),0.0,2026S1
+TOTONICAPÁN,San Francisco El Alto,municipio,Cablenet,0.0,2026S1
+TOTONICAPÁN,San Francisco El Alto,municipio,Comcel (Tigo),1.0,2026S1
+TOTONICAPÁN,San Francisco El Alto,municipio,A-Tel,0.0,2026S1
+TOTONICAPÁN,San Francisco El Alto,municipio,Telgua (Claro),940.0,2026S1
+TOTONICAPÁN,San Francisco El Alto,municipio,Teléfonos del Norte,0.0,2026S1
+TOTONICAPÁN,San Francisco El Alto,municipio,Claro Guatemala,0.0,2026S1
+TOTONICAPÁN,San Francisco El Alto,municipio,Guatel,0.0,2026S1
+TOTONICAPÁN,San Francisco El Alto,municipio,Liberty (Columbus),0.0,2026S1
+TOTONICAPÁN,San Andrés Xecul,municipio,Cablenet,0.0,2026S1
+TOTONICAPÁN,San Andrés Xecul,municipio,Comcel (Tigo),0.0,2026S1
+TOTONICAPÁN,San Andrés Xecul,municipio,A-Tel,0.0,2026S1
+TOTONICAPÁN,San Andrés Xecul,municipio,Telgua (Claro),85.0,2026S1
+TOTONICAPÁN,San Andrés Xecul,municipio,Teléfonos del Norte,0.0,2026S1
+TOTONICAPÁN,San Andrés Xecul,municipio,Claro Guatemala,0.0,2026S1
+TOTONICAPÁN,San Andrés Xecul,municipio,Guatel,0.0,2026S1
+TOTONICAPÁN,San Andrés Xecul,municipio,Liberty (Columbus),0.0,2026S1
+TOTONICAPÁN,Momostenango,municipio,Cablenet,0.0,2026S1
+TOTONICAPÁN,Momostenango,municipio,Comcel (Tigo),4.0,2026S1
+TOTONICAPÁN,Momostenango,municipio,A-Tel,0.0,2026S1
+TOTONICAPÁN,Momostenango,municipio,Telgua (Claro),5673.0,2026S1
+TOTONICAPÁN,Momostenango,municipio,Teléfonos del Norte,0.0,2026S1
+TOTONICAPÁN,Momostenango,municipio,Claro Guatemala,0.0,2026S1
+TOTONICAPÁN,Momostenango,municipio,Guatel,0.0,2026S1
+TOTONICAPÁN,Momostenango,municipio,Liberty (Columbus),0.0,2026S1
+TOTONICAPÁN,Santa María Chiquimula,municipio,Cablenet,0.0,2026S1
+TOTONICAPÁN,Santa María Chiquimula,municipio,Comcel (Tigo),0.0,2026S1
+TOTONICAPÁN,Santa María Chiquimula,municipio,A-Tel,0.0,2026S1
+TOTONICAPÁN,Santa María Chiquimula,municipio,Telgua (Claro),0.0,2026S1
+TOTONICAPÁN,Santa María Chiquimula,municipio,Teléfonos del Norte,0.0,2026S1
+TOTONICAPÁN,Santa María Chiquimula,municipio,Claro Guatemala,0.0,2026S1
+TOTONICAPÁN,Santa María Chiquimula,municipio,Guatel,0.0,2026S1
+TOTONICAPÁN,Santa María Chiquimula,municipio,Liberty (Columbus),0.0,2026S1
+TOTONICAPÁN,Santa Lucía la Reforma,municipio,Cablenet,0.0,2026S1
+TOTONICAPÁN,Santa Lucía la Reforma,municipio,Comcel (Tigo),0.0,2026S1
+TOTONICAPÁN,Santa Lucía la Reforma,municipio,A-Tel,0.0,2026S1
+TOTONICAPÁN,Santa Lucía la Reforma,municipio,Telgua (Claro),0.0,2026S1
+TOTONICAPÁN,Santa Lucía la Reforma,municipio,Teléfonos del Norte,0.0,2026S1
+TOTONICAPÁN,Santa Lucía la Reforma,municipio,Claro Guatemala,0.0,2026S1
+TOTONICAPÁN,Santa Lucía la Reforma,municipio,Guatel,0.0,2026S1
+TOTONICAPÁN,Santa Lucía la Reforma,municipio,Liberty (Columbus),0.0,2026S1
+TOTONICAPÁN,San Bartolo Aguas Calientes,municipio,Cablenet,0.0,2026S1
+TOTONICAPÁN,San Bartolo Aguas Calientes,municipio,Comcel (Tigo),0.0,2026S1
+TOTONICAPÁN,San Bartolo Aguas Calientes,municipio,A-Tel,0.0,2026S1
+TOTONICAPÁN,San Bartolo Aguas Calientes,municipio,Telgua (Claro),0.0,2026S1
+TOTONICAPÁN,San Bartolo Aguas Calientes,municipio,Teléfonos del Norte,0.0,2026S1
+TOTONICAPÁN,San Bartolo Aguas Calientes,municipio,Claro Guatemala,0.0,2026S1
+TOTONICAPÁN,San Bartolo Aguas Calientes,municipio,Guatel,0.0,2026S1
+TOTONICAPÁN,San Bartolo Aguas Calientes,municipio,Liberty (Columbus),0.0,2026S1
+QUETZALTENANGO,QUETZALTENANGO,departamento,Cablenet,0.0,2026S1
+QUETZALTENANGO,QUETZALTENANGO,departamento,Comcel (Tigo),42487.0,2026S1
+QUETZALTENANGO,QUETZALTENANGO,departamento,A-Tel,0.0,2026S1
+QUETZALTENANGO,QUETZALTENANGO,departamento,Telgua (Claro),118436.0,2026S1
+QUETZALTENANGO,QUETZALTENANGO,departamento,Teléfonos del Norte,0.0,2026S1
+QUETZALTENANGO,QUETZALTENANGO,departamento,Claro Guatemala,0.0,2026S1
+QUETZALTENANGO,QUETZALTENANGO,departamento,Guatel,0.0,2026S1
+QUETZALTENANGO,QUETZALTENANGO,departamento,Liberty (Columbus),0.0,2026S1
+QUETZALTENANGO,Quetzaltenango,municipio,Cablenet,0.0,2026S1
+QUETZALTENANGO,Quetzaltenango,municipio,Comcel (Tigo),42475.0,2026S1
+QUETZALTENANGO,Quetzaltenango,municipio,A-Tel,0.0,2026S1
+QUETZALTENANGO,Quetzaltenango,municipio,Telgua (Claro),79114.0,2026S1
+QUETZALTENANGO,Quetzaltenango,municipio,Teléfonos del Norte,0.0,2026S1
+QUETZALTENANGO,Quetzaltenango,municipio,Claro Guatemala,0.0,2026S1
+QUETZALTENANGO,Quetzaltenango,municipio,Guatel,0.0,2026S1
+QUETZALTENANGO,Quetzaltenango,municipio,Liberty (Columbus),0.0,2026S1
+QUETZALTENANGO,Salcajá,municipio,Cablenet,0.0,2026S1
+QUETZALTENANGO,Salcajá,municipio,Comcel (Tigo),1.0,2026S1
+QUETZALTENANGO,Salcajá,municipio,A-Tel,0.0,2026S1
+QUETZALTENANGO,Salcajá,municipio,Telgua (Claro),2208.0,2026S1
+QUETZALTENANGO,Salcajá,municipio,Teléfonos del Norte,0.0,2026S1
+QUETZALTENANGO,Salcajá,municipio,Claro Guatemala,0.0,2026S1
+QUETZALTENANGO,Salcajá,municipio,Guatel,0.0,2026S1
+QUETZALTENANGO,Salcajá,municipio,Liberty (Columbus),0.0,2026S1
+QUETZALTENANGO,San Juan Olintepeque,municipio,Cablenet,0.0,2026S1
+QUETZALTENANGO,San Juan Olintepeque,municipio,Comcel (Tigo),0.0,2026S1
+QUETZALTENANGO,San Juan Olintepeque,municipio,A-Tel,0.0,2026S1
+QUETZALTENANGO,San Juan Olintepeque,municipio,Telgua (Claro),0.0,2026S1
+QUETZALTENANGO,San Juan Olintepeque,municipio,Teléfonos del Norte,0.0,2026S1
+QUETZALTENANGO,San Juan Olintepeque,municipio,Claro Guatemala,0.0,2026S1
+QUETZALTENANGO,San Juan Olintepeque,municipio,Guatel,0.0,2026S1
+QUETZALTENANGO,San Juan Olintepeque,municipio,Liberty (Columbus),0.0,2026S1
+QUETZALTENANGO,San Carlos Sija,municipio,Cablenet,0.0,2026S1
+QUETZALTENANGO,San Carlos Sija,municipio,Comcel (Tigo),2.0,2026S1
+QUETZALTENANGO,San Carlos Sija,municipio,A-Tel,0.0,2026S1
+QUETZALTENANGO,San Carlos Sija,municipio,Telgua (Claro),322.0,2026S1
+QUETZALTENANGO,San Carlos Sija,municipio,Teléfonos del Norte,0.0,2026S1
+QUETZALTENANGO,San Carlos Sija,municipio,Claro Guatemala,0.0,2026S1
+QUETZALTENANGO,San Carlos Sija,municipio,Guatel,0.0,2026S1
+QUETZALTENANGO,San Carlos Sija,municipio,Liberty (Columbus),0.0,2026S1
+QUETZALTENANGO,Sibilia,municipio,Cablenet,0.0,2026S1
+QUETZALTENANGO,Sibilia,municipio,Comcel (Tigo),0.0,2026S1
+QUETZALTENANGO,Sibilia,municipio,A-Tel,0.0,2026S1
+QUETZALTENANGO,Sibilia,municipio,Telgua (Claro),327.0,2026S1
+QUETZALTENANGO,Sibilia,municipio,Teléfonos del Norte,0.0,2026S1
+QUETZALTENANGO,Sibilia,municipio,Claro Guatemala,0.0,2026S1
+QUETZALTENANGO,Sibilia,municipio,Guatel,0.0,2026S1
+QUETZALTENANGO,Sibilia,municipio,Liberty (Columbus),0.0,2026S1
+QUETZALTENANGO,Cabricán,municipio,Cablenet,0.0,2026S1
+QUETZALTENANGO,Cabricán,municipio,Comcel (Tigo),1.0,2026S1
+QUETZALTENANGO,Cabricán,municipio,A-Tel,0.0,2026S1
+QUETZALTENANGO,Cabricán,municipio,Telgua (Claro),236.0,2026S1
+QUETZALTENANGO,Cabricán,municipio,Teléfonos del Norte,0.0,2026S1
+QUETZALTENANGO,Cabricán,municipio,Claro Guatemala,0.0,2026S1
+QUETZALTENANGO,Cabricán,municipio,Guatel,0.0,2026S1
+QUETZALTENANGO,Cabricán,municipio,Liberty (Columbus),0.0,2026S1
+QUETZALTENANGO,Cajolá,municipio,Cablenet,0.0,2026S1
+QUETZALTENANGO,Cajolá,municipio,Comcel (Tigo),0.0,2026S1
+QUETZALTENANGO,Cajolá,municipio,A-Tel,0.0,2026S1
+QUETZALTENANGO,Cajolá,municipio,Telgua (Claro),11.0,2026S1
+QUETZALTENANGO,Cajolá,municipio,Teléfonos del Norte,0.0,2026S1
+QUETZALTENANGO,Cajolá,municipio,Claro Guatemala,0.0,2026S1
+QUETZALTENANGO,Cajolá,municipio,Guatel,0.0,2026S1
+QUETZALTENANGO,Cajolá,municipio,Liberty (Columbus),0.0,2026S1
+QUETZALTENANGO,San Miguel Siguilá,municipio,Cablenet,0.0,2026S1
+QUETZALTENANGO,San Miguel Siguilá,municipio,Comcel (Tigo),0.0,2026S1
+QUETZALTENANGO,San Miguel Siguilá,municipio,A-Tel,0.0,2026S1
+QUETZALTENANGO,San Miguel Siguilá,municipio,Telgua (Claro),70.0,2026S1
+QUETZALTENANGO,San Miguel Siguilá,municipio,Teléfonos del Norte,0.0,2026S1
+QUETZALTENANGO,San Miguel Siguilá,municipio,Claro Guatemala,0.0,2026S1
+QUETZALTENANGO,San Miguel Siguilá,municipio,Guatel,0.0,2026S1
+QUETZALTENANGO,San Miguel Siguilá,municipio,Liberty (Columbus),0.0,2026S1
+QUETZALTENANGO,San Juan Ostuncalco,municipio,Cablenet,0.0,2026S1
+QUETZALTENANGO,San Juan Ostuncalco,municipio,Comcel (Tigo),1.0,2026S1
+QUETZALTENANGO,San Juan Ostuncalco,municipio,A-Tel,0.0,2026S1
+QUETZALTENANGO,San Juan Ostuncalco,municipio,Telgua (Claro),4434.0,2026S1
+QUETZALTENANGO,San Juan Ostuncalco,municipio,Teléfonos del Norte,0.0,2026S1
+QUETZALTENANGO,San Juan Ostuncalco,municipio,Claro Guatemala,0.0,2026S1
+QUETZALTENANGO,San Juan Ostuncalco,municipio,Guatel,0.0,2026S1
+QUETZALTENANGO,San Juan Ostuncalco,municipio,Liberty (Columbus),0.0,2026S1
+QUETZALTENANGO,San Mateo,municipio,Cablenet,0.0,2026S1
+QUETZALTENANGO,San Mateo,municipio,Comcel (Tigo),0.0,2026S1
+QUETZALTENANGO,San Mateo,municipio,A-Tel,0.0,2026S1
+QUETZALTENANGO,San Mateo,municipio,Telgua (Claro),6873.0,2026S1
+QUETZALTENANGO,San Mateo,municipio,Teléfonos del Norte,0.0,2026S1
+QUETZALTENANGO,San Mateo,municipio,Claro Guatemala,0.0,2026S1
+QUETZALTENANGO,San Mateo,municipio,Guatel,0.0,2026S1
+QUETZALTENANGO,San Mateo,municipio,Liberty (Columbus),0.0,2026S1
+QUETZALTENANGO,Concepción Chiquirichapa,municipio,Cablenet,0.0,2026S1
+QUETZALTENANGO,Concepción Chiquirichapa,municipio,Comcel (Tigo),0.0,2026S1
+QUETZALTENANGO,Concepción Chiquirichapa,municipio,A-Tel,0.0,2026S1
+QUETZALTENANGO,Concepción Chiquirichapa,municipio,Telgua (Claro),0.0,2026S1
+QUETZALTENANGO,Concepción Chiquirichapa,municipio,Teléfonos del Norte,0.0,2026S1
+QUETZALTENANGO,Concepción Chiquirichapa,municipio,Claro Guatemala,0.0,2026S1
+QUETZALTENANGO,Concepción Chiquirichapa,municipio,Guatel,0.0,2026S1
+QUETZALTENANGO,Concepción Chiquirichapa,municipio,Liberty (Columbus),0.0,2026S1
+QUETZALTENANGO,San Martín Sacatepéquez,municipio,Cablenet,0.0,2026S1
+QUETZALTENANGO,San Martín Sacatepéquez,municipio,Comcel (Tigo),1.0,2026S1
+QUETZALTENANGO,San Martín Sacatepéquez,municipio,A-Tel,0.0,2026S1
+QUETZALTENANGO,San Martín Sacatepéquez,municipio,Telgua (Claro),218.0,2026S1
+QUETZALTENANGO,San Martín Sacatepéquez,municipio,Teléfonos del Norte,0.0,2026S1
+QUETZALTENANGO,San Martín Sacatepéquez,municipio,Claro Guatemala,0.0,2026S1
+QUETZALTENANGO,San Martín Sacatepéquez,municipio,Guatel,0.0,2026S1
+QUETZALTENANGO,San Martín Sacatepéquez,municipio,Liberty (Columbus),0.0,2026S1
+QUETZALTENANGO,Almolonga,municipio,Cablenet,0.0,2026S1
+QUETZALTENANGO,Almolonga,municipio,Comcel (Tigo),0.0,2026S1
+QUETZALTENANGO,Almolonga,municipio,A-Tel,0.0,2026S1
+QUETZALTENANGO,Almolonga,municipio,Telgua (Claro),467.0,2026S1
+QUETZALTENANGO,Almolonga,municipio,Teléfonos del Norte,0.0,2026S1
+QUETZALTENANGO,Almolonga,municipio,Claro Guatemala,0.0,2026S1
+QUETZALTENANGO,Almolonga,municipio,Guatel,0.0,2026S1
+QUETZALTENANGO,Almolonga,municipio,Liberty (Columbus),0.0,2026S1
+QUETZALTENANGO,Cantel,municipio,Cablenet,0.0,2026S1
+QUETZALTENANGO,Cantel,municipio,Comcel (Tigo),0.0,2026S1
+QUETZALTENANGO,Cantel,municipio,A-Tel,0.0,2026S1
+QUETZALTENANGO,Cantel,municipio,Telgua (Claro),683.0,2026S1
+QUETZALTENANGO,Cantel,municipio,Teléfonos del Norte,0.0,2026S1
+QUETZALTENANGO,Cantel,municipio,Claro Guatemala,0.0,2026S1
+QUETZALTENANGO,Cantel,municipio,Guatel,0.0,2026S1
+QUETZALTENANGO,Cantel,municipio,Liberty (Columbus),0.0,2026S1
+QUETZALTENANGO,Huitán,municipio,Cablenet,0.0,2026S1
+QUETZALTENANGO,Huitán,municipio,Comcel (Tigo),0.0,2026S1
+QUETZALTENANGO,Huitán,municipio,A-Tel,0.0,2026S1
+QUETZALTENANGO,Huitán,municipio,Telgua (Claro),11.0,2026S1
+QUETZALTENANGO,Huitán,municipio,Teléfonos del Norte,0.0,2026S1
+QUETZALTENANGO,Huitán,municipio,Claro Guatemala,0.0,2026S1
+QUETZALTENANGO,Huitán,municipio,Guatel,0.0,2026S1
+QUETZALTENANGO,Huitán,municipio,Liberty (Columbus),0.0,2026S1
+QUETZALTENANGO,Zunil,municipio,Cablenet,0.0,2026S1
+QUETZALTENANGO,Zunil,municipio,Comcel (Tigo),0.0,2026S1
+QUETZALTENANGO,Zunil,municipio,A-Tel,0.0,2026S1
+QUETZALTENANGO,Zunil,municipio,Telgua (Claro),467.0,2026S1
+QUETZALTENANGO,Zunil,municipio,Teléfonos del Norte,0.0,2026S1
+QUETZALTENANGO,Zunil,municipio,Claro Guatemala,0.0,2026S1
+QUETZALTENANGO,Zunil,municipio,Guatel,0.0,2026S1
+QUETZALTENANGO,Zunil,municipio,Liberty (Columbus),0.0,2026S1
+QUETZALTENANGO,Colomba Costa Cuca,municipio,Cablenet,0.0,2026S1
+QUETZALTENANGO,Colomba Costa Cuca,municipio,Comcel (Tigo),1.0,2026S1
+QUETZALTENANGO,Colomba Costa Cuca,municipio,A-Tel,0.0,2026S1
+QUETZALTENANGO,Colomba Costa Cuca,municipio,Telgua (Claro),0.0,2026S1
+QUETZALTENANGO,Colomba Costa Cuca,municipio,Teléfonos del Norte,0.0,2026S1
+QUETZALTENANGO,Colomba Costa Cuca,municipio,Claro Guatemala,0.0,2026S1
+QUETZALTENANGO,Colomba Costa Cuca,municipio,Guatel,0.0,2026S1
+QUETZALTENANGO,Colomba Costa Cuca,municipio,Liberty (Columbus),0.0,2026S1
+QUETZALTENANGO,San Francisco La Unión,municipio,Cablenet,0.0,2026S1
+QUETZALTENANGO,San Francisco La Unión,municipio,Comcel (Tigo),0.0,2026S1
+QUETZALTENANGO,San Francisco La Unión,municipio,A-Tel,0.0,2026S1
+QUETZALTENANGO,San Francisco La Unión,municipio,Telgua (Claro),363.0,2026S1
+QUETZALTENANGO,San Francisco La Unión,municipio,Teléfonos del Norte,0.0,2026S1
+QUETZALTENANGO,San Francisco La Unión,municipio,Claro Guatemala,0.0,2026S1
+QUETZALTENANGO,San Francisco La Unión,municipio,Guatel,0.0,2026S1
+QUETZALTENANGO,San Francisco La Unión,municipio,Liberty (Columbus),0.0,2026S1
+QUETZALTENANGO,El Palmar,municipio,Cablenet,0.0,2026S1
+QUETZALTENANGO,El Palmar,municipio,Comcel (Tigo),1.0,2026S1
+QUETZALTENANGO,El Palmar,municipio,A-Tel,0.0,2026S1
+QUETZALTENANGO,El Palmar,municipio,Telgua (Claro),0.0,2026S1
+QUETZALTENANGO,El Palmar,municipio,Teléfonos del Norte,0.0,2026S1
+QUETZALTENANGO,El Palmar,municipio,Claro Guatemala,0.0,2026S1
+QUETZALTENANGO,El Palmar,municipio,Guatel,0.0,2026S1
+QUETZALTENANGO,El Palmar,municipio,Liberty (Columbus),0.0,2026S1
+QUETZALTENANGO,Coatepeque,municipio,Cablenet,0.0,2026S1
+QUETZALTENANGO,Coatepeque,municipio,Comcel (Tigo),2.0,2026S1
+QUETZALTENANGO,Coatepeque,municipio,A-Tel,0.0,2026S1
+QUETZALTENANGO,Coatepeque,municipio,Telgua (Claro),16966.0,2026S1
+QUETZALTENANGO,Coatepeque,municipio,Teléfonos del Norte,0.0,2026S1
+QUETZALTENANGO,Coatepeque,municipio,Claro Guatemala,0.0,2026S1
+QUETZALTENANGO,Coatepeque,municipio,Guatel,0.0,2026S1
+QUETZALTENANGO,Coatepeque,municipio,Liberty (Columbus),0.0,2026S1
+QUETZALTENANGO,Génova,municipio,Cablenet,0.0,2026S1
+QUETZALTENANGO,Génova,municipio,Comcel (Tigo),0.0,2026S1
+QUETZALTENANGO,Génova,municipio,A-Tel,0.0,2026S1
+QUETZALTENANGO,Génova,municipio,Telgua (Claro),372.0,2026S1
+QUETZALTENANGO,Génova,municipio,Teléfonos del Norte,0.0,2026S1
+QUETZALTENANGO,Génova,municipio,Claro Guatemala,0.0,2026S1
+QUETZALTENANGO,Génova,municipio,Guatel,0.0,2026S1
+QUETZALTENANGO,Génova,municipio,Liberty (Columbus),0.0,2026S1
+QUETZALTENANGO,Flores Costa Cuca,municipio,Cablenet,0.0,2026S1
+QUETZALTENANGO,Flores Costa Cuca,municipio,Comcel (Tigo),0.0,2026S1
+QUETZALTENANGO,Flores Costa Cuca,municipio,A-Tel,0.0,2026S1
+QUETZALTENANGO,Flores Costa Cuca,municipio,Telgua (Claro),328.0,2026S1
+QUETZALTENANGO,Flores Costa Cuca,municipio,Teléfonos del Norte,0.0,2026S1
+QUETZALTENANGO,Flores Costa Cuca,municipio,Claro Guatemala,0.0,2026S1
+QUETZALTENANGO,Flores Costa Cuca,municipio,Guatel,0.0,2026S1
+QUETZALTENANGO,Flores Costa Cuca,municipio,Liberty (Columbus),0.0,2026S1
+QUETZALTENANGO,La Esperanza,municipio,Cablenet,0.0,2026S1
+QUETZALTENANGO,La Esperanza,municipio,Comcel (Tigo),1.0,2026S1
+QUETZALTENANGO,La Esperanza,municipio,A-Tel,0.0,2026S1
+QUETZALTENANGO,La Esperanza,municipio,Telgua (Claro),4955.0,2026S1
+QUETZALTENANGO,La Esperanza,municipio,Teléfonos del Norte,0.0,2026S1
+QUETZALTENANGO,La Esperanza,municipio,Claro Guatemala,0.0,2026S1
+QUETZALTENANGO,La Esperanza,municipio,Guatel,0.0,2026S1
+QUETZALTENANGO,La Esperanza,municipio,Liberty (Columbus),0.0,2026S1
+QUETZALTENANGO,Palestina de Los Altos,municipio,Cablenet,0.0,2026S1
+QUETZALTENANGO,Palestina de Los Altos,municipio,Comcel (Tigo),1.0,2026S1
+QUETZALTENANGO,Palestina de Los Altos,municipio,A-Tel,0.0,2026S1
+QUETZALTENANGO,Palestina de Los Altos,municipio,Telgua (Claro),11.0,2026S1
+QUETZALTENANGO,Palestina de Los Altos,municipio,Teléfonos del Norte,0.0,2026S1
+QUETZALTENANGO,Palestina de Los Altos,municipio,Claro Guatemala,0.0,2026S1
+QUETZALTENANGO,Palestina de Los Altos,municipio,Guatel,0.0,2026S1
+QUETZALTENANGO,Palestina de Los Altos,municipio,Liberty (Columbus),0.0,2026S1
+SUCHITEPÉQUEZ,SUCHITEPÉQUEZ,departamento,Cablenet,0.0,2026S1
+SUCHITEPÉQUEZ,SUCHITEPÉQUEZ,departamento,Comcel (Tigo),22.0,2026S1
+SUCHITEPÉQUEZ,SUCHITEPÉQUEZ,departamento,A-Tel,0.0,2026S1
+SUCHITEPÉQUEZ,SUCHITEPÉQUEZ,departamento,Telgua (Claro),16271.0,2026S1
+SUCHITEPÉQUEZ,SUCHITEPÉQUEZ,departamento,Teléfonos del Norte,0.0,2026S1
+SUCHITEPÉQUEZ,SUCHITEPÉQUEZ,departamento,Claro Guatemala,0.0,2026S1
+SUCHITEPÉQUEZ,SUCHITEPÉQUEZ,departamento,Guatel,0.0,2026S1
+SUCHITEPÉQUEZ,SUCHITEPÉQUEZ,departamento,Liberty (Columbus),0.0,2026S1
+SUCHITEPÉQUEZ,Mazatenango,municipio,Cablenet,0.0,2026S1
+SUCHITEPÉQUEZ,Mazatenango,municipio,Comcel (Tigo),5.0,2026S1
+SUCHITEPÉQUEZ,Mazatenango,municipio,A-Tel,0.0,2026S1
+SUCHITEPÉQUEZ,Mazatenango,municipio,Telgua (Claro),7732.0,2026S1
+SUCHITEPÉQUEZ,Mazatenango,municipio,Teléfonos del Norte,0.0,2026S1
+SUCHITEPÉQUEZ,Mazatenango,municipio,Claro Guatemala,0.0,2026S1
+SUCHITEPÉQUEZ,Mazatenango,municipio,Guatel,0.0,2026S1
+SUCHITEPÉQUEZ,Mazatenango,municipio,Liberty (Columbus),0.0,2026S1
+SUCHITEPÉQUEZ,Cuyotenango,municipio,Cablenet,0.0,2026S1
+SUCHITEPÉQUEZ,Cuyotenango,municipio,Comcel (Tigo),0.0,2026S1
+SUCHITEPÉQUEZ,Cuyotenango,municipio,A-Tel,0.0,2026S1
+SUCHITEPÉQUEZ,Cuyotenango,municipio,Telgua (Claro),2083.0,2026S1
+SUCHITEPÉQUEZ,Cuyotenango,municipio,Teléfonos del Norte,0.0,2026S1
+SUCHITEPÉQUEZ,Cuyotenango,municipio,Claro Guatemala,0.0,2026S1
+SUCHITEPÉQUEZ,Cuyotenango,municipio,Guatel,0.0,2026S1
+SUCHITEPÉQUEZ,Cuyotenango,municipio,Liberty (Columbus),0.0,2026S1
+SUCHITEPÉQUEZ,San Francisco Zapotitlán,municipio,Cablenet,0.0,2026S1
+SUCHITEPÉQUEZ,San Francisco Zapotitlán,municipio,Comcel (Tigo),1.0,2026S1
+SUCHITEPÉQUEZ,San Francisco Zapotitlán,municipio,A-Tel,0.0,2026S1
+SUCHITEPÉQUEZ,San Francisco Zapotitlán,municipio,Telgua (Claro),437.0,2026S1
+SUCHITEPÉQUEZ,San Francisco Zapotitlán,municipio,Teléfonos del Norte,0.0,2026S1
+SUCHITEPÉQUEZ,San Francisco Zapotitlán,municipio,Claro Guatemala,0.0,2026S1
+SUCHITEPÉQUEZ,San Francisco Zapotitlán,municipio,Guatel,0.0,2026S1
+SUCHITEPÉQUEZ,San Francisco Zapotitlán,municipio,Liberty (Columbus),0.0,2026S1
+SUCHITEPÉQUEZ,San Bernardino,municipio,Cablenet,0.0,2026S1
+SUCHITEPÉQUEZ,San Bernardino,municipio,Comcel (Tigo),1.0,2026S1
+SUCHITEPÉQUEZ,San Bernardino,municipio,A-Tel,0.0,2026S1
+SUCHITEPÉQUEZ,San Bernardino,municipio,Telgua (Claro),575.0,2026S1
+SUCHITEPÉQUEZ,San Bernardino,municipio,Teléfonos del Norte,0.0,2026S1
+SUCHITEPÉQUEZ,San Bernardino,municipio,Claro Guatemala,0.0,2026S1
+SUCHITEPÉQUEZ,San Bernardino,municipio,Guatel,0.0,2026S1
+SUCHITEPÉQUEZ,San Bernardino,municipio,Liberty (Columbus),0.0,2026S1
+SUCHITEPÉQUEZ,San José el Ídolo,municipio,Cablenet,0.0,2026S1
+SUCHITEPÉQUEZ,San José el Ídolo,municipio,Comcel (Tigo),0.0,2026S1
+SUCHITEPÉQUEZ,San José el Ídolo,municipio,A-Tel,0.0,2026S1
+SUCHITEPÉQUEZ,San José el Ídolo,municipio,Telgua (Claro),0.0,2026S1
+SUCHITEPÉQUEZ,San José el Ídolo,municipio,Teléfonos del Norte,0.0,2026S1
+SUCHITEPÉQUEZ,San José el Ídolo,municipio,Claro Guatemala,0.0,2026S1
+SUCHITEPÉQUEZ,San José el Ídolo,municipio,Guatel,0.0,2026S1
+SUCHITEPÉQUEZ,San José el Ídolo,municipio,Liberty (Columbus),0.0,2026S1
+SUCHITEPÉQUEZ,Santo Domingo Suchitepéquez,municipio,Cablenet,0.0,2026S1
+SUCHITEPÉQUEZ,Santo Domingo Suchitepéquez,municipio,Comcel (Tigo),0.0,2026S1
+SUCHITEPÉQUEZ,Santo Domingo Suchitepéquez,municipio,A-Tel,0.0,2026S1
+SUCHITEPÉQUEZ,Santo Domingo Suchitepéquez,municipio,Telgua (Claro),210.0,2026S1
+SUCHITEPÉQUEZ,Santo Domingo Suchitepéquez,municipio,Teléfonos del Norte,0.0,2026S1
+SUCHITEPÉQUEZ,Santo Domingo Suchitepéquez,municipio,Claro Guatemala,0.0,2026S1
+SUCHITEPÉQUEZ,Santo Domingo Suchitepéquez,municipio,Guatel,0.0,2026S1
+SUCHITEPÉQUEZ,Santo Domingo Suchitepéquez,municipio,Liberty (Columbus),0.0,2026S1
+SUCHITEPÉQUEZ,San Lorenzo,municipio,Cablenet,0.0,2026S1
+SUCHITEPÉQUEZ,San Lorenzo,municipio,Comcel (Tigo),0.0,2026S1
+SUCHITEPÉQUEZ,San Lorenzo,municipio,A-Tel,0.0,2026S1
+SUCHITEPÉQUEZ,San Lorenzo,municipio,Telgua (Claro),17.0,2026S1
+SUCHITEPÉQUEZ,San Lorenzo,municipio,Teléfonos del Norte,0.0,2026S1
+SUCHITEPÉQUEZ,San Lorenzo,municipio,Claro Guatemala,0.0,2026S1
+SUCHITEPÉQUEZ,San Lorenzo,municipio,Guatel,0.0,2026S1
+SUCHITEPÉQUEZ,San Lorenzo,municipio,Liberty (Columbus),0.0,2026S1
+SUCHITEPÉQUEZ,Samayac,municipio,Cablenet,0.0,2026S1
+SUCHITEPÉQUEZ,Samayac,municipio,Comcel (Tigo),0.0,2026S1
+SUCHITEPÉQUEZ,Samayac,municipio,A-Tel,0.0,2026S1
+SUCHITEPÉQUEZ,Samayac,municipio,Telgua (Claro),420.0,2026S1
+SUCHITEPÉQUEZ,Samayac,municipio,Teléfonos del Norte,0.0,2026S1
+SUCHITEPÉQUEZ,Samayac,municipio,Claro Guatemala,0.0,2026S1
+SUCHITEPÉQUEZ,Samayac,municipio,Guatel,0.0,2026S1
+SUCHITEPÉQUEZ,Samayac,municipio,Liberty (Columbus),0.0,2026S1
+SUCHITEPÉQUEZ,San Pablo Jocopilas,municipio,Cablenet,0.0,2026S1
+SUCHITEPÉQUEZ,San Pablo Jocopilas,municipio,Comcel (Tigo),0.0,2026S1
+SUCHITEPÉQUEZ,San Pablo Jocopilas,municipio,A-Tel,0.0,2026S1
+SUCHITEPÉQUEZ,San Pablo Jocopilas,municipio,Telgua (Claro),93.0,2026S1
+SUCHITEPÉQUEZ,San Pablo Jocopilas,municipio,Teléfonos del Norte,0.0,2026S1
+SUCHITEPÉQUEZ,San Pablo Jocopilas,municipio,Claro Guatemala,0.0,2026S1
+SUCHITEPÉQUEZ,San Pablo Jocopilas,municipio,Guatel,0.0,2026S1
+SUCHITEPÉQUEZ,San Pablo Jocopilas,municipio,Liberty (Columbus),0.0,2026S1
+SUCHITEPÉQUEZ,San Antonio Suchitepéquez,municipio,Cablenet,0.0,2026S1
+SUCHITEPÉQUEZ,San Antonio Suchitepéquez,municipio,Comcel (Tigo),4.0,2026S1
+SUCHITEPÉQUEZ,San Antonio Suchitepéquez,municipio,A-Tel,0.0,2026S1
+SUCHITEPÉQUEZ,San Antonio Suchitepéquez,municipio,Telgua (Claro),1762.0,2026S1
+SUCHITEPÉQUEZ,San Antonio Suchitepéquez,municipio,Teléfonos del Norte,0.0,2026S1
+SUCHITEPÉQUEZ,San Antonio Suchitepéquez,municipio,Claro Guatemala,0.0,2026S1
+SUCHITEPÉQUEZ,San Antonio Suchitepéquez,municipio,Guatel,0.0,2026S1
+SUCHITEPÉQUEZ,San Antonio Suchitepéquez,municipio,Liberty (Columbus),0.0,2026S1
+SUCHITEPÉQUEZ,San Miguel Panán,municipio,Cablenet,0.0,2026S1
+SUCHITEPÉQUEZ,San Miguel Panán,municipio,Comcel (Tigo),2.0,2026S1
+SUCHITEPÉQUEZ,San Miguel Panán,municipio,A-Tel,0.0,2026S1
+SUCHITEPÉQUEZ,San Miguel Panán,municipio,Telgua (Claro),33.0,2026S1
+SUCHITEPÉQUEZ,San Miguel Panán,municipio,Teléfonos del Norte,0.0,2026S1
+SUCHITEPÉQUEZ,San Miguel Panán,municipio,Claro Guatemala,0.0,2026S1
+SUCHITEPÉQUEZ,San Miguel Panán,municipio,Guatel,0.0,2026S1
+SUCHITEPÉQUEZ,San Miguel Panán,municipio,Liberty (Columbus),0.0,2026S1
+SUCHITEPÉQUEZ,San Gabriel,municipio,Cablenet,0.0,2026S1
+SUCHITEPÉQUEZ,San Gabriel,municipio,Comcel (Tigo),1.0,2026S1
+SUCHITEPÉQUEZ,San Gabriel,municipio,A-Tel,0.0,2026S1
+SUCHITEPÉQUEZ,San Gabriel,municipio,Telgua (Claro),392.0,2026S1
+SUCHITEPÉQUEZ,San Gabriel,municipio,Teléfonos del Norte,0.0,2026S1
+SUCHITEPÉQUEZ,San Gabriel,municipio,Claro Guatemala,0.0,2026S1
+SUCHITEPÉQUEZ,San Gabriel,municipio,Guatel,0.0,2026S1
+SUCHITEPÉQUEZ,San Gabriel,municipio,Liberty (Columbus),0.0,2026S1
+SUCHITEPÉQUEZ,Chicacao,municipio,Cablenet,0.0,2026S1
+SUCHITEPÉQUEZ,Chicacao,municipio,Comcel (Tigo),1.0,2026S1
+SUCHITEPÉQUEZ,Chicacao,municipio,A-Tel,0.0,2026S1
+SUCHITEPÉQUEZ,Chicacao,municipio,Telgua (Claro),675.0,2026S1
+SUCHITEPÉQUEZ,Chicacao,municipio,Teléfonos del Norte,0.0,2026S1
+SUCHITEPÉQUEZ,Chicacao,municipio,Claro Guatemala,0.0,2026S1
+SUCHITEPÉQUEZ,Chicacao,municipio,Guatel,0.0,2026S1
+SUCHITEPÉQUEZ,Chicacao,municipio,Liberty (Columbus),0.0,2026S1
+SUCHITEPÉQUEZ,Patulul,municipio,Cablenet,0.0,2026S1
+SUCHITEPÉQUEZ,Patulul,municipio,Comcel (Tigo),4.0,2026S1
+SUCHITEPÉQUEZ,Patulul,municipio,A-Tel,0.0,2026S1
+SUCHITEPÉQUEZ,Patulul,municipio,Telgua (Claro),849.0,2026S1
+SUCHITEPÉQUEZ,Patulul,municipio,Teléfonos del Norte,0.0,2026S1
+SUCHITEPÉQUEZ,Patulul,municipio,Claro Guatemala,0.0,2026S1
+SUCHITEPÉQUEZ,Patulul,municipio,Guatel,0.0,2026S1
+SUCHITEPÉQUEZ,Patulul,municipio,Liberty (Columbus),0.0,2026S1
+SUCHITEPÉQUEZ,Santa Bárbara,municipio,Cablenet,0.0,2026S1
+SUCHITEPÉQUEZ,Santa Bárbara,municipio,Comcel (Tigo),0.0,2026S1
+SUCHITEPÉQUEZ,Santa Bárbara,municipio,A-Tel,0.0,2026S1
+SUCHITEPÉQUEZ,Santa Bárbara,municipio,Telgua (Claro),34.0,2026S1
+SUCHITEPÉQUEZ,Santa Bárbara,municipio,Teléfonos del Norte,0.0,2026S1
+SUCHITEPÉQUEZ,Santa Bárbara,municipio,Claro Guatemala,0.0,2026S1
+SUCHITEPÉQUEZ,Santa Bárbara,municipio,Guatel,0.0,2026S1
+SUCHITEPÉQUEZ,Santa Bárbara,municipio,Liberty (Columbus),0.0,2026S1
+SUCHITEPÉQUEZ,San Juan Bautista,municipio,Cablenet,0.0,2026S1
+SUCHITEPÉQUEZ,San Juan Bautista,municipio,Comcel (Tigo),0.0,2026S1
+SUCHITEPÉQUEZ,San Juan Bautista,municipio,A-Tel,0.0,2026S1
+SUCHITEPÉQUEZ,San Juan Bautista,municipio,Telgua (Claro),38.0,2026S1
+SUCHITEPÉQUEZ,San Juan Bautista,municipio,Teléfonos del Norte,0.0,2026S1
+SUCHITEPÉQUEZ,San Juan Bautista,municipio,Claro Guatemala,0.0,2026S1
+SUCHITEPÉQUEZ,San Juan Bautista,municipio,Guatel,0.0,2026S1
+SUCHITEPÉQUEZ,San Juan Bautista,municipio,Liberty (Columbus),0.0,2026S1
+SUCHITEPÉQUEZ,Santo Tomas La Unión,municipio,Cablenet,0.0,2026S1
+SUCHITEPÉQUEZ,Santo Tomas La Unión,municipio,Comcel (Tigo),2.0,2026S1
+SUCHITEPÉQUEZ,Santo Tomas La Unión,municipio,A-Tel,0.0,2026S1
+SUCHITEPÉQUEZ,Santo Tomas La Unión,municipio,Telgua (Claro),666.0,2026S1
+SUCHITEPÉQUEZ,Santo Tomas La Unión,municipio,Teléfonos del Norte,0.0,2026S1
+SUCHITEPÉQUEZ,Santo Tomas La Unión,municipio,Claro Guatemala,0.0,2026S1
+SUCHITEPÉQUEZ,Santo Tomas La Unión,municipio,Guatel,0.0,2026S1
+SUCHITEPÉQUEZ,Santo Tomas La Unión,municipio,Liberty (Columbus),0.0,2026S1
+SUCHITEPÉQUEZ,Zunilito,municipio,Cablenet,0.0,2026S1
+SUCHITEPÉQUEZ,Zunilito,municipio,Comcel (Tigo),0.0,2026S1
+SUCHITEPÉQUEZ,Zunilito,municipio,A-Tel,0.0,2026S1
+SUCHITEPÉQUEZ,Zunilito,municipio,Telgua (Claro),39.0,2026S1
+SUCHITEPÉQUEZ,Zunilito,municipio,Teléfonos del Norte,0.0,2026S1
+SUCHITEPÉQUEZ,Zunilito,municipio,Claro Guatemala,0.0,2026S1
+SUCHITEPÉQUEZ,Zunilito,municipio,Guatel,0.0,2026S1
+SUCHITEPÉQUEZ,Zunilito,municipio,Liberty (Columbus),0.0,2026S1
+SUCHITEPÉQUEZ,Pueblo Nuevo,municipio,Cablenet,0.0,2026S1
+SUCHITEPÉQUEZ,Pueblo Nuevo,municipio,Comcel (Tigo),0.0,2026S1
+SUCHITEPÉQUEZ,Pueblo Nuevo,municipio,A-Tel,0.0,2026S1
+SUCHITEPÉQUEZ,Pueblo Nuevo,municipio,Telgua (Claro),52.0,2026S1
+SUCHITEPÉQUEZ,Pueblo Nuevo,municipio,Teléfonos del Norte,0.0,2026S1
+SUCHITEPÉQUEZ,Pueblo Nuevo,municipio,Claro Guatemala,0.0,2026S1
+SUCHITEPÉQUEZ,Pueblo Nuevo,municipio,Guatel,0.0,2026S1
+SUCHITEPÉQUEZ,Pueblo Nuevo,municipio,Liberty (Columbus),0.0,2026S1
+SUCHITEPÉQUEZ,Río Bravo,municipio,Cablenet,0.0,2026S1
+SUCHITEPÉQUEZ,Río Bravo,municipio,Comcel (Tigo),1.0,2026S1
+SUCHITEPÉQUEZ,Río Bravo,municipio,A-Tel,0.0,2026S1
+SUCHITEPÉQUEZ,Río Bravo,municipio,Telgua (Claro),164.0,2026S1
+SUCHITEPÉQUEZ,Río Bravo,municipio,Teléfonos del Norte,0.0,2026S1
+SUCHITEPÉQUEZ,Río Bravo,municipio,Claro Guatemala,0.0,2026S1
+SUCHITEPÉQUEZ,Río Bravo,municipio,Guatel,0.0,2026S1
+SUCHITEPÉQUEZ,Río Bravo,municipio,Liberty (Columbus),0.0,2026S1
+SUCHITEPÉQUEZ,San José La Máquina,municipio,Cablenet,0.0,2026S1
+SUCHITEPÉQUEZ,San José La Máquina,municipio,Comcel (Tigo),0.0,2026S1
+SUCHITEPÉQUEZ,San José La Máquina,municipio,A-Tel,0.0,2026S1
+SUCHITEPÉQUEZ,San José La Máquina,municipio,Telgua (Claro),0.0,2026S1
+SUCHITEPÉQUEZ,San José La Máquina,municipio,Teléfonos del Norte,0.0,2026S1
+SUCHITEPÉQUEZ,San José La Máquina,municipio,Claro Guatemala,0.0,2026S1
+SUCHITEPÉQUEZ,San José La Máquina,municipio,Guatel,0.0,2026S1
+SUCHITEPÉQUEZ,San José La Máquina,municipio,Liberty (Columbus),0.0,2026S1
+RETALHULEU,RETALHULEU,departamento,Cablenet,0.0,2026S1
+RETALHULEU,RETALHULEU,departamento,Comcel (Tigo),10.0,2026S1
+RETALHULEU,RETALHULEU,departamento,A-Tel,0.0,2026S1
+RETALHULEU,RETALHULEU,departamento,Telgua (Claro),12046.0,2026S1
+RETALHULEU,RETALHULEU,departamento,Teléfonos del Norte,0.0,2026S1
+RETALHULEU,RETALHULEU,departamento,Claro Guatemala,0.0,2026S1
+RETALHULEU,RETALHULEU,departamento,Guatel,0.0,2026S1
+RETALHULEU,RETALHULEU,departamento,Liberty (Columbus),0.0,2026S1
+RETALHULEU,Retalhuleu,municipio,Cablenet,0.0,2026S1
+RETALHULEU,Retalhuleu,municipio,Comcel (Tigo),3.0,2026S1
+RETALHULEU,Retalhuleu,municipio,A-Tel,0.0,2026S1
+RETALHULEU,Retalhuleu,municipio,Telgua (Claro),6482.0,2026S1
+RETALHULEU,Retalhuleu,municipio,Teléfonos del Norte,0.0,2026S1
+RETALHULEU,Retalhuleu,municipio,Claro Guatemala,0.0,2026S1
+RETALHULEU,Retalhuleu,municipio,Guatel,0.0,2026S1
+RETALHULEU,Retalhuleu,municipio,Liberty (Columbus),0.0,2026S1
+RETALHULEU,San Sebastián,municipio,Cablenet,0.0,2026S1
+RETALHULEU,San Sebastián,municipio,Comcel (Tigo),0.0,2026S1
+RETALHULEU,San Sebastián,municipio,A-Tel,0.0,2026S1
+RETALHULEU,San Sebastián,municipio,Telgua (Claro),575.0,2026S1
+RETALHULEU,San Sebastián,municipio,Teléfonos del Norte,0.0,2026S1
+RETALHULEU,San Sebastián,municipio,Claro Guatemala,0.0,2026S1
+RETALHULEU,San Sebastián,municipio,Guatel,0.0,2026S1
+RETALHULEU,San Sebastián,municipio,Liberty (Columbus),0.0,2026S1
+RETALHULEU,Santa Cruz Muluá,municipio,Cablenet,0.0,2026S1
+RETALHULEU,Santa Cruz Muluá,municipio,Comcel (Tigo),1.0,2026S1
+RETALHULEU,Santa Cruz Muluá,municipio,A-Tel,0.0,2026S1
+RETALHULEU,Santa Cruz Muluá,municipio,Telgua (Claro),301.0,2026S1
+RETALHULEU,Santa Cruz Muluá,municipio,Teléfonos del Norte,0.0,2026S1
+RETALHULEU,Santa Cruz Muluá,municipio,Claro Guatemala,0.0,2026S1
+RETALHULEU,Santa Cruz Muluá,municipio,Guatel,0.0,2026S1
+RETALHULEU,Santa Cruz Muluá,municipio,Liberty (Columbus),0.0,2026S1
+RETALHULEU,San Martín Zapotitlán,municipio,Cablenet,0.0,2026S1
+RETALHULEU,San Martín Zapotitlán,municipio,Comcel (Tigo),0.0,2026S1
+RETALHULEU,San Martín Zapotitlán,municipio,A-Tel,0.0,2026S1
+RETALHULEU,San Martín Zapotitlán,municipio,Telgua (Claro),0.0,2026S1
+RETALHULEU,San Martín Zapotitlán,municipio,Teléfonos del Norte,0.0,2026S1
+RETALHULEU,San Martín Zapotitlán,municipio,Claro Guatemala,0.0,2026S1
+RETALHULEU,San Martín Zapotitlán,municipio,Guatel,0.0,2026S1
+RETALHULEU,San Martín Zapotitlán,municipio,Liberty (Columbus),0.0,2026S1
+RETALHULEU,San Felipe,municipio,Cablenet,0.0,2026S1
+RETALHULEU,San Felipe,municipio,Comcel (Tigo),3.0,2026S1
+RETALHULEU,San Felipe,municipio,A-Tel,0.0,2026S1
+RETALHULEU,San Felipe,municipio,Telgua (Claro),2844.0,2026S1
+RETALHULEU,San Felipe,municipio,Teléfonos del Norte,0.0,2026S1
+RETALHULEU,San Felipe,municipio,Claro Guatemala,0.0,2026S1
+RETALHULEU,San Felipe,municipio,Guatel,0.0,2026S1
+RETALHULEU,San Felipe,municipio,Liberty (Columbus),0.0,2026S1
+RETALHULEU,San Andrés Villa Seca,municipio,Cablenet,0.0,2026S1
+RETALHULEU,San Andrés Villa Seca,municipio,Comcel (Tigo),0.0,2026S1
+RETALHULEU,San Andrés Villa Seca,municipio,A-Tel,0.0,2026S1
+RETALHULEU,San Andrés Villa Seca,municipio,Telgua (Claro),484.0,2026S1
+RETALHULEU,San Andrés Villa Seca,municipio,Teléfonos del Norte,0.0,2026S1
+RETALHULEU,San Andrés Villa Seca,municipio,Claro Guatemala,0.0,2026S1
+RETALHULEU,San Andrés Villa Seca,municipio,Guatel,0.0,2026S1
+RETALHULEU,San Andrés Villa Seca,municipio,Liberty (Columbus),0.0,2026S1
+RETALHULEU,Champerico,municipio,Cablenet,0.0,2026S1
+RETALHULEU,Champerico,municipio,Comcel (Tigo),1.0,2026S1
+RETALHULEU,Champerico,municipio,A-Tel,0.0,2026S1
+RETALHULEU,Champerico,municipio,Telgua (Claro),758.0,2026S1
+RETALHULEU,Champerico,municipio,Teléfonos del Norte,0.0,2026S1
+RETALHULEU,Champerico,municipio,Claro Guatemala,0.0,2026S1
+RETALHULEU,Champerico,municipio,Guatel,0.0,2026S1
+RETALHULEU,Champerico,municipio,Liberty (Columbus),0.0,2026S1
+RETALHULEU,Nuevo San Carlos,municipio,Cablenet,0.0,2026S1
+RETALHULEU,Nuevo San Carlos,municipio,Comcel (Tigo),1.0,2026S1
+RETALHULEU,Nuevo San Carlos,municipio,A-Tel,0.0,2026S1
+RETALHULEU,Nuevo San Carlos,municipio,Telgua (Claro),301.0,2026S1
+RETALHULEU,Nuevo San Carlos,municipio,Teléfonos del Norte,0.0,2026S1
+RETALHULEU,Nuevo San Carlos,municipio,Claro Guatemala,0.0,2026S1
+RETALHULEU,Nuevo San Carlos,municipio,Guatel,0.0,2026S1
+RETALHULEU,Nuevo San Carlos,municipio,Liberty (Columbus),0.0,2026S1
+RETALHULEU,El Asintal,municipio,Cablenet,0.0,2026S1
+RETALHULEU,El Asintal,municipio,Comcel (Tigo),1.0,2026S1
+RETALHULEU,El Asintal,municipio,A-Tel,0.0,2026S1
+RETALHULEU,El Asintal,municipio,Telgua (Claro),301.0,2026S1
+RETALHULEU,El Asintal,municipio,Teléfonos del Norte,0.0,2026S1
+RETALHULEU,El Asintal,municipio,Claro Guatemala,0.0,2026S1
+RETALHULEU,El Asintal,municipio,Guatel,0.0,2026S1
+RETALHULEU,El Asintal,municipio,Liberty (Columbus),0.0,2026S1
+SAN MARCOS,SAN MARCOS,departamento,Cablenet,0.0,2026S1
+SAN MARCOS,SAN MARCOS,departamento,Comcel (Tigo),28.0,2026S1
+SAN MARCOS,SAN MARCOS,departamento,A-Tel,1.0,2026S1
+SAN MARCOS,SAN MARCOS,departamento,Telgua (Claro),23380.0,2026S1
+SAN MARCOS,SAN MARCOS,departamento,Teléfonos del Norte,0.0,2026S1
+SAN MARCOS,SAN MARCOS,departamento,Claro Guatemala,0.0,2026S1
+SAN MARCOS,SAN MARCOS,departamento,Guatel,0.0,2026S1
+SAN MARCOS,SAN MARCOS,departamento,Liberty (Columbus),0.0,2026S1
+SAN MARCOS,San Marcos,municipio,Cablenet,0.0,2026S1
+SAN MARCOS,San Marcos,municipio,Comcel (Tigo),3.0,2026S1
+SAN MARCOS,San Marcos,municipio,A-Tel,0.0,2026S1
+SAN MARCOS,San Marcos,municipio,Telgua (Claro),14421.0,2026S1
+SAN MARCOS,San Marcos,municipio,Teléfonos del Norte,0.0,2026S1
+SAN MARCOS,San Marcos,municipio,Claro Guatemala,0.0,2026S1
+SAN MARCOS,San Marcos,municipio,Guatel,0.0,2026S1
+SAN MARCOS,San Marcos,municipio,Liberty (Columbus),0.0,2026S1
+SAN MARCOS,San Pedro Sacatepéquez,municipio,Cablenet,0.0,2026S1
+SAN MARCOS,San Pedro Sacatepéquez,municipio,Comcel (Tigo),1.0,2026S1
+SAN MARCOS,San Pedro Sacatepéquez,municipio,A-Tel,0.0,2026S1
+SAN MARCOS,San Pedro Sacatepéquez,municipio,Telgua (Claro),46.0,2026S1
+SAN MARCOS,San Pedro Sacatepéquez,municipio,Teléfonos del Norte,0.0,2026S1
+SAN MARCOS,San Pedro Sacatepéquez,municipio,Claro Guatemala,0.0,2026S1
+SAN MARCOS,San Pedro Sacatepéquez,municipio,Guatel,0.0,2026S1
+SAN MARCOS,San Pedro Sacatepéquez,municipio,Liberty (Columbus),0.0,2026S1
+SAN MARCOS,San Antonio Sacatepéquez,municipio,Cablenet,0.0,2026S1
+SAN MARCOS,San Antonio Sacatepéquez,municipio,Comcel (Tigo),0.0,2026S1
+SAN MARCOS,San Antonio Sacatepéquez,municipio,A-Tel,0.0,2026S1
+SAN MARCOS,San Antonio Sacatepéquez,municipio,Telgua (Claro),115.0,2026S1
+SAN MARCOS,San Antonio Sacatepéquez,municipio,Teléfonos del Norte,0.0,2026S1
+SAN MARCOS,San Antonio Sacatepéquez,municipio,Claro Guatemala,0.0,2026S1
+SAN MARCOS,San Antonio Sacatepéquez,municipio,Guatel,0.0,2026S1
+SAN MARCOS,San Antonio Sacatepéquez,municipio,Liberty (Columbus),0.0,2026S1
+SAN MARCOS,Comitancillo,municipio,Cablenet,0.0,2026S1
+SAN MARCOS,Comitancillo,municipio,Comcel (Tigo),0.0,2026S1
+SAN MARCOS,Comitancillo,municipio,A-Tel,0.0,2026S1
+SAN MARCOS,Comitancillo,municipio,Telgua (Claro),45.0,2026S1
+SAN MARCOS,Comitancillo,municipio,Teléfonos del Norte,0.0,2026S1
+SAN MARCOS,Comitancillo,municipio,Claro Guatemala,0.0,2026S1
+SAN MARCOS,Comitancillo,municipio,Guatel,0.0,2026S1
+SAN MARCOS,Comitancillo,municipio,Liberty (Columbus),0.0,2026S1
+SAN MARCOS,San Miguel Ixtahuacán,municipio,Cablenet,0.0,2026S1
+SAN MARCOS,San Miguel Ixtahuacán,municipio,Comcel (Tigo),0.0,2026S1
+SAN MARCOS,San Miguel Ixtahuacán,municipio,A-Tel,0.0,2026S1
+SAN MARCOS,San Miguel Ixtahuacán,municipio,Telgua (Claro),29.0,2026S1
+SAN MARCOS,San Miguel Ixtahuacán,municipio,Teléfonos del Norte,0.0,2026S1
+SAN MARCOS,San Miguel Ixtahuacán,municipio,Claro Guatemala,0.0,2026S1
+SAN MARCOS,San Miguel Ixtahuacán,municipio,Guatel,0.0,2026S1
+SAN MARCOS,San Miguel Ixtahuacán,municipio,Liberty (Columbus),0.0,2026S1
+SAN MARCOS,Concepción Tutuapa,municipio,Cablenet,0.0,2026S1
+SAN MARCOS,Concepción Tutuapa,municipio,Comcel (Tigo),2.0,2026S1
+SAN MARCOS,Concepción Tutuapa,municipio,A-Tel,0.0,2026S1
+SAN MARCOS,Concepción Tutuapa,municipio,Telgua (Claro),79.0,2026S1
+SAN MARCOS,Concepción Tutuapa,municipio,Teléfonos del Norte,0.0,2026S1
+SAN MARCOS,Concepción Tutuapa,municipio,Claro Guatemala,0.0,2026S1
+SAN MARCOS,Concepción Tutuapa,municipio,Guatel,0.0,2026S1
+SAN MARCOS,Concepción Tutuapa,municipio,Liberty (Columbus),0.0,2026S1
+SAN MARCOS,Tacaná,municipio,Cablenet,0.0,2026S1
+SAN MARCOS,Tacaná,municipio,Comcel (Tigo),1.0,2026S1
+SAN MARCOS,Tacaná,municipio,A-Tel,0.0,2026S1
+SAN MARCOS,Tacaná,municipio,Telgua (Claro),392.0,2026S1
+SAN MARCOS,Tacaná,municipio,Teléfonos del Norte,0.0,2026S1
+SAN MARCOS,Tacaná,municipio,Claro Guatemala,0.0,2026S1
+SAN MARCOS,Tacaná,municipio,Guatel,0.0,2026S1
+SAN MARCOS,Tacaná,municipio,Liberty (Columbus),0.0,2026S1
+SAN MARCOS,Sibinal,municipio,Cablenet,0.0,2026S1
+SAN MARCOS,Sibinal,municipio,Comcel (Tigo),0.0,2026S1
+SAN MARCOS,Sibinal,municipio,A-Tel,0.0,2026S1
+SAN MARCOS,Sibinal,municipio,Telgua (Claro),0.0,2026S1
+SAN MARCOS,Sibinal,municipio,Teléfonos del Norte,0.0,2026S1
+SAN MARCOS,Sibinal,municipio,Claro Guatemala,0.0,2026S1
+SAN MARCOS,Sibinal,municipio,Guatel,0.0,2026S1
+SAN MARCOS,Sibinal,municipio,Liberty (Columbus),0.0,2026S1
+SAN MARCOS,Tajumulco,municipio,Cablenet,0.0,2026S1
+SAN MARCOS,Tajumulco,municipio,Comcel (Tigo),1.0,2026S1
+SAN MARCOS,Tajumulco,municipio,A-Tel,0.0,2026S1
+SAN MARCOS,Tajumulco,municipio,Telgua (Claro),3.0,2026S1
+SAN MARCOS,Tajumulco,municipio,Teléfonos del Norte,0.0,2026S1
+SAN MARCOS,Tajumulco,municipio,Claro Guatemala,0.0,2026S1
+SAN MARCOS,Tajumulco,municipio,Guatel,0.0,2026S1
+SAN MARCOS,Tajumulco,municipio,Liberty (Columbus),0.0,2026S1
+SAN MARCOS,Tejutla,municipio,Cablenet,0.0,2026S1
+SAN MARCOS,Tejutla,municipio,Comcel (Tigo),0.0,2026S1
+SAN MARCOS,Tejutla,municipio,A-Tel,0.0,2026S1
+SAN MARCOS,Tejutla,municipio,Telgua (Claro),379.0,2026S1
+SAN MARCOS,Tejutla,municipio,Teléfonos del Norte,0.0,2026S1
+SAN MARCOS,Tejutla,municipio,Claro Guatemala,0.0,2026S1
+SAN MARCOS,Tejutla,municipio,Guatel,0.0,2026S1
+SAN MARCOS,Tejutla,municipio,Liberty (Columbus),0.0,2026S1
+SAN MARCOS,San Rafael Pie de la Cuesta,municipio,Cablenet,0.0,2026S1
+SAN MARCOS,San Rafael Pie de la Cuesta,municipio,Comcel (Tigo),1.0,2026S1
+SAN MARCOS,San Rafael Pie de la Cuesta,municipio,A-Tel,1.0,2026S1
+SAN MARCOS,San Rafael Pie de la Cuesta,municipio,Telgua (Claro),385.0,2026S1
+SAN MARCOS,San Rafael Pie de la Cuesta,municipio,Teléfonos del Norte,0.0,2026S1
+SAN MARCOS,San Rafael Pie de la Cuesta,municipio,Claro Guatemala,0.0,2026S1
+SAN MARCOS,San Rafael Pie de la Cuesta,municipio,Guatel,0.0,2026S1
+SAN MARCOS,San Rafael Pie de la Cuesta,municipio,Liberty (Columbus),0.0,2026S1
+SAN MARCOS,Nuevo Progreso,municipio,Cablenet,0.0,2026S1
+SAN MARCOS,Nuevo Progreso,municipio,Comcel (Tigo),0.0,2026S1
+SAN MARCOS,Nuevo Progreso,municipio,A-Tel,0.0,2026S1
+SAN MARCOS,Nuevo Progreso,municipio,Telgua (Claro),92.0,2026S1
+SAN MARCOS,Nuevo Progreso,municipio,Teléfonos del Norte,0.0,2026S1
+SAN MARCOS,Nuevo Progreso,municipio,Claro Guatemala,0.0,2026S1
+SAN MARCOS,Nuevo Progreso,municipio,Guatel,0.0,2026S1
+SAN MARCOS,Nuevo Progreso,municipio,Liberty (Columbus),0.0,2026S1
+SAN MARCOS,El Tumbador,municipio,Cablenet,0.0,2026S1
+SAN MARCOS,El Tumbador,municipio,Comcel (Tigo),0.0,2026S1
+SAN MARCOS,El Tumbador,municipio,A-Tel,0.0,2026S1
+SAN MARCOS,El Tumbador,municipio,Telgua (Claro),558.0,2026S1
+SAN MARCOS,El Tumbador,municipio,Teléfonos del Norte,0.0,2026S1
+SAN MARCOS,El Tumbador,municipio,Claro Guatemala,0.0,2026S1
+SAN MARCOS,El Tumbador,municipio,Guatel,0.0,2026S1
+SAN MARCOS,El Tumbador,municipio,Liberty (Columbus),0.0,2026S1
+SAN MARCOS,San José el Rodeo,municipio,Cablenet,0.0,2026S1
+SAN MARCOS,San José el Rodeo,municipio,Comcel (Tigo),1.0,2026S1
+SAN MARCOS,San José el Rodeo,municipio,A-Tel,0.0,2026S1
+SAN MARCOS,San José el Rodeo,municipio,Telgua (Claro),0.0,2026S1
+SAN MARCOS,San José el Rodeo,municipio,Teléfonos del Norte,0.0,2026S1
+SAN MARCOS,San José el Rodeo,municipio,Claro Guatemala,0.0,2026S1
+SAN MARCOS,San José el Rodeo,municipio,Guatel,0.0,2026S1
+SAN MARCOS,San José el Rodeo,municipio,Liberty (Columbus),0.0,2026S1
+SAN MARCOS,Malacatán,municipio,Cablenet,0.0,2026S1
+SAN MARCOS,Malacatán,municipio,Comcel (Tigo),6.0,2026S1
+SAN MARCOS,Malacatán,municipio,A-Tel,0.0,2026S1
+SAN MARCOS,Malacatán,municipio,Telgua (Claro),5047.0,2026S1
+SAN MARCOS,Malacatán,municipio,Teléfonos del Norte,0.0,2026S1
+SAN MARCOS,Malacatán,municipio,Claro Guatemala,0.0,2026S1
+SAN MARCOS,Malacatán,municipio,Guatel,0.0,2026S1
+SAN MARCOS,Malacatán,municipio,Liberty (Columbus),0.0,2026S1
+SAN MARCOS,Catarina,municipio,Cablenet,0.0,2026S1
+SAN MARCOS,Catarina,municipio,Comcel (Tigo),0.0,2026S1
+SAN MARCOS,Catarina,municipio,A-Tel,0.0,2026S1
+SAN MARCOS,Catarina,municipio,Telgua (Claro),474.0,2026S1
+SAN MARCOS,Catarina,municipio,Teléfonos del Norte,0.0,2026S1
+SAN MARCOS,Catarina,municipio,Claro Guatemala,0.0,2026S1
+SAN MARCOS,Catarina,municipio,Guatel,0.0,2026S1
+SAN MARCOS,Catarina,municipio,Liberty (Columbus),0.0,2026S1
+SAN MARCOS,Ayutla,municipio,Cablenet,0.0,2026S1
+SAN MARCOS,Ayutla,municipio,Comcel (Tigo),3.0,2026S1
+SAN MARCOS,Ayutla,municipio,A-Tel,0.0,2026S1
+SAN MARCOS,Ayutla,municipio,Telgua (Claro),0.0,2026S1
+SAN MARCOS,Ayutla,municipio,Teléfonos del Norte,0.0,2026S1
+SAN MARCOS,Ayutla,municipio,Claro Guatemala,0.0,2026S1
+SAN MARCOS,Ayutla,municipio,Guatel,0.0,2026S1
+SAN MARCOS,Ayutla,municipio,Liberty (Columbus),0.0,2026S1
+SAN MARCOS,Ocós,municipio,Cablenet,0.0,2026S1
+SAN MARCOS,Ocós,municipio,Comcel (Tigo),1.0,2026S1
+SAN MARCOS,Ocós,municipio,A-Tel,0.0,2026S1
+SAN MARCOS,Ocós,municipio,Telgua (Claro),39.0,2026S1
+SAN MARCOS,Ocós,municipio,Teléfonos del Norte,0.0,2026S1
+SAN MARCOS,Ocós,municipio,Claro Guatemala,0.0,2026S1
+SAN MARCOS,Ocós,municipio,Guatel,0.0,2026S1
+SAN MARCOS,Ocós,municipio,Liberty (Columbus),0.0,2026S1
+SAN MARCOS,San Pablo,municipio,Cablenet,0.0,2026S1
+SAN MARCOS,San Pablo,municipio,Comcel (Tigo),1.0,2026S1
+SAN MARCOS,San Pablo,municipio,A-Tel,0.0,2026S1
+SAN MARCOS,San Pablo,municipio,Telgua (Claro),363.0,2026S1
+SAN MARCOS,San Pablo,municipio,Teléfonos del Norte,0.0,2026S1
+SAN MARCOS,San Pablo,municipio,Claro Guatemala,0.0,2026S1
+SAN MARCOS,San Pablo,municipio,Guatel,0.0,2026S1
+SAN MARCOS,San Pablo,municipio,Liberty (Columbus),0.0,2026S1
+SAN MARCOS,El Quetzal,municipio,Cablenet,0.0,2026S1
+SAN MARCOS,El Quetzal,municipio,Comcel (Tigo),2.0,2026S1
+SAN MARCOS,El Quetzal,municipio,A-Tel,0.0,2026S1
+SAN MARCOS,El Quetzal,municipio,Telgua (Claro),36.0,2026S1
+SAN MARCOS,El Quetzal,municipio,Teléfonos del Norte,0.0,2026S1
+SAN MARCOS,El Quetzal,municipio,Claro Guatemala,0.0,2026S1
+SAN MARCOS,El Quetzal,municipio,Guatel,0.0,2026S1
+SAN MARCOS,El Quetzal,municipio,Liberty (Columbus),0.0,2026S1
+SAN MARCOS,La Reforma,municipio,Cablenet,0.0,2026S1
+SAN MARCOS,La Reforma,municipio,Comcel (Tigo),0.0,2026S1
+SAN MARCOS,La Reforma,municipio,A-Tel,0.0,2026S1
+SAN MARCOS,La Reforma,municipio,Telgua (Claro),93.0,2026S1
+SAN MARCOS,La Reforma,municipio,Teléfonos del Norte,0.0,2026S1
+SAN MARCOS,La Reforma,municipio,Claro Guatemala,0.0,2026S1
+SAN MARCOS,La Reforma,municipio,Guatel,0.0,2026S1
+SAN MARCOS,La Reforma,municipio,Liberty (Columbus),0.0,2026S1
+SAN MARCOS,Pajapita,municipio,Cablenet,0.0,2026S1
+SAN MARCOS,Pajapita,municipio,Comcel (Tigo),3.0,2026S1
+SAN MARCOS,Pajapita,municipio,A-Tel,0.0,2026S1
+SAN MARCOS,Pajapita,municipio,Telgua (Claro),515.0,2026S1
+SAN MARCOS,Pajapita,municipio,Teléfonos del Norte,0.0,2026S1
+SAN MARCOS,Pajapita,municipio,Claro Guatemala,0.0,2026S1
+SAN MARCOS,Pajapita,municipio,Guatel,0.0,2026S1
+SAN MARCOS,Pajapita,municipio,Liberty (Columbus),0.0,2026S1
+SAN MARCOS,Ixchiguán,municipio,Cablenet,0.0,2026S1
+SAN MARCOS,Ixchiguán,municipio,Comcel (Tigo),0.0,2026S1
+SAN MARCOS,Ixchiguán,municipio,A-Tel,0.0,2026S1
+SAN MARCOS,Ixchiguán,municipio,Telgua (Claro),53.0,2026S1
+SAN MARCOS,Ixchiguán,municipio,Teléfonos del Norte,0.0,2026S1
+SAN MARCOS,Ixchiguán,municipio,Claro Guatemala,0.0,2026S1
+SAN MARCOS,Ixchiguán,municipio,Guatel,0.0,2026S1
+SAN MARCOS,Ixchiguán,municipio,Liberty (Columbus),0.0,2026S1
+SAN MARCOS,San José Ojetenam,municipio,Cablenet,0.0,2026S1
+SAN MARCOS,San José Ojetenam,municipio,Comcel (Tigo),0.0,2026S1
+SAN MARCOS,San José Ojetenam,municipio,A-Tel,0.0,2026S1
+SAN MARCOS,San José Ojetenam,municipio,Telgua (Claro),37.0,2026S1
+SAN MARCOS,San José Ojetenam,municipio,Teléfonos del Norte,0.0,2026S1
+SAN MARCOS,San José Ojetenam,municipio,Claro Guatemala,0.0,2026S1
+SAN MARCOS,San José Ojetenam,municipio,Guatel,0.0,2026S1
+SAN MARCOS,San José Ojetenam,municipio,Liberty (Columbus),0.0,2026S1
+SAN MARCOS,San Cristóbal Cucho,municipio,Cablenet,0.0,2026S1
+SAN MARCOS,San Cristóbal Cucho,municipio,Comcel (Tigo),1.0,2026S1
+SAN MARCOS,San Cristóbal Cucho,municipio,A-Tel,0.0,2026S1
+SAN MARCOS,San Cristóbal Cucho,municipio,Telgua (Claro),54.0,2026S1
+SAN MARCOS,San Cristóbal Cucho,municipio,Teléfonos del Norte,0.0,2026S1
+SAN MARCOS,San Cristóbal Cucho,municipio,Claro Guatemala,0.0,2026S1
+SAN MARCOS,San Cristóbal Cucho,municipio,Guatel,0.0,2026S1
+SAN MARCOS,San Cristóbal Cucho,municipio,Liberty (Columbus),0.0,2026S1
+SAN MARCOS,Sipacapa,municipio,Cablenet,0.0,2026S1
+SAN MARCOS,Sipacapa,municipio,Comcel (Tigo),0.0,2026S1
+SAN MARCOS,Sipacapa,municipio,A-Tel,0.0,2026S1
+SAN MARCOS,Sipacapa,municipio,Telgua (Claro),0.0,2026S1
+SAN MARCOS,Sipacapa,municipio,Teléfonos del Norte,0.0,2026S1
+SAN MARCOS,Sipacapa,municipio,Claro Guatemala,0.0,2026S1
+SAN MARCOS,Sipacapa,municipio,Guatel,0.0,2026S1
+SAN MARCOS,Sipacapa,municipio,Liberty (Columbus),0.0,2026S1
+SAN MARCOS,Esquipulas Palo Gordo,municipio,Cablenet,0.0,2026S1
+SAN MARCOS,Esquipulas Palo Gordo,municipio,Comcel (Tigo),0.0,2026S1
+SAN MARCOS,Esquipulas Palo Gordo,municipio,A-Tel,0.0,2026S1
+SAN MARCOS,Esquipulas Palo Gordo,municipio,Telgua (Claro),49.0,2026S1
+SAN MARCOS,Esquipulas Palo Gordo,municipio,Teléfonos del Norte,0.0,2026S1
+SAN MARCOS,Esquipulas Palo Gordo,municipio,Claro Guatemala,0.0,2026S1
+SAN MARCOS,Esquipulas Palo Gordo,municipio,Guatel,0.0,2026S1
+SAN MARCOS,Esquipulas Palo Gordo,municipio,Liberty (Columbus),0.0,2026S1
+SAN MARCOS,Río Blanco,municipio,Cablenet,0.0,2026S1
+SAN MARCOS,Río Blanco,municipio,Comcel (Tigo),0.0,2026S1
+SAN MARCOS,Río Blanco,municipio,A-Tel,0.0,2026S1
+SAN MARCOS,Río Blanco,municipio,Telgua (Claro),40.0,2026S1
+SAN MARCOS,Río Blanco,municipio,Teléfonos del Norte,0.0,2026S1
+SAN MARCOS,Río Blanco,municipio,Claro Guatemala,0.0,2026S1
+SAN MARCOS,Río Blanco,municipio,Guatel,0.0,2026S1
+SAN MARCOS,Río Blanco,municipio,Liberty (Columbus),0.0,2026S1
+SAN MARCOS,San Lorenzo,municipio,Cablenet,0.0,2026S1
+SAN MARCOS,San Lorenzo,municipio,Comcel (Tigo),0.0,2026S1
+SAN MARCOS,San Lorenzo,municipio,A-Tel,0.0,2026S1
+SAN MARCOS,San Lorenzo,municipio,Telgua (Claro),36.0,2026S1
+SAN MARCOS,San Lorenzo,municipio,Teléfonos del Norte,0.0,2026S1
+SAN MARCOS,San Lorenzo,municipio,Claro Guatemala,0.0,2026S1
+SAN MARCOS,San Lorenzo,municipio,Guatel,0.0,2026S1
+SAN MARCOS,San Lorenzo,municipio,Liberty (Columbus),0.0,2026S1
+SAN MARCOS,La Blanca,municipio,Cablenet,0.0,2026S1
+SAN MARCOS,La Blanca,municipio,Comcel (Tigo),1.0,2026S1
+SAN MARCOS,La Blanca,municipio,A-Tel,0.0,2026S1
+SAN MARCOS,La Blanca,municipio,Telgua (Claro),0.0,2026S1
+SAN MARCOS,La Blanca,municipio,Teléfonos del Norte,0.0,2026S1
+SAN MARCOS,La Blanca,municipio,Claro Guatemala,0.0,2026S1
+SAN MARCOS,La Blanca,municipio,Guatel,0.0,2026S1
+SAN MARCOS,La Blanca,municipio,Liberty (Columbus),0.0,2026S1
+HUEHUETENANGO,HUEHUETENANGO,departamento,Cablenet,0.0,2026S1
+HUEHUETENANGO,HUEHUETENANGO,departamento,Comcel (Tigo),42.0,2026S1
+HUEHUETENANGO,HUEHUETENANGO,departamento,A-Tel,0.0,2026S1
+HUEHUETENANGO,HUEHUETENANGO,departamento,Telgua (Claro),26227.0,2026S1
+HUEHUETENANGO,HUEHUETENANGO,departamento,Teléfonos del Norte,0.0,2026S1
+HUEHUETENANGO,HUEHUETENANGO,departamento,Claro Guatemala,0.0,2026S1
+HUEHUETENANGO,HUEHUETENANGO,departamento,Guatel,0.0,2026S1
+HUEHUETENANGO,HUEHUETENANGO,departamento,Liberty (Columbus),0.0,2026S1
+HUEHUETENANGO,Huehuetenango,municipio,Cablenet,0.0,2026S1
+HUEHUETENANGO,Huehuetenango,municipio,Comcel (Tigo),17.0,2026S1
+HUEHUETENANGO,Huehuetenango,municipio,A-Tel,0.0,2026S1
+HUEHUETENANGO,Huehuetenango,municipio,Telgua (Claro),15417.0,2026S1
+HUEHUETENANGO,Huehuetenango,municipio,Teléfonos del Norte,0.0,2026S1
+HUEHUETENANGO,Huehuetenango,municipio,Claro Guatemala,0.0,2026S1
+HUEHUETENANGO,Huehuetenango,municipio,Guatel,0.0,2026S1
+HUEHUETENANGO,Huehuetenango,municipio,Liberty (Columbus),0.0,2026S1
+HUEHUETENANGO,Chiantla,municipio,Cablenet,0.0,2026S1
+HUEHUETENANGO,Chiantla,municipio,Comcel (Tigo),4.0,2026S1
+HUEHUETENANGO,Chiantla,municipio,A-Tel,0.0,2026S1
+HUEHUETENANGO,Chiantla,municipio,Telgua (Claro),2309.0,2026S1
+HUEHUETENANGO,Chiantla,municipio,Teléfonos del Norte,0.0,2026S1
+HUEHUETENANGO,Chiantla,municipio,Claro Guatemala,0.0,2026S1
+HUEHUETENANGO,Chiantla,municipio,Guatel,0.0,2026S1
+HUEHUETENANGO,Chiantla,municipio,Liberty (Columbus),0.0,2026S1
+HUEHUETENANGO,Malacatancito,municipio,Cablenet,0.0,2026S1
+HUEHUETENANGO,Malacatancito,municipio,Comcel (Tigo),1.0,2026S1
+HUEHUETENANGO,Malacatancito,municipio,A-Tel,0.0,2026S1
+HUEHUETENANGO,Malacatancito,municipio,Telgua (Claro),256.0,2026S1
+HUEHUETENANGO,Malacatancito,municipio,Teléfonos del Norte,0.0,2026S1
+HUEHUETENANGO,Malacatancito,municipio,Claro Guatemala,0.0,2026S1
+HUEHUETENANGO,Malacatancito,municipio,Guatel,0.0,2026S1
+HUEHUETENANGO,Malacatancito,municipio,Liberty (Columbus),0.0,2026S1
+HUEHUETENANGO,Cuilco,municipio,Cablenet,0.0,2026S1
+HUEHUETENANGO,Cuilco,municipio,Comcel (Tigo),2.0,2026S1
+HUEHUETENANGO,Cuilco,municipio,A-Tel,0.0,2026S1
+HUEHUETENANGO,Cuilco,municipio,Telgua (Claro),71.0,2026S1
+HUEHUETENANGO,Cuilco,municipio,Teléfonos del Norte,0.0,2026S1
+HUEHUETENANGO,Cuilco,municipio,Claro Guatemala,0.0,2026S1
+HUEHUETENANGO,Cuilco,municipio,Guatel,0.0,2026S1
+HUEHUETENANGO,Cuilco,municipio,Liberty (Columbus),0.0,2026S1
+HUEHUETENANGO,Nentón,municipio,Cablenet,0.0,2026S1
+HUEHUETENANGO,Nentón,municipio,Comcel (Tigo),6.0,2026S1
+HUEHUETENANGO,Nentón,municipio,A-Tel,0.0,2026S1
+HUEHUETENANGO,Nentón,municipio,Telgua (Claro),219.0,2026S1
+HUEHUETENANGO,Nentón,municipio,Teléfonos del Norte,0.0,2026S1
+HUEHUETENANGO,Nentón,municipio,Claro Guatemala,0.0,2026S1
+HUEHUETENANGO,Nentón,municipio,Guatel,0.0,2026S1
+HUEHUETENANGO,Nentón,municipio,Liberty (Columbus),0.0,2026S1
+HUEHUETENANGO,San Pedro Necta,municipio,Cablenet,0.0,2026S1
+HUEHUETENANGO,San Pedro Necta,municipio,Comcel (Tigo),1.0,2026S1
+HUEHUETENANGO,San Pedro Necta,municipio,A-Tel,0.0,2026S1
+HUEHUETENANGO,San Pedro Necta,municipio,Telgua (Claro),256.0,2026S1
+HUEHUETENANGO,San Pedro Necta,municipio,Teléfonos del Norte,0.0,2026S1
+HUEHUETENANGO,San Pedro Necta,municipio,Claro Guatemala,0.0,2026S1
+HUEHUETENANGO,San Pedro Necta,municipio,Guatel,0.0,2026S1
+HUEHUETENANGO,San Pedro Necta,municipio,Liberty (Columbus),0.0,2026S1
+HUEHUETENANGO,Jacaltenango,municipio,Cablenet,0.0,2026S1
+HUEHUETENANGO,Jacaltenango,municipio,Comcel (Tigo),0.0,2026S1
+HUEHUETENANGO,Jacaltenango,municipio,A-Tel,0.0,2026S1
+HUEHUETENANGO,Jacaltenango,municipio,Telgua (Claro),575.0,2026S1
+HUEHUETENANGO,Jacaltenango,municipio,Teléfonos del Norte,0.0,2026S1
+HUEHUETENANGO,Jacaltenango,municipio,Claro Guatemala,0.0,2026S1
+HUEHUETENANGO,Jacaltenango,municipio,Guatel,0.0,2026S1
+HUEHUETENANGO,Jacaltenango,municipio,Liberty (Columbus),0.0,2026S1
+HUEHUETENANGO,San Pedro Soloma,municipio,Cablenet,0.0,2026S1
+HUEHUETENANGO,San Pedro Soloma,municipio,Comcel (Tigo),1.0,2026S1
+HUEHUETENANGO,San Pedro Soloma,municipio,A-Tel,0.0,2026S1
+HUEHUETENANGO,San Pedro Soloma,municipio,Telgua (Claro),2127.0,2026S1
+HUEHUETENANGO,San Pedro Soloma,municipio,Teléfonos del Norte,0.0,2026S1
+HUEHUETENANGO,San Pedro Soloma,municipio,Claro Guatemala,0.0,2026S1
+HUEHUETENANGO,San Pedro Soloma,municipio,Guatel,0.0,2026S1
+HUEHUETENANGO,San Pedro Soloma,municipio,Liberty (Columbus),0.0,2026S1
+HUEHUETENANGO,San Ildefonso Ixtahuacán,municipio,Cablenet,0.0,2026S1
+HUEHUETENANGO,San Ildefonso Ixtahuacán,municipio,Comcel (Tigo),1.0,2026S1
+HUEHUETENANGO,San Ildefonso Ixtahuacán,municipio,A-Tel,0.0,2026S1
+HUEHUETENANGO,San Ildefonso Ixtahuacán,municipio,Telgua (Claro),0.0,2026S1
+HUEHUETENANGO,San Ildefonso Ixtahuacán,municipio,Teléfonos del Norte,0.0,2026S1
+HUEHUETENANGO,San Ildefonso Ixtahuacán,municipio,Claro Guatemala,0.0,2026S1
+HUEHUETENANGO,San Ildefonso Ixtahuacán,municipio,Guatel,0.0,2026S1
+HUEHUETENANGO,San Ildefonso Ixtahuacán,municipio,Liberty (Columbus),0.0,2026S1
+HUEHUETENANGO,Santa Bárbara,municipio,Cablenet,0.0,2026S1
+HUEHUETENANGO,Santa Bárbara,municipio,Comcel (Tigo),1.0,2026S1
+HUEHUETENANGO,Santa Bárbara,municipio,A-Tel,0.0,2026S1
+HUEHUETENANGO,Santa Bárbara,municipio,Telgua (Claro),55.0,2026S1
+HUEHUETENANGO,Santa Bárbara,municipio,Teléfonos del Norte,0.0,2026S1
+HUEHUETENANGO,Santa Bárbara,municipio,Claro Guatemala,0.0,2026S1
+HUEHUETENANGO,Santa Bárbara,municipio,Guatel,0.0,2026S1
+HUEHUETENANGO,Santa Bárbara,municipio,Liberty (Columbus),0.0,2026S1
+HUEHUETENANGO,La Libertad,municipio,Cablenet,0.0,2026S1
+HUEHUETENANGO,La Libertad,municipio,Comcel (Tigo),1.0,2026S1
+HUEHUETENANGO,La Libertad,municipio,A-Tel,0.0,2026S1
+HUEHUETENANGO,La Libertad,municipio,Telgua (Claro),210.0,2026S1
+HUEHUETENANGO,La Libertad,municipio,Teléfonos del Norte,0.0,2026S1
+HUEHUETENANGO,La Libertad,municipio,Claro Guatemala,0.0,2026S1
+HUEHUETENANGO,La Libertad,municipio,Guatel,0.0,2026S1
+HUEHUETENANGO,La Libertad,municipio,Liberty (Columbus),0.0,2026S1
+HUEHUETENANGO,La Democracia,municipio,Cablenet,0.0,2026S1
+HUEHUETENANGO,La Democracia,municipio,Comcel (Tigo),1.0,2026S1
+HUEHUETENANGO,La Democracia,municipio,A-Tel,0.0,2026S1
+HUEHUETENANGO,La Democracia,municipio,Telgua (Claro),455.0,2026S1
+HUEHUETENANGO,La Democracia,municipio,Teléfonos del Norte,0.0,2026S1
+HUEHUETENANGO,La Democracia,municipio,Claro Guatemala,0.0,2026S1
+HUEHUETENANGO,La Democracia,municipio,Guatel,0.0,2026S1
+HUEHUETENANGO,La Democracia,municipio,Liberty (Columbus),0.0,2026S1
+HUEHUETENANGO,San Miguel Acatán,municipio,Cablenet,0.0,2026S1
+HUEHUETENANGO,San Miguel Acatán,municipio,Comcel (Tigo),0.0,2026S1
+HUEHUETENANGO,San Miguel Acatán,municipio,A-Tel,0.0,2026S1
+HUEHUETENANGO,San Miguel Acatán,municipio,Telgua (Claro),0.0,2026S1
+HUEHUETENANGO,San Miguel Acatán,municipio,Teléfonos del Norte,0.0,2026S1
+HUEHUETENANGO,San Miguel Acatán,municipio,Claro Guatemala,0.0,2026S1
+HUEHUETENANGO,San Miguel Acatán,municipio,Guatel,0.0,2026S1
+HUEHUETENANGO,San Miguel Acatán,municipio,Liberty (Columbus),0.0,2026S1
+HUEHUETENANGO,San Rafael La Independencia,municipio,Cablenet,0.0,2026S1
+HUEHUETENANGO,San Rafael La Independencia,municipio,Comcel (Tigo),1.0,2026S1
+HUEHUETENANGO,San Rafael La Independencia,municipio,A-Tel,0.0,2026S1
+HUEHUETENANGO,San Rafael La Independencia,municipio,Telgua (Claro),0.0,2026S1
+HUEHUETENANGO,San Rafael La Independencia,municipio,Teléfonos del Norte,0.0,2026S1
+HUEHUETENANGO,San Rafael La Independencia,municipio,Claro Guatemala,0.0,2026S1
+HUEHUETENANGO,San Rafael La Independencia,municipio,Guatel,0.0,2026S1
+HUEHUETENANGO,San Rafael La Independencia,municipio,Liberty (Columbus),0.0,2026S1
+HUEHUETENANGO,Todos Santos Cuchumatán,municipio,Cablenet,0.0,2026S1
+HUEHUETENANGO,Todos Santos Cuchumatán,municipio,Comcel (Tigo),1.0,2026S1
+HUEHUETENANGO,Todos Santos Cuchumatán,municipio,A-Tel,0.0,2026S1
+HUEHUETENANGO,Todos Santos Cuchumatán,municipio,Telgua (Claro),0.0,2026S1
+HUEHUETENANGO,Todos Santos Cuchumatán,municipio,Teléfonos del Norte,0.0,2026S1
+HUEHUETENANGO,Todos Santos Cuchumatán,municipio,Claro Guatemala,0.0,2026S1
+HUEHUETENANGO,Todos Santos Cuchumatán,municipio,Guatel,0.0,2026S1
+HUEHUETENANGO,Todos Santos Cuchumatán,municipio,Liberty (Columbus),0.0,2026S1
+HUEHUETENANGO,San Juan Atitán,municipio,Cablenet,0.0,2026S1
+HUEHUETENANGO,San Juan Atitán,municipio,Comcel (Tigo),0.0,2026S1
+HUEHUETENANGO,San Juan Atitán,municipio,A-Tel,0.0,2026S1
+HUEHUETENANGO,San Juan Atitán,municipio,Telgua (Claro),0.0,2026S1
+HUEHUETENANGO,San Juan Atitán,municipio,Teléfonos del Norte,0.0,2026S1
+HUEHUETENANGO,San Juan Atitán,municipio,Claro Guatemala,0.0,2026S1
+HUEHUETENANGO,San Juan Atitán,municipio,Guatel,0.0,2026S1
+HUEHUETENANGO,San Juan Atitán,municipio,Liberty (Columbus),0.0,2026S1
+HUEHUETENANGO,Santa Eulalia,municipio,Cablenet,0.0,2026S1
+HUEHUETENANGO,Santa Eulalia,municipio,Comcel (Tigo),1.0,2026S1
+HUEHUETENANGO,Santa Eulalia,municipio,A-Tel,0.0,2026S1
+HUEHUETENANGO,Santa Eulalia,municipio,Telgua (Claro),575.0,2026S1
+HUEHUETENANGO,Santa Eulalia,municipio,Teléfonos del Norte,0.0,2026S1
+HUEHUETENANGO,Santa Eulalia,municipio,Claro Guatemala,0.0,2026S1
+HUEHUETENANGO,Santa Eulalia,municipio,Guatel,0.0,2026S1
+HUEHUETENANGO,Santa Eulalia,municipio,Liberty (Columbus),0.0,2026S1
+HUEHUETENANGO,San Mateo Ixtatán,municipio,Cablenet,0.0,2026S1
+HUEHUETENANGO,San Mateo Ixtatán,municipio,Comcel (Tigo),0.0,2026S1
+HUEHUETENANGO,San Mateo Ixtatán,municipio,A-Tel,0.0,2026S1
+HUEHUETENANGO,San Mateo Ixtatán,municipio,Telgua (Claro),0.0,2026S1
+HUEHUETENANGO,San Mateo Ixtatán,municipio,Teléfonos del Norte,0.0,2026S1
+HUEHUETENANGO,San Mateo Ixtatán,municipio,Claro Guatemala,0.0,2026S1
+HUEHUETENANGO,San Mateo Ixtatán,municipio,Guatel,0.0,2026S1
+HUEHUETENANGO,San Mateo Ixtatán,municipio,Liberty (Columbus),0.0,2026S1
+HUEHUETENANGO,Colotenango,municipio,Cablenet,0.0,2026S1
+HUEHUETENANGO,Colotenango,municipio,Comcel (Tigo),0.0,2026S1
+HUEHUETENANGO,Colotenango,municipio,A-Tel,0.0,2026S1
+HUEHUETENANGO,Colotenango,municipio,Telgua (Claro),88.0,2026S1
+HUEHUETENANGO,Colotenango,municipio,Teléfonos del Norte,0.0,2026S1
+HUEHUETENANGO,Colotenango,municipio,Claro Guatemala,0.0,2026S1
+HUEHUETENANGO,Colotenango,municipio,Guatel,0.0,2026S1
+HUEHUETENANGO,Colotenango,municipio,Liberty (Columbus),0.0,2026S1
+HUEHUETENANGO,San Sebastián Huehuetenango,municipio,Cablenet,0.0,2026S1
+HUEHUETENANGO,San Sebastián Huehuetenango,municipio,Comcel (Tigo),0.0,2026S1
+HUEHUETENANGO,San Sebastián Huehuetenango,municipio,A-Tel,0.0,2026S1
+HUEHUETENANGO,San Sebastián Huehuetenango,municipio,Telgua (Claro),210.0,2026S1
+HUEHUETENANGO,San Sebastián Huehuetenango,municipio,Teléfonos del Norte,0.0,2026S1
+HUEHUETENANGO,San Sebastián Huehuetenango,municipio,Claro Guatemala,0.0,2026S1
+HUEHUETENANGO,San Sebastián Huehuetenango,municipio,Guatel,0.0,2026S1
+HUEHUETENANGO,San Sebastián Huehuetenango,municipio,Liberty (Columbus),0.0,2026S1
+HUEHUETENANGO,Tectitán,municipio,Cablenet,0.0,2026S1
+HUEHUETENANGO,Tectitán,municipio,Comcel (Tigo),0.0,2026S1
+HUEHUETENANGO,Tectitán,municipio,A-Tel,0.0,2026S1
+HUEHUETENANGO,Tectitán,municipio,Telgua (Claro),35.0,2026S1
+HUEHUETENANGO,Tectitán,municipio,Teléfonos del Norte,0.0,2026S1
+HUEHUETENANGO,Tectitán,municipio,Claro Guatemala,0.0,2026S1
+HUEHUETENANGO,Tectitán,municipio,Guatel,0.0,2026S1
+HUEHUETENANGO,Tectitán,municipio,Liberty (Columbus),0.0,2026S1
+HUEHUETENANGO,Concepción Huista,municipio,Cablenet,0.0,2026S1
+HUEHUETENANGO,Concepción Huista,municipio,Comcel (Tigo),0.0,2026S1
+HUEHUETENANGO,Concepción Huista,municipio,A-Tel,0.0,2026S1
+HUEHUETENANGO,Concepción Huista,municipio,Telgua (Claro),44.0,2026S1
+HUEHUETENANGO,Concepción Huista,municipio,Teléfonos del Norte,0.0,2026S1
+HUEHUETENANGO,Concepción Huista,municipio,Claro Guatemala,0.0,2026S1
+HUEHUETENANGO,Concepción Huista,municipio,Guatel,0.0,2026S1
+HUEHUETENANGO,Concepción Huista,municipio,Liberty (Columbus),0.0,2026S1
+HUEHUETENANGO,San Juan Ixcoy,municipio,Cablenet,0.0,2026S1
+HUEHUETENANGO,San Juan Ixcoy,municipio,Comcel (Tigo),0.0,2026S1
+HUEHUETENANGO,San Juan Ixcoy,municipio,A-Tel,0.0,2026S1
+HUEHUETENANGO,San Juan Ixcoy,municipio,Telgua (Claro),101.0,2026S1
+HUEHUETENANGO,San Juan Ixcoy,municipio,Teléfonos del Norte,0.0,2026S1
+HUEHUETENANGO,San Juan Ixcoy,municipio,Claro Guatemala,0.0,2026S1
+HUEHUETENANGO,San Juan Ixcoy,municipio,Guatel,0.0,2026S1
+HUEHUETENANGO,San Juan Ixcoy,municipio,Liberty (Columbus),0.0,2026S1
+HUEHUETENANGO,San Antonio Huista,municipio,Cablenet,0.0,2026S1
+HUEHUETENANGO,San Antonio Huista,municipio,Comcel (Tigo),1.0,2026S1
+HUEHUETENANGO,San Antonio Huista,municipio,A-Tel,0.0,2026S1
+HUEHUETENANGO,San Antonio Huista,municipio,Telgua (Claro),484.0,2026S1
+HUEHUETENANGO,San Antonio Huista,municipio,Teléfonos del Norte,0.0,2026S1
+HUEHUETENANGO,San Antonio Huista,municipio,Claro Guatemala,0.0,2026S1
+HUEHUETENANGO,San Antonio Huista,municipio,Guatel,0.0,2026S1
+HUEHUETENANGO,San Antonio Huista,municipio,Liberty (Columbus),0.0,2026S1
+HUEHUETENANGO,San Sebastián Coatán,municipio,Cablenet,0.0,2026S1
+HUEHUETENANGO,San Sebastián Coatán,municipio,Comcel (Tigo),0.0,2026S1
+HUEHUETENANGO,San Sebastián Coatán,municipio,A-Tel,0.0,2026S1
+HUEHUETENANGO,San Sebastián Coatán,municipio,Telgua (Claro),0.0,2026S1
+HUEHUETENANGO,San Sebastián Coatán,municipio,Teléfonos del Norte,0.0,2026S1
+HUEHUETENANGO,San Sebastián Coatán,municipio,Claro Guatemala,0.0,2026S1
+HUEHUETENANGO,San Sebastián Coatán,municipio,Guatel,0.0,2026S1
+HUEHUETENANGO,San Sebastián Coatán,municipio,Liberty (Columbus),0.0,2026S1
+HUEHUETENANGO,Santa Cruz Barillas,municipio,Cablenet,0.0,2026S1
+HUEHUETENANGO,Santa Cruz Barillas,municipio,Comcel (Tigo),0.0,2026S1
+HUEHUETENANGO,Santa Cruz Barillas,municipio,A-Tel,0.0,2026S1
+HUEHUETENANGO,Santa Cruz Barillas,municipio,Telgua (Claro),2036.0,2026S1
+HUEHUETENANGO,Santa Cruz Barillas,municipio,Teléfonos del Norte,0.0,2026S1
+HUEHUETENANGO,Santa Cruz Barillas,municipio,Claro Guatemala,0.0,2026S1
+HUEHUETENANGO,Santa Cruz Barillas,municipio,Guatel,0.0,2026S1
+HUEHUETENANGO,Santa Cruz Barillas,municipio,Liberty (Columbus),0.0,2026S1
+HUEHUETENANGO,Aguacatán,municipio,Cablenet,0.0,2026S1
+HUEHUETENANGO,Aguacatán,municipio,Comcel (Tigo),1.0,2026S1
+HUEHUETENANGO,Aguacatán,municipio,A-Tel,0.0,2026S1
+HUEHUETENANGO,Aguacatán,municipio,Telgua (Claro),575.0,2026S1
+HUEHUETENANGO,Aguacatán,municipio,Teléfonos del Norte,0.0,2026S1
+HUEHUETENANGO,Aguacatán,municipio,Claro Guatemala,0.0,2026S1
+HUEHUETENANGO,Aguacatán,municipio,Guatel,0.0,2026S1
+HUEHUETENANGO,Aguacatán,municipio,Liberty (Columbus),0.0,2026S1
+HUEHUETENANGO,San Rafael Petzal,municipio,Cablenet,0.0,2026S1
+HUEHUETENANGO,San Rafael Petzal,municipio,Comcel (Tigo),0.0,2026S1
+HUEHUETENANGO,San Rafael Petzal,municipio,A-Tel,0.0,2026S1
+HUEHUETENANGO,San Rafael Petzal,municipio,Telgua (Claro),11.0,2026S1
+HUEHUETENANGO,San Rafael Petzal,municipio,Teléfonos del Norte,0.0,2026S1
+HUEHUETENANGO,San Rafael Petzal,municipio,Claro Guatemala,0.0,2026S1
+HUEHUETENANGO,San Rafael Petzal,municipio,Guatel,0.0,2026S1
+HUEHUETENANGO,San Rafael Petzal,municipio,Liberty (Columbus),0.0,2026S1
+HUEHUETENANGO,San Gaspar Ixchil,municipio,Cablenet,0.0,2026S1
+HUEHUETENANGO,San Gaspar Ixchil,municipio,Comcel (Tigo),1.0,2026S1
+HUEHUETENANGO,San Gaspar Ixchil,municipio,A-Tel,0.0,2026S1
+HUEHUETENANGO,San Gaspar Ixchil,municipio,Telgua (Claro),0.0,2026S1
+HUEHUETENANGO,San Gaspar Ixchil,municipio,Teléfonos del Norte,0.0,2026S1
+HUEHUETENANGO,San Gaspar Ixchil,municipio,Claro Guatemala,0.0,2026S1
+HUEHUETENANGO,San Gaspar Ixchil,municipio,Guatel,0.0,2026S1
+HUEHUETENANGO,San Gaspar Ixchil,municipio,Liberty (Columbus),0.0,2026S1
+HUEHUETENANGO,Santiago Chimaltenango,municipio,Cablenet,0.0,2026S1
+HUEHUETENANGO,Santiago Chimaltenango,municipio,Comcel (Tigo),0.0,2026S1
+HUEHUETENANGO,Santiago Chimaltenango,municipio,A-Tel,0.0,2026S1
+HUEHUETENANGO,Santiago Chimaltenango,municipio,Telgua (Claro),0.0,2026S1
+HUEHUETENANGO,Santiago Chimaltenango,municipio,Teléfonos del Norte,0.0,2026S1
+HUEHUETENANGO,Santiago Chimaltenango,municipio,Claro Guatemala,0.0,2026S1
+HUEHUETENANGO,Santiago Chimaltenango,municipio,Guatel,0.0,2026S1
+HUEHUETENANGO,Santiago Chimaltenango,municipio,Liberty (Columbus),0.0,2026S1
+HUEHUETENANGO,Santa Ana Huista,municipio,Cablenet,0.0,2026S1
+HUEHUETENANGO,Santa Ana Huista,municipio,Comcel (Tigo),0.0,2026S1
+HUEHUETENANGO,Santa Ana Huista,municipio,A-Tel,0.0,2026S1
+HUEHUETENANGO,Santa Ana Huista,municipio,Telgua (Claro),118.0,2026S1
+HUEHUETENANGO,Santa Ana Huista,municipio,Teléfonos del Norte,0.0,2026S1
+HUEHUETENANGO,Santa Ana Huista,municipio,Claro Guatemala,0.0,2026S1
+HUEHUETENANGO,Santa Ana Huista,municipio,Guatel,0.0,2026S1
+HUEHUETENANGO,Santa Ana Huista,municipio,Liberty (Columbus),0.0,2026S1
+HUEHUETENANGO,Unión Cantinil,municipio,Cablenet,0.0,2026S1
+HUEHUETENANGO,Unión Cantinil,municipio,Comcel (Tigo),0.0,2026S1
+HUEHUETENANGO,Unión Cantinil,municipio,A-Tel,0.0,2026S1
+HUEHUETENANGO,Unión Cantinil,municipio,Telgua (Claro),0.0,2026S1
+HUEHUETENANGO,Unión Cantinil,municipio,Teléfonos del Norte,0.0,2026S1
+HUEHUETENANGO,Unión Cantinil,municipio,Claro Guatemala,0.0,2026S1
+HUEHUETENANGO,Unión Cantinil,municipio,Guatel,0.0,2026S1
+HUEHUETENANGO,Unión Cantinil,municipio,Liberty (Columbus),0.0,2026S1
+HUEHUETENANGO,Petatán,municipio,Cablenet,0.0,2026S1
+HUEHUETENANGO,Petatán,municipio,Comcel (Tigo),0.0,2026S1
+HUEHUETENANGO,Petatán,municipio,A-Tel,0.0,2026S1
+HUEHUETENANGO,Petatán,municipio,Telgua (Claro),0.0,2026S1
+HUEHUETENANGO,Petatán,municipio,Teléfonos del Norte,0.0,2026S1
+HUEHUETENANGO,Petatán,municipio,Claro Guatemala,0.0,2026S1
+HUEHUETENANGO,Petatán,municipio,Guatel,0.0,2026S1
+HUEHUETENANGO,Petatán,municipio,Liberty (Columbus),0.0,2026S1
+QUICHÉ,QUICHÉ,departamento,Cablenet,0.0,2026S1
+QUICHÉ,QUICHÉ,departamento,Comcel (Tigo),21.0,2026S1
+QUICHÉ,QUICHÉ,departamento,A-Tel,0.0,2026S1
+QUICHÉ,QUICHÉ,departamento,Telgua (Claro),10507.0,2026S1
+QUICHÉ,QUICHÉ,departamento,Teléfonos del Norte,0.0,2026S1
+QUICHÉ,QUICHÉ,departamento,Claro Guatemala,0.0,2026S1
+QUICHÉ,QUICHÉ,departamento,Guatel,0.0,2026S1
+QUICHÉ,QUICHÉ,departamento,Liberty (Columbus),0.0,2026S1
+QUICHÉ,Santa Cruz del Quiché,municipio,Cablenet,0.0,2026S1
+QUICHÉ,Santa Cruz del Quiché,municipio,Comcel (Tigo),3.0,2026S1
+QUICHÉ,Santa Cruz del Quiché,municipio,A-Tel,0.0,2026S1
+QUICHÉ,Santa Cruz del Quiché,municipio,Telgua (Claro),6181.0,2026S1
+QUICHÉ,Santa Cruz del Quiché,municipio,Teléfonos del Norte,0.0,2026S1
+QUICHÉ,Santa Cruz del Quiché,municipio,Claro Guatemala,0.0,2026S1
+QUICHÉ,Santa Cruz del Quiché,municipio,Guatel,0.0,2026S1
+QUICHÉ,Santa Cruz del Quiché,municipio,Liberty (Columbus),0.0,2026S1
+QUICHÉ,Chiché,municipio,Cablenet,0.0,2026S1
+QUICHÉ,Chiché,municipio,Comcel (Tigo),0.0,2026S1
+QUICHÉ,Chiché,municipio,A-Tel,0.0,2026S1
+QUICHÉ,Chiché,municipio,Telgua (Claro),301.0,2026S1
+QUICHÉ,Chiché,municipio,Teléfonos del Norte,0.0,2026S1
+QUICHÉ,Chiché,municipio,Claro Guatemala,0.0,2026S1
+QUICHÉ,Chiché,municipio,Guatel,0.0,2026S1
+QUICHÉ,Chiché,municipio,Liberty (Columbus),0.0,2026S1
+QUICHÉ,Chinique,municipio,Cablenet,0.0,2026S1
+QUICHÉ,Chinique,municipio,Comcel (Tigo),1.0,2026S1
+QUICHÉ,Chinique,municipio,A-Tel,0.0,2026S1
+QUICHÉ,Chinique,municipio,Telgua (Claro),575.0,2026S1
+QUICHÉ,Chinique,municipio,Teléfonos del Norte,0.0,2026S1
+QUICHÉ,Chinique,municipio,Claro Guatemala,0.0,2026S1
+QUICHÉ,Chinique,municipio,Guatel,0.0,2026S1
+QUICHÉ,Chinique,municipio,Liberty (Columbus),0.0,2026S1
+QUICHÉ,Zacualpa,municipio,Cablenet,0.0,2026S1
+QUICHÉ,Zacualpa,municipio,Comcel (Tigo),0.0,2026S1
+QUICHÉ,Zacualpa,municipio,A-Tel,0.0,2026S1
+QUICHÉ,Zacualpa,municipio,Telgua (Claro),206.0,2026S1
+QUICHÉ,Zacualpa,municipio,Teléfonos del Norte,0.0,2026S1
+QUICHÉ,Zacualpa,municipio,Claro Guatemala,0.0,2026S1
+QUICHÉ,Zacualpa,municipio,Guatel,0.0,2026S1
+QUICHÉ,Zacualpa,municipio,Liberty (Columbus),0.0,2026S1
+QUICHÉ,Chajul,municipio,Cablenet,0.0,2026S1
+QUICHÉ,Chajul,municipio,Comcel (Tigo),0.0,2026S1
+QUICHÉ,Chajul,municipio,A-Tel,0.0,2026S1
+QUICHÉ,Chajul,municipio,Telgua (Claro),53.0,2026S1
+QUICHÉ,Chajul,municipio,Teléfonos del Norte,0.0,2026S1
+QUICHÉ,Chajul,municipio,Claro Guatemala,0.0,2026S1
+QUICHÉ,Chajul,municipio,Guatel,0.0,2026S1
+QUICHÉ,Chajul,municipio,Liberty (Columbus),0.0,2026S1
+QUICHÉ,Santo Tomás Chichicastenango,municipio,Cablenet,0.0,2026S1
+QUICHÉ,Santo Tomás Chichicastenango,municipio,Comcel (Tigo),3.0,2026S1
+QUICHÉ,Santo Tomás Chichicastenango,municipio,A-Tel,0.0,2026S1
+QUICHÉ,Santo Tomás Chichicastenango,municipio,Telgua (Claro),0.0,2026S1
+QUICHÉ,Santo Tomás Chichicastenango,municipio,Teléfonos del Norte,0.0,2026S1
+QUICHÉ,Santo Tomás Chichicastenango,municipio,Claro Guatemala,0.0,2026S1
+QUICHÉ,Santo Tomás Chichicastenango,municipio,Guatel,0.0,2026S1
+QUICHÉ,Santo Tomás Chichicastenango,municipio,Liberty (Columbus),0.0,2026S1
+QUICHÉ,Patzité,municipio,Cablenet,0.0,2026S1
+QUICHÉ,Patzité,municipio,Comcel (Tigo),0.0,2026S1
+QUICHÉ,Patzité,municipio,A-Tel,0.0,2026S1
+QUICHÉ,Patzité,municipio,Telgua (Claro),4.0,2026S1
+QUICHÉ,Patzité,municipio,Teléfonos del Norte,0.0,2026S1
+QUICHÉ,Patzité,municipio,Claro Guatemala,0.0,2026S1
+QUICHÉ,Patzité,municipio,Guatel,0.0,2026S1
+QUICHÉ,Patzité,municipio,Liberty (Columbus),0.0,2026S1
+QUICHÉ,San Antonio Ilotenango,municipio,Cablenet,0.0,2026S1
+QUICHÉ,San Antonio Ilotenango,municipio,Comcel (Tigo),0.0,2026S1
+QUICHÉ,San Antonio Ilotenango,municipio,A-Tel,0.0,2026S1
+QUICHÉ,San Antonio Ilotenango,municipio,Telgua (Claro),548.0,2026S1
+QUICHÉ,San Antonio Ilotenango,municipio,Teléfonos del Norte,0.0,2026S1
+QUICHÉ,San Antonio Ilotenango,municipio,Claro Guatemala,0.0,2026S1
+QUICHÉ,San Antonio Ilotenango,municipio,Guatel,0.0,2026S1
+QUICHÉ,San Antonio Ilotenango,municipio,Liberty (Columbus),0.0,2026S1
+QUICHÉ,San Pedro Jocopilas,municipio,Cablenet,0.0,2026S1
+QUICHÉ,San Pedro Jocopilas,municipio,Comcel (Tigo),1.0,2026S1
+QUICHÉ,San Pedro Jocopilas,municipio,A-Tel,0.0,2026S1
+QUICHÉ,San Pedro Jocopilas,municipio,Telgua (Claro),119.0,2026S1
+QUICHÉ,San Pedro Jocopilas,municipio,Teléfonos del Norte,0.0,2026S1
+QUICHÉ,San Pedro Jocopilas,municipio,Claro Guatemala,0.0,2026S1
+QUICHÉ,San Pedro Jocopilas,municipio,Guatel,0.0,2026S1
+QUICHÉ,San Pedro Jocopilas,municipio,Liberty (Columbus),0.0,2026S1
+QUICHÉ,Cunén,municipio,Cablenet,0.0,2026S1
+QUICHÉ,Cunén,municipio,Comcel (Tigo),1.0,2026S1
+QUICHÉ,Cunén,municipio,A-Tel,0.0,2026S1
+QUICHÉ,Cunén,municipio,Telgua (Claro),437.0,2026S1
+QUICHÉ,Cunén,municipio,Teléfonos del Norte,0.0,2026S1
+QUICHÉ,Cunén,municipio,Claro Guatemala,0.0,2026S1
+QUICHÉ,Cunén,municipio,Guatel,0.0,2026S1
+QUICHÉ,Cunén,municipio,Liberty (Columbus),0.0,2026S1
+QUICHÉ,San Juan Cotzal,municipio,Cablenet,0.0,2026S1
+QUICHÉ,San Juan Cotzal,municipio,Comcel (Tigo),1.0,2026S1
+QUICHÉ,San Juan Cotzal,municipio,A-Tel,0.0,2026S1
+QUICHÉ,San Juan Cotzal,municipio,Telgua (Claro),0.0,2026S1
+QUICHÉ,San Juan Cotzal,municipio,Teléfonos del Norte,0.0,2026S1
+QUICHÉ,San Juan Cotzal,municipio,Claro Guatemala,0.0,2026S1
+QUICHÉ,San Juan Cotzal,municipio,Guatel,0.0,2026S1
+QUICHÉ,San Juan Cotzal,municipio,Liberty (Columbus),0.0,2026S1
+QUICHÉ,Joyabaj,municipio,Cablenet,0.0,2026S1
+QUICHÉ,Joyabaj,municipio,Comcel (Tigo),2.0,2026S1
+QUICHÉ,Joyabaj,municipio,A-Tel,0.0,2026S1
+QUICHÉ,Joyabaj,municipio,Telgua (Claro),1122.0,2026S1
+QUICHÉ,Joyabaj,municipio,Teléfonos del Norte,0.0,2026S1
+QUICHÉ,Joyabaj,municipio,Claro Guatemala,0.0,2026S1
+QUICHÉ,Joyabaj,municipio,Guatel,0.0,2026S1
+QUICHÉ,Joyabaj,municipio,Liberty (Columbus),0.0,2026S1
+QUICHÉ,Santa María Nebaj,municipio,Cablenet,0.0,2026S1
+QUICHÉ,Santa María Nebaj,municipio,Comcel (Tigo),2.0,2026S1
+QUICHÉ,Santa María Nebaj,municipio,A-Tel,0.0,2026S1
+QUICHÉ,Santa María Nebaj,municipio,Telgua (Claro),0.0,2026S1
+QUICHÉ,Santa María Nebaj,municipio,Teléfonos del Norte,0.0,2026S1
+QUICHÉ,Santa María Nebaj,municipio,Claro Guatemala,0.0,2026S1
+QUICHÉ,Santa María Nebaj,municipio,Guatel,0.0,2026S1
+QUICHÉ,Santa María Nebaj,municipio,Liberty (Columbus),0.0,2026S1
+QUICHÉ,San Andrés Sajcabajá,municipio,Cablenet,0.0,2026S1
+QUICHÉ,San Andrés Sajcabajá,municipio,Comcel (Tigo),0.0,2026S1
+QUICHÉ,San Andrés Sajcabajá,municipio,A-Tel,0.0,2026S1
+QUICHÉ,San Andrés Sajcabajá,municipio,Telgua (Claro),0.0,2026S1
+QUICHÉ,San Andrés Sajcabajá,municipio,Teléfonos del Norte,0.0,2026S1
+QUICHÉ,San Andrés Sajcabajá,municipio,Claro Guatemala,0.0,2026S1
+QUICHÉ,San Andrés Sajcabajá,municipio,Guatel,0.0,2026S1
+QUICHÉ,San Andrés Sajcabajá,municipio,Liberty (Columbus),0.0,2026S1
+QUICHÉ,San Miguel Uspantán,municipio,Cablenet,0.0,2026S1
+QUICHÉ,San Miguel Uspantán,municipio,Comcel (Tigo),2.0,2026S1
+QUICHÉ,San Miguel Uspantán,municipio,A-Tel,0.0,2026S1
+QUICHÉ,San Miguel Uspantán,municipio,Telgua (Claro),0.0,2026S1
+QUICHÉ,San Miguel Uspantán,municipio,Teléfonos del Norte,0.0,2026S1
+QUICHÉ,San Miguel Uspantán,municipio,Claro Guatemala,0.0,2026S1
+QUICHÉ,San Miguel Uspantán,municipio,Guatel,0.0,2026S1
+QUICHÉ,San Miguel Uspantán,municipio,Liberty (Columbus),0.0,2026S1
+QUICHÉ,Sacapulas,municipio,Cablenet,0.0,2026S1
+QUICHÉ,Sacapulas,municipio,Comcel (Tigo),0.0,2026S1
+QUICHÉ,Sacapulas,municipio,A-Tel,0.0,2026S1
+QUICHÉ,Sacapulas,municipio,Telgua (Claro),85.0,2026S1
+QUICHÉ,Sacapulas,municipio,Teléfonos del Norte,0.0,2026S1
+QUICHÉ,Sacapulas,municipio,Claro Guatemala,0.0,2026S1
+QUICHÉ,Sacapulas,municipio,Guatel,0.0,2026S1
+QUICHÉ,Sacapulas,municipio,Liberty (Columbus),0.0,2026S1
+QUICHÉ,San Bartolomé Jocotenango,municipio,Cablenet,0.0,2026S1
+QUICHÉ,San Bartolomé Jocotenango,municipio,Comcel (Tigo),0.0,2026S1
+QUICHÉ,San Bartolomé Jocotenango,municipio,A-Tel,0.0,2026S1
+QUICHÉ,San Bartolomé Jocotenango,municipio,Telgua (Claro),0.0,2026S1
+QUICHÉ,San Bartolomé Jocotenango,municipio,Teléfonos del Norte,0.0,2026S1
+QUICHÉ,San Bartolomé Jocotenango,municipio,Claro Guatemala,0.0,2026S1
+QUICHÉ,San Bartolomé Jocotenango,municipio,Guatel,0.0,2026S1
+QUICHÉ,San Bartolomé Jocotenango,municipio,Liberty (Columbus),0.0,2026S1
+QUICHÉ,Canillá,municipio,Cablenet,0.0,2026S1
+QUICHÉ,Canillá,municipio,Comcel (Tigo),0.0,2026S1
+QUICHÉ,Canillá,municipio,A-Tel,0.0,2026S1
+QUICHÉ,Canillá,municipio,Telgua (Claro),0.0,2026S1
+QUICHÉ,Canillá,municipio,Teléfonos del Norte,0.0,2026S1
+QUICHÉ,Canillá,municipio,Claro Guatemala,0.0,2026S1
+QUICHÉ,Canillá,municipio,Guatel,0.0,2026S1
+QUICHÉ,Canillá,municipio,Liberty (Columbus),0.0,2026S1
+QUICHÉ,Chicamán,municipio,Cablenet,0.0,2026S1
+QUICHÉ,Chicamán,municipio,Comcel (Tigo),1.0,2026S1
+QUICHÉ,Chicamán,municipio,A-Tel,0.0,2026S1
+QUICHÉ,Chicamán,municipio,Telgua (Claro),301.0,2026S1
+QUICHÉ,Chicamán,municipio,Teléfonos del Norte,0.0,2026S1
+QUICHÉ,Chicamán,municipio,Claro Guatemala,0.0,2026S1
+QUICHÉ,Chicamán,municipio,Guatel,0.0,2026S1
+QUICHÉ,Chicamán,municipio,Liberty (Columbus),0.0,2026S1
+QUICHÉ,Playa Grande Ixcán,municipio,Cablenet,0.0,2026S1
+QUICHÉ,Playa Grande Ixcán,municipio,Comcel (Tigo),4.0,2026S1
+QUICHÉ,Playa Grande Ixcán,municipio,A-Tel,0.0,2026S1
+QUICHÉ,Playa Grande Ixcán,municipio,Telgua (Claro),0.0,2026S1
+QUICHÉ,Playa Grande Ixcán,municipio,Teléfonos del Norte,0.0,2026S1
+QUICHÉ,Playa Grande Ixcán,municipio,Claro Guatemala,0.0,2026S1
+QUICHÉ,Playa Grande Ixcán,municipio,Guatel,0.0,2026S1
+QUICHÉ,Playa Grande Ixcán,municipio,Liberty (Columbus),0.0,2026S1
+QUICHÉ,Pachalum,municipio,Cablenet,0.0,2026S1
+QUICHÉ,Pachalum,municipio,Comcel (Tigo),0.0,2026S1
+QUICHÉ,Pachalum,municipio,A-Tel,0.0,2026S1
+QUICHÉ,Pachalum,municipio,Telgua (Claro),575.0,2026S1
+QUICHÉ,Pachalum,municipio,Teléfonos del Norte,0.0,2026S1
+QUICHÉ,Pachalum,municipio,Claro Guatemala,0.0,2026S1
+QUICHÉ,Pachalum,municipio,Guatel,0.0,2026S1
+QUICHÉ,Pachalum,municipio,Liberty (Columbus),0.0,2026S1
+BAJA VERAPAZ,BAJA VERAPAZ,departamento,Cablenet,0.0,2026S1
+BAJA VERAPAZ,BAJA VERAPAZ,departamento,Comcel (Tigo),10.0,2026S1
+BAJA VERAPAZ,BAJA VERAPAZ,departamento,A-Tel,0.0,2026S1
+BAJA VERAPAZ,BAJA VERAPAZ,departamento,Telgua (Claro),5537.0,2026S1
+BAJA VERAPAZ,BAJA VERAPAZ,departamento,Teléfonos del Norte,0.0,2026S1
+BAJA VERAPAZ,BAJA VERAPAZ,departamento,Claro Guatemala,0.0,2026S1
+BAJA VERAPAZ,BAJA VERAPAZ,departamento,Guatel,0.0,2026S1
+BAJA VERAPAZ,BAJA VERAPAZ,departamento,Liberty (Columbus),0.0,2026S1
+BAJA VERAPAZ,Salamá,municipio,Cablenet,0.0,2026S1
+BAJA VERAPAZ,Salamá,municipio,Comcel (Tigo),3.0,2026S1
+BAJA VERAPAZ,Salamá,municipio,A-Tel,0.0,2026S1
+BAJA VERAPAZ,Salamá,municipio,Telgua (Claro),2619.0,2026S1
+BAJA VERAPAZ,Salamá,municipio,Teléfonos del Norte,0.0,2026S1
+BAJA VERAPAZ,Salamá,municipio,Claro Guatemala,0.0,2026S1
+BAJA VERAPAZ,Salamá,municipio,Guatel,0.0,2026S1
+BAJA VERAPAZ,Salamá,municipio,Liberty (Columbus),0.0,2026S1
+BAJA VERAPAZ,San Miguel Chicaj,municipio,Cablenet,0.0,2026S1
+BAJA VERAPAZ,San Miguel Chicaj,municipio,Comcel (Tigo),1.0,2026S1
+BAJA VERAPAZ,San Miguel Chicaj,municipio,A-Tel,0.0,2026S1
+BAJA VERAPAZ,San Miguel Chicaj,municipio,Telgua (Claro),347.0,2026S1
+BAJA VERAPAZ,San Miguel Chicaj,municipio,Teléfonos del Norte,0.0,2026S1
+BAJA VERAPAZ,San Miguel Chicaj,municipio,Claro Guatemala,0.0,2026S1
+BAJA VERAPAZ,San Miguel Chicaj,municipio,Guatel,0.0,2026S1
+BAJA VERAPAZ,San Miguel Chicaj,municipio,Liberty (Columbus),0.0,2026S1
+BAJA VERAPAZ,Rabinal,municipio,Cablenet,0.0,2026S1
+BAJA VERAPAZ,Rabinal,municipio,Comcel (Tigo),1.0,2026S1
+BAJA VERAPAZ,Rabinal,municipio,A-Tel,0.0,2026S1
+BAJA VERAPAZ,Rabinal,municipio,Telgua (Claro),1122.0,2026S1
+BAJA VERAPAZ,Rabinal,municipio,Teléfonos del Norte,0.0,2026S1
+BAJA VERAPAZ,Rabinal,municipio,Claro Guatemala,0.0,2026S1
+BAJA VERAPAZ,Rabinal,municipio,Guatel,0.0,2026S1
+BAJA VERAPAZ,Rabinal,municipio,Liberty (Columbus),0.0,2026S1
+BAJA VERAPAZ,Cubulco,municipio,Cablenet,0.0,2026S1
+BAJA VERAPAZ,Cubulco,municipio,Comcel (Tigo),0.0,2026S1
+BAJA VERAPAZ,Cubulco,municipio,A-Tel,0.0,2026S1
+BAJA VERAPAZ,Cubulco,municipio,Telgua (Claro),711.0,2026S1
+BAJA VERAPAZ,Cubulco,municipio,Teléfonos del Norte,0.0,2026S1
+BAJA VERAPAZ,Cubulco,municipio,Claro Guatemala,0.0,2026S1
+BAJA VERAPAZ,Cubulco,municipio,Guatel,0.0,2026S1
+BAJA VERAPAZ,Cubulco,municipio,Liberty (Columbus),0.0,2026S1
+BAJA VERAPAZ,Granados,municipio,Cablenet,0.0,2026S1
+BAJA VERAPAZ,Granados,municipio,Comcel (Tigo),0.0,2026S1
+BAJA VERAPAZ,Granados,municipio,A-Tel,0.0,2026S1
+BAJA VERAPAZ,Granados,municipio,Telgua (Claro),0.0,2026S1
+BAJA VERAPAZ,Granados,municipio,Teléfonos del Norte,0.0,2026S1
+BAJA VERAPAZ,Granados,municipio,Claro Guatemala,0.0,2026S1
+BAJA VERAPAZ,Granados,municipio,Guatel,0.0,2026S1
+BAJA VERAPAZ,Granados,municipio,Liberty (Columbus),0.0,2026S1
+BAJA VERAPAZ,Santa Cruz El Chol,municipio,Cablenet,0.0,2026S1
+BAJA VERAPAZ,Santa Cruz El Chol,municipio,Comcel (Tigo),1.0,2026S1
+BAJA VERAPAZ,Santa Cruz El Chol,municipio,A-Tel,0.0,2026S1
+BAJA VERAPAZ,Santa Cruz El Chol,municipio,Telgua (Claro),0.0,2026S1
+BAJA VERAPAZ,Santa Cruz El Chol,municipio,Teléfonos del Norte,0.0,2026S1
+BAJA VERAPAZ,Santa Cruz El Chol,municipio,Claro Guatemala,0.0,2026S1
+BAJA VERAPAZ,Santa Cruz El Chol,municipio,Guatel,0.0,2026S1
+BAJA VERAPAZ,Santa Cruz El Chol,municipio,Liberty (Columbus),0.0,2026S1
+BAJA VERAPAZ,San Jerónimo,municipio,Cablenet,0.0,2026S1
+BAJA VERAPAZ,San Jerónimo,municipio,Comcel (Tigo),1.0,2026S1
+BAJA VERAPAZ,San Jerónimo,municipio,A-Tel,0.0,2026S1
+BAJA VERAPAZ,San Jerónimo,municipio,Telgua (Claro),437.0,2026S1
+BAJA VERAPAZ,San Jerónimo,municipio,Teléfonos del Norte,0.0,2026S1
+BAJA VERAPAZ,San Jerónimo,municipio,Claro Guatemala,0.0,2026S1
+BAJA VERAPAZ,San Jerónimo,municipio,Guatel,0.0,2026S1
+BAJA VERAPAZ,San Jerónimo,municipio,Liberty (Columbus),0.0,2026S1
+BAJA VERAPAZ,Purulhá,municipio,Cablenet,0.0,2026S1
+BAJA VERAPAZ,Purulhá,municipio,Comcel (Tigo),3.0,2026S1
+BAJA VERAPAZ,Purulhá,municipio,A-Tel,0.0,2026S1
+BAJA VERAPAZ,Purulhá,municipio,Telgua (Claro),301.0,2026S1
+BAJA VERAPAZ,Purulhá,municipio,Teléfonos del Norte,0.0,2026S1
+BAJA VERAPAZ,Purulhá,municipio,Claro Guatemala,0.0,2026S1
+BAJA VERAPAZ,Purulhá,municipio,Guatel,0.0,2026S1
+BAJA VERAPAZ,Purulhá,municipio,Liberty (Columbus),0.0,2026S1
+ALTA VERAPAZ,ALTA VERAPAZ,departamento,Cablenet,0.0,2026S1
+ALTA VERAPAZ,ALTA VERAPAZ,departamento,Comcel (Tigo),40.0,2026S1
+ALTA VERAPAZ,ALTA VERAPAZ,departamento,A-Tel,0.0,2026S1
+ALTA VERAPAZ,ALTA VERAPAZ,departamento,Telgua (Claro),14086.0,2026S1
+ALTA VERAPAZ,ALTA VERAPAZ,departamento,Teléfonos del Norte,0.0,2026S1
+ALTA VERAPAZ,ALTA VERAPAZ,departamento,Claro Guatemala,0.0,2026S1
+ALTA VERAPAZ,ALTA VERAPAZ,departamento,Guatel,0.0,2026S1
+ALTA VERAPAZ,ALTA VERAPAZ,departamento,Liberty (Columbus),0.0,2026S1
+ALTA VERAPAZ,Cobán,municipio,Cablenet,0.0,2026S1
+ALTA VERAPAZ,Cobán,municipio,Comcel (Tigo),11.0,2026S1
+ALTA VERAPAZ,Cobán,municipio,A-Tel,0.0,2026S1
+ALTA VERAPAZ,Cobán,municipio,Telgua (Claro),7268.0,2026S1
+ALTA VERAPAZ,Cobán,municipio,Teléfonos del Norte,0.0,2026S1
+ALTA VERAPAZ,Cobán,municipio,Claro Guatemala,0.0,2026S1
+ALTA VERAPAZ,Cobán,municipio,Guatel,0.0,2026S1
+ALTA VERAPAZ,Cobán,municipio,Liberty (Columbus),0.0,2026S1
+ALTA VERAPAZ,Santa Cruz Verapaz,municipio,Cablenet,0.0,2026S1
+ALTA VERAPAZ,Santa Cruz Verapaz,municipio,Comcel (Tigo),3.0,2026S1
+ALTA VERAPAZ,Santa Cruz Verapaz,municipio,A-Tel,0.0,2026S1
+ALTA VERAPAZ,Santa Cruz Verapaz,municipio,Telgua (Claro),301.0,2026S1
+ALTA VERAPAZ,Santa Cruz Verapaz,municipio,Teléfonos del Norte,0.0,2026S1
+ALTA VERAPAZ,Santa Cruz Verapaz,municipio,Claro Guatemala,0.0,2026S1
+ALTA VERAPAZ,Santa Cruz Verapaz,municipio,Guatel,0.0,2026S1
+ALTA VERAPAZ,Santa Cruz Verapaz,municipio,Liberty (Columbus),0.0,2026S1
+ALTA VERAPAZ,San Cristóbal Verapaz,municipio,Cablenet,0.0,2026S1
+ALTA VERAPAZ,San Cristóbal Verapaz,municipio,Comcel (Tigo),3.0,2026S1
+ALTA VERAPAZ,San Cristóbal Verapaz,municipio,A-Tel,0.0,2026S1
+ALTA VERAPAZ,San Cristóbal Verapaz,municipio,Telgua (Claro),894.0,2026S1
+ALTA VERAPAZ,San Cristóbal Verapaz,municipio,Teléfonos del Norte,0.0,2026S1
+ALTA VERAPAZ,San Cristóbal Verapaz,municipio,Claro Guatemala,0.0,2026S1
+ALTA VERAPAZ,San Cristóbal Verapaz,municipio,Guatel,0.0,2026S1
+ALTA VERAPAZ,San Cristóbal Verapaz,municipio,Liberty (Columbus),0.0,2026S1
+ALTA VERAPAZ,Tactic,municipio,Cablenet,0.0,2026S1
+ALTA VERAPAZ,Tactic,municipio,Comcel (Tigo),3.0,2026S1
+ALTA VERAPAZ,Tactic,municipio,A-Tel,0.0,2026S1
+ALTA VERAPAZ,Tactic,municipio,Telgua (Claro),1124.0,2026S1
+ALTA VERAPAZ,Tactic,municipio,Teléfonos del Norte,0.0,2026S1
+ALTA VERAPAZ,Tactic,municipio,Claro Guatemala,0.0,2026S1
+ALTA VERAPAZ,Tactic,municipio,Guatel,0.0,2026S1
+ALTA VERAPAZ,Tactic,municipio,Liberty (Columbus),0.0,2026S1
+ALTA VERAPAZ,Tamahú,municipio,Cablenet,0.0,2026S1
+ALTA VERAPAZ,Tamahú,municipio,Comcel (Tigo),0.0,2026S1
+ALTA VERAPAZ,Tamahú,municipio,A-Tel,0.0,2026S1
+ALTA VERAPAZ,Tamahú,municipio,Telgua (Claro),301.0,2026S1
+ALTA VERAPAZ,Tamahú,municipio,Teléfonos del Norte,0.0,2026S1
+ALTA VERAPAZ,Tamahú,municipio,Claro Guatemala,0.0,2026S1
+ALTA VERAPAZ,Tamahú,municipio,Guatel,0.0,2026S1
+ALTA VERAPAZ,Tamahú,municipio,Liberty (Columbus),0.0,2026S1
+ALTA VERAPAZ,San Miguel Tucurú,municipio,Cablenet,0.0,2026S1
+ALTA VERAPAZ,San Miguel Tucurú,municipio,Comcel (Tigo),1.0,2026S1
+ALTA VERAPAZ,San Miguel Tucurú,municipio,A-Tel,0.0,2026S1
+ALTA VERAPAZ,San Miguel Tucurú,municipio,Telgua (Claro),0.0,2026S1
+ALTA VERAPAZ,San Miguel Tucurú,municipio,Teléfonos del Norte,0.0,2026S1
+ALTA VERAPAZ,San Miguel Tucurú,municipio,Claro Guatemala,0.0,2026S1
+ALTA VERAPAZ,San Miguel Tucurú,municipio,Guatel,0.0,2026S1
+ALTA VERAPAZ,San Miguel Tucurú,municipio,Liberty (Columbus),0.0,2026S1
+ALTA VERAPAZ,Panzós,municipio,Cablenet,0.0,2026S1
+ALTA VERAPAZ,Panzós,municipio,Comcel (Tigo),0.0,2026S1
+ALTA VERAPAZ,Panzós,municipio,A-Tel,0.0,2026S1
+ALTA VERAPAZ,Panzós,municipio,Telgua (Claro),210.0,2026S1
+ALTA VERAPAZ,Panzós,municipio,Teléfonos del Norte,0.0,2026S1
+ALTA VERAPAZ,Panzós,municipio,Claro Guatemala,0.0,2026S1
+ALTA VERAPAZ,Panzós,municipio,Guatel,0.0,2026S1
+ALTA VERAPAZ,Panzós,municipio,Liberty (Columbus),0.0,2026S1
+ALTA VERAPAZ,Senahú,municipio,Cablenet,0.0,2026S1
+ALTA VERAPAZ,Senahú,municipio,Comcel (Tigo),1.0,2026S1
+ALTA VERAPAZ,Senahú,municipio,A-Tel,0.0,2026S1
+ALTA VERAPAZ,Senahú,municipio,Telgua (Claro),200.0,2026S1
+ALTA VERAPAZ,Senahú,municipio,Teléfonos del Norte,0.0,2026S1
+ALTA VERAPAZ,Senahú,municipio,Claro Guatemala,0.0,2026S1
+ALTA VERAPAZ,Senahú,municipio,Guatel,0.0,2026S1
+ALTA VERAPAZ,Senahú,municipio,Liberty (Columbus),0.0,2026S1
+ALTA VERAPAZ,San Pedro Carchá,municipio,Cablenet,0.0,2026S1
+ALTA VERAPAZ,San Pedro Carchá,municipio,Comcel (Tigo),6.0,2026S1
+ALTA VERAPAZ,San Pedro Carchá,municipio,A-Tel,0.0,2026S1
+ALTA VERAPAZ,San Pedro Carchá,municipio,Telgua (Claro),1713.0,2026S1
+ALTA VERAPAZ,San Pedro Carchá,municipio,Teléfonos del Norte,0.0,2026S1
+ALTA VERAPAZ,San Pedro Carchá,municipio,Claro Guatemala,0.0,2026S1
+ALTA VERAPAZ,San Pedro Carchá,municipio,Guatel,0.0,2026S1
+ALTA VERAPAZ,San Pedro Carchá,municipio,Liberty (Columbus),0.0,2026S1
+ALTA VERAPAZ,San Juan Chamelco,municipio,Cablenet,0.0,2026S1
+ALTA VERAPAZ,San Juan Chamelco,municipio,Comcel (Tigo),2.0,2026S1
+ALTA VERAPAZ,San Juan Chamelco,municipio,A-Tel,0.0,2026S1
+ALTA VERAPAZ,San Juan Chamelco,municipio,Telgua (Claro),1124.0,2026S1
+ALTA VERAPAZ,San Juan Chamelco,municipio,Teléfonos del Norte,0.0,2026S1
+ALTA VERAPAZ,San Juan Chamelco,municipio,Claro Guatemala,0.0,2026S1
+ALTA VERAPAZ,San Juan Chamelco,municipio,Guatel,0.0,2026S1
+ALTA VERAPAZ,San Juan Chamelco,municipio,Liberty (Columbus),0.0,2026S1
+ALTA VERAPAZ,San Agustín Lanquín,municipio,Cablenet,0.0,2026S1
+ALTA VERAPAZ,San Agustín Lanquín,municipio,Comcel (Tigo),0.0,2026S1
+ALTA VERAPAZ,San Agustín Lanquín,municipio,A-Tel,0.0,2026S1
+ALTA VERAPAZ,San Agustín Lanquín,municipio,Telgua (Claro),0.0,2026S1
+ALTA VERAPAZ,San Agustín Lanquín,municipio,Teléfonos del Norte,0.0,2026S1
+ALTA VERAPAZ,San Agustín Lanquín,municipio,Claro Guatemala,0.0,2026S1
+ALTA VERAPAZ,San Agustín Lanquín,municipio,Guatel,0.0,2026S1
+ALTA VERAPAZ,San Agustín Lanquín,municipio,Liberty (Columbus),0.0,2026S1
+ALTA VERAPAZ,Santa María Cahabón,municipio,Cablenet,0.0,2026S1
+ALTA VERAPAZ,Santa María Cahabón,municipio,Comcel (Tigo),2.0,2026S1
+ALTA VERAPAZ,Santa María Cahabón,municipio,A-Tel,0.0,2026S1
+ALTA VERAPAZ,Santa María Cahabón,municipio,Telgua (Claro),0.0,2026S1
+ALTA VERAPAZ,Santa María Cahabón,municipio,Teléfonos del Norte,0.0,2026S1
+ALTA VERAPAZ,Santa María Cahabón,municipio,Claro Guatemala,0.0,2026S1
+ALTA VERAPAZ,Santa María Cahabón,municipio,Guatel,0.0,2026S1
+ALTA VERAPAZ,Santa María Cahabón,municipio,Liberty (Columbus),0.0,2026S1
+ALTA VERAPAZ,Chisec,municipio,Cablenet,0.0,2026S1
+ALTA VERAPAZ,Chisec,municipio,Comcel (Tigo),0.0,2026S1
+ALTA VERAPAZ,Chisec,municipio,A-Tel,0.0,2026S1
+ALTA VERAPAZ,Chisec,municipio,Telgua (Claro),256.0,2026S1
+ALTA VERAPAZ,Chisec,municipio,Teléfonos del Norte,0.0,2026S1
+ALTA VERAPAZ,Chisec,municipio,Claro Guatemala,0.0,2026S1
+ALTA VERAPAZ,Chisec,municipio,Guatel,0.0,2026S1
+ALTA VERAPAZ,Chisec,municipio,Liberty (Columbus),0.0,2026S1
+ALTA VERAPAZ,Chahal,municipio,Cablenet,0.0,2026S1
+ALTA VERAPAZ,Chahal,municipio,Comcel (Tigo),1.0,2026S1
+ALTA VERAPAZ,Chahal,municipio,A-Tel,0.0,2026S1
+ALTA VERAPAZ,Chahal,municipio,Telgua (Claro),256.0,2026S1
+ALTA VERAPAZ,Chahal,municipio,Teléfonos del Norte,0.0,2026S1
+ALTA VERAPAZ,Chahal,municipio,Claro Guatemala,0.0,2026S1
+ALTA VERAPAZ,Chahal,municipio,Guatel,0.0,2026S1
+ALTA VERAPAZ,Chahal,municipio,Liberty (Columbus),0.0,2026S1
+ALTA VERAPAZ,Fray Bartolomé de Las Casas,municipio,Cablenet,0.0,2026S1
+ALTA VERAPAZ,Fray Bartolomé de Las Casas,municipio,Comcel (Tigo),3.0,2026S1
+ALTA VERAPAZ,Fray Bartolomé de Las Casas,municipio,A-Tel,0.0,2026S1
+ALTA VERAPAZ,Fray Bartolomé de Las Casas,municipio,Telgua (Claro),392.0,2026S1
+ALTA VERAPAZ,Fray Bartolomé de Las Casas,municipio,Teléfonos del Norte,0.0,2026S1
+ALTA VERAPAZ,Fray Bartolomé de Las Casas,municipio,Claro Guatemala,0.0,2026S1
+ALTA VERAPAZ,Fray Bartolomé de Las Casas,municipio,Guatel,0.0,2026S1
+ALTA VERAPAZ,Fray Bartolomé de Las Casas,municipio,Liberty (Columbus),0.0,2026S1
+ALTA VERAPAZ,Santa Catalina La Tinta,municipio,Cablenet,0.0,2026S1
+ALTA VERAPAZ,Santa Catalina La Tinta,municipio,Comcel (Tigo),2.0,2026S1
+ALTA VERAPAZ,Santa Catalina La Tinta,municipio,A-Tel,0.0,2026S1
+ALTA VERAPAZ,Santa Catalina La Tinta,municipio,Telgua (Claro),47.0,2026S1
+ALTA VERAPAZ,Santa Catalina La Tinta,municipio,Teléfonos del Norte,0.0,2026S1
+ALTA VERAPAZ,Santa Catalina La Tinta,municipio,Claro Guatemala,0.0,2026S1
+ALTA VERAPAZ,Santa Catalina La Tinta,municipio,Guatel,0.0,2026S1
+ALTA VERAPAZ,Santa Catalina La Tinta,municipio,Liberty (Columbus),0.0,2026S1
+ALTA VERAPAZ,Raxruhá,municipio,Cablenet,0.0,2026S1
+ALTA VERAPAZ,Raxruhá,municipio,Comcel (Tigo),2.0,2026S1
+ALTA VERAPAZ,Raxruhá,municipio,A-Tel,0.0,2026S1
+ALTA VERAPAZ,Raxruhá,municipio,Telgua (Claro),0.0,2026S1
+ALTA VERAPAZ,Raxruhá,municipio,Teléfonos del Norte,0.0,2026S1
+ALTA VERAPAZ,Raxruhá,municipio,Claro Guatemala,0.0,2026S1
+ALTA VERAPAZ,Raxruhá,municipio,Guatel,0.0,2026S1
+ALTA VERAPAZ,Raxruhá,municipio,Liberty (Columbus),0.0,2026S1
+PETÉN,PETÉN,departamento,Cablenet,0.0,2026S1
+PETÉN,PETÉN,departamento,Comcel (Tigo),36.0,2026S1
+PETÉN,PETÉN,departamento,A-Tel,0.0,2026S1
+PETÉN,PETÉN,departamento,Telgua (Claro),13585.0,2026S1
+PETÉN,PETÉN,departamento,Teléfonos del Norte,0.0,2026S1
+PETÉN,PETÉN,departamento,Claro Guatemala,0.0,2026S1
+PETÉN,PETÉN,departamento,Guatel,0.0,2026S1
+PETÉN,PETÉN,departamento,Liberty (Columbus),0.0,2026S1
+PETÉN,Flores,municipio,Cablenet,0.0,2026S1
+PETÉN,Flores,municipio,Comcel (Tigo),8.0,2026S1
+PETÉN,Flores,municipio,A-Tel,0.0,2026S1
+PETÉN,Flores,municipio,Telgua (Claro),758.0,2026S1
+PETÉN,Flores,municipio,Teléfonos del Norte,0.0,2026S1
+PETÉN,Flores,municipio,Claro Guatemala,0.0,2026S1
+PETÉN,Flores,municipio,Guatel,0.0,2026S1
+PETÉN,Flores,municipio,Liberty (Columbus),0.0,2026S1
+PETÉN,San José,municipio,Cablenet,0.0,2026S1
+PETÉN,San José,municipio,Comcel (Tigo),1.0,2026S1
+PETÉN,San José,municipio,A-Tel,0.0,2026S1
+PETÉN,San José,municipio,Telgua (Claro),1622.0,2026S1
+PETÉN,San José,municipio,Teléfonos del Norte,0.0,2026S1
+PETÉN,San José,municipio,Claro Guatemala,0.0,2026S1
+PETÉN,San José,municipio,Guatel,0.0,2026S1
+PETÉN,San José,municipio,Liberty (Columbus),0.0,2026S1
+PETÉN,San Benito,municipio,Cablenet,0.0,2026S1
+PETÉN,San Benito,municipio,Comcel (Tigo),2.0,2026S1
+PETÉN,San Benito,municipio,A-Tel,0.0,2026S1
+PETÉN,San Benito,municipio,Telgua (Claro),5595.0,2026S1
+PETÉN,San Benito,municipio,Teléfonos del Norte,0.0,2026S1
+PETÉN,San Benito,municipio,Claro Guatemala,0.0,2026S1
+PETÉN,San Benito,municipio,Guatel,0.0,2026S1
+PETÉN,San Benito,municipio,Liberty (Columbus),0.0,2026S1
+PETÉN,San Andrés,municipio,Cablenet,0.0,2026S1
+PETÉN,San Andrés,municipio,Comcel (Tigo),0.0,2026S1
+PETÉN,San Andrés,municipio,A-Tel,0.0,2026S1
+PETÉN,San Andrés,municipio,Telgua (Claro),301.0,2026S1
+PETÉN,San Andrés,municipio,Teléfonos del Norte,0.0,2026S1
+PETÉN,San Andrés,municipio,Claro Guatemala,0.0,2026S1
+PETÉN,San Andrés,municipio,Guatel,0.0,2026S1
+PETÉN,San Andrés,municipio,Liberty (Columbus),0.0,2026S1
+PETÉN,La Libertad,municipio,Cablenet,0.0,2026S1
+PETÉN,La Libertad,municipio,Comcel (Tigo),4.0,2026S1
+PETÉN,La Libertad,municipio,A-Tel,0.0,2026S1
+PETÉN,La Libertad,municipio,Telgua (Claro),99.0,2026S1
+PETÉN,La Libertad,municipio,Teléfonos del Norte,0.0,2026S1
+PETÉN,La Libertad,municipio,Claro Guatemala,0.0,2026S1
+PETÉN,La Libertad,municipio,Guatel,0.0,2026S1
+PETÉN,La Libertad,municipio,Liberty (Columbus),0.0,2026S1
+PETÉN,San Francisco,municipio,Cablenet,0.0,2026S1
+PETÉN,San Francisco,municipio,Comcel (Tigo),1.0,2026S1
+PETÉN,San Francisco,municipio,A-Tel,0.0,2026S1
+PETÉN,San Francisco,municipio,Telgua (Claro),484.0,2026S1
+PETÉN,San Francisco,municipio,Teléfonos del Norte,0.0,2026S1
+PETÉN,San Francisco,municipio,Claro Guatemala,0.0,2026S1
+PETÉN,San Francisco,municipio,Guatel,0.0,2026S1
+PETÉN,San Francisco,municipio,Liberty (Columbus),0.0,2026S1
+PETÉN,Santa Ana,municipio,Cablenet,0.0,2026S1
+PETÉN,Santa Ana,municipio,Comcel (Tigo),2.0,2026S1
+PETÉN,Santa Ana,municipio,A-Tel,0.0,2026S1
+PETÉN,Santa Ana,municipio,Telgua (Claro),484.0,2026S1
+PETÉN,Santa Ana,municipio,Teléfonos del Norte,0.0,2026S1
+PETÉN,Santa Ana,municipio,Claro Guatemala,0.0,2026S1
+PETÉN,Santa Ana,municipio,Guatel,0.0,2026S1
+PETÉN,Santa Ana,municipio,Liberty (Columbus),0.0,2026S1
+PETÉN,Dolores,municipio,Cablenet,0.0,2026S1
+PETÉN,Dolores,municipio,Comcel (Tigo),2.0,2026S1
+PETÉN,Dolores,municipio,A-Tel,0.0,2026S1
+PETÉN,Dolores,municipio,Telgua (Claro),437.0,2026S1
+PETÉN,Dolores,municipio,Teléfonos del Norte,0.0,2026S1
+PETÉN,Dolores,municipio,Claro Guatemala,0.0,2026S1
+PETÉN,Dolores,municipio,Guatel,0.0,2026S1
+PETÉN,Dolores,municipio,Liberty (Columbus),0.0,2026S1
+PETÉN,San Luis,municipio,Cablenet,0.0,2026S1
+PETÉN,San Luis,municipio,Comcel (Tigo),1.0,2026S1
+PETÉN,San Luis,municipio,A-Tel,0.0,2026S1
+PETÉN,San Luis,municipio,Telgua (Claro),136.0,2026S1
+PETÉN,San Luis,municipio,Teléfonos del Norte,0.0,2026S1
+PETÉN,San Luis,municipio,Claro Guatemala,0.0,2026S1
+PETÉN,San Luis,municipio,Guatel,0.0,2026S1
+PETÉN,San Luis,municipio,Liberty (Columbus),0.0,2026S1
+PETÉN,Sayaxché,municipio,Cablenet,0.0,2026S1
+PETÉN,Sayaxché,municipio,Comcel (Tigo),5.0,2026S1
+PETÉN,Sayaxché,municipio,A-Tel,0.0,2026S1
+PETÉN,Sayaxché,municipio,Telgua (Claro),511.0,2026S1
+PETÉN,Sayaxché,municipio,Teléfonos del Norte,0.0,2026S1
+PETÉN,Sayaxché,municipio,Claro Guatemala,0.0,2026S1
+PETÉN,Sayaxché,municipio,Guatel,0.0,2026S1
+PETÉN,Sayaxché,municipio,Liberty (Columbus),0.0,2026S1
+PETÉN,Melchor de Mencos,municipio,Cablenet,0.0,2026S1
+PETÉN,Melchor de Mencos,municipio,Comcel (Tigo),5.0,2026S1
+PETÉN,Melchor de Mencos,municipio,A-Tel,0.0,2026S1
+PETÉN,Melchor de Mencos,municipio,Telgua (Claro),849.0,2026S1
+PETÉN,Melchor de Mencos,municipio,Teléfonos del Norte,0.0,2026S1
+PETÉN,Melchor de Mencos,municipio,Claro Guatemala,0.0,2026S1
+PETÉN,Melchor de Mencos,municipio,Guatel,0.0,2026S1
+PETÉN,Melchor de Mencos,municipio,Liberty (Columbus),0.0,2026S1
+PETÉN,Poptún,municipio,Cablenet,0.0,2026S1
+PETÉN,Poptún,municipio,Comcel (Tigo),2.0,2026S1
+PETÉN,Poptún,municipio,A-Tel,0.0,2026S1
+PETÉN,Poptún,municipio,Telgua (Claro),2309.0,2026S1
+PETÉN,Poptún,municipio,Teléfonos del Norte,0.0,2026S1
+PETÉN,Poptún,municipio,Claro Guatemala,0.0,2026S1
+PETÉN,Poptún,municipio,Guatel,0.0,2026S1
+PETÉN,Poptún,municipio,Liberty (Columbus),0.0,2026S1
+PETÉN,Las Cruces,municipio,Cablenet,0.0,2026S1
+PETÉN,Las Cruces,municipio,Comcel (Tigo),3.0,2026S1
+PETÉN,Las Cruces,municipio,A-Tel,0.0,2026S1
+PETÉN,Las Cruces,municipio,Telgua (Claro),0.0,2026S1
+PETÉN,Las Cruces,municipio,Teléfonos del Norte,0.0,2026S1
+PETÉN,Las Cruces,municipio,Claro Guatemala,0.0,2026S1
+PETÉN,Las Cruces,municipio,Guatel,0.0,2026S1
+PETÉN,Las Cruces,municipio,Liberty (Columbus),0.0,2026S1
+PETÉN,El Chal,municipio,Cablenet,0.0,2026S1
+PETÉN,El Chal,municipio,Comcel (Tigo),0.0,2026S1
+PETÉN,El Chal,municipio,A-Tel,0.0,2026S1
+PETÉN,El Chal,municipio,Telgua (Claro),0.0,2026S1
+PETÉN,El Chal,municipio,Teléfonos del Norte,0.0,2026S1
+PETÉN,El Chal,municipio,Claro Guatemala,0.0,2026S1
+PETÉN,El Chal,municipio,Guatel,0.0,2026S1
+PETÉN,El Chal,municipio,Liberty (Columbus),0.0,2026S1
+IZABAL,IZABAL,departamento,Cablenet,0.0,2026S1
+IZABAL,IZABAL,departamento,Comcel (Tigo),21.0,2026S1
+IZABAL,IZABAL,departamento,A-Tel,0.0,2026S1
+IZABAL,IZABAL,departamento,Telgua (Claro),23142.0,2026S1
+IZABAL,IZABAL,departamento,Teléfonos del Norte,0.0,2026S1
+IZABAL,IZABAL,departamento,Claro Guatemala,0.0,2026S1
+IZABAL,IZABAL,departamento,Guatel,0.0,2026S1
+IZABAL,IZABAL,departamento,Liberty (Columbus),0.0,2026S1
+IZABAL,Puerto Barrios,municipio,Cablenet,0.0,2026S1
+IZABAL,Puerto Barrios,municipio,Comcel (Tigo),7.0,2026S1
+IZABAL,Puerto Barrios,municipio,A-Tel,0.0,2026S1
+IZABAL,Puerto Barrios,municipio,Telgua (Claro),15485.0,2026S1
+IZABAL,Puerto Barrios,municipio,Teléfonos del Norte,0.0,2026S1
+IZABAL,Puerto Barrios,municipio,Claro Guatemala,0.0,2026S1
+IZABAL,Puerto Barrios,municipio,Guatel,0.0,2026S1
+IZABAL,Puerto Barrios,municipio,Liberty (Columbus),0.0,2026S1
+IZABAL,Livingston,municipio,Cablenet,0.0,2026S1
+IZABAL,Livingston,municipio,Comcel (Tigo),3.0,2026S1
+IZABAL,Livingston,municipio,A-Tel,0.0,2026S1
+IZABAL,Livingston,municipio,Telgua (Claro),1122.0,2026S1
+IZABAL,Livingston,municipio,Teléfonos del Norte,0.0,2026S1
+IZABAL,Livingston,municipio,Claro Guatemala,0.0,2026S1
+IZABAL,Livingston,municipio,Guatel,0.0,2026S1
+IZABAL,Livingston,municipio,Liberty (Columbus),0.0,2026S1
+IZABAL,El Estor,municipio,Cablenet,0.0,2026S1
+IZABAL,El Estor,municipio,Comcel (Tigo),1.0,2026S1
+IZABAL,El Estor,municipio,A-Tel,0.0,2026S1
+IZABAL,El Estor,municipio,Telgua (Claro),1397.0,2026S1
+IZABAL,El Estor,municipio,Teléfonos del Norte,0.0,2026S1
+IZABAL,El Estor,municipio,Claro Guatemala,0.0,2026S1
+IZABAL,El Estor,municipio,Guatel,0.0,2026S1
+IZABAL,El Estor,municipio,Liberty (Columbus),0.0,2026S1
+IZABAL,Morales,municipio,Cablenet,0.0,2026S1
+IZABAL,Morales,municipio,Comcel (Tigo),9.0,2026S1
+IZABAL,Morales,municipio,A-Tel,0.0,2026S1
+IZABAL,Morales,municipio,Telgua (Claro),4409.0,2026S1
+IZABAL,Morales,municipio,Teléfonos del Norte,0.0,2026S1
+IZABAL,Morales,municipio,Claro Guatemala,0.0,2026S1
+IZABAL,Morales,municipio,Guatel,0.0,2026S1
+IZABAL,Morales,municipio,Liberty (Columbus),0.0,2026S1
+IZABAL,Los Amates,municipio,Cablenet,0.0,2026S1
+IZABAL,Los Amates,municipio,Comcel (Tigo),1.0,2026S1
+IZABAL,Los Amates,municipio,A-Tel,0.0,2026S1
+IZABAL,Los Amates,municipio,Telgua (Claro),729.0,2026S1
+IZABAL,Los Amates,municipio,Teléfonos del Norte,0.0,2026S1
+IZABAL,Los Amates,municipio,Claro Guatemala,0.0,2026S1
+IZABAL,Los Amates,municipio,Guatel,0.0,2026S1
+IZABAL,Los Amates,municipio,Liberty (Columbus),0.0,2026S1
+ZACAPA,ZACAPA,departamento,Cablenet,0.0,2026S1
+ZACAPA,ZACAPA,departamento,Comcel (Tigo),17.0,2026S1
+ZACAPA,ZACAPA,departamento,A-Tel,0.0,2026S1
+ZACAPA,ZACAPA,departamento,Telgua (Claro),15467.0,2026S1
+ZACAPA,ZACAPA,departamento,Teléfonos del Norte,16.0,2026S1
+ZACAPA,ZACAPA,departamento,Claro Guatemala,0.0,2026S1
+ZACAPA,ZACAPA,departamento,Guatel,0.0,2026S1
+ZACAPA,ZACAPA,departamento,Liberty (Columbus),0.0,2026S1
+ZACAPA,Zacapa,municipio,Cablenet,0.0,2026S1
+ZACAPA,Zacapa,municipio,Comcel (Tigo),6.0,2026S1
+ZACAPA,Zacapa,municipio,A-Tel,0.0,2026S1
+ZACAPA,Zacapa,municipio,Telgua (Claro),5858.0,2026S1
+ZACAPA,Zacapa,municipio,Teléfonos del Norte,0.0,2026S1
+ZACAPA,Zacapa,municipio,Claro Guatemala,0.0,2026S1
+ZACAPA,Zacapa,municipio,Guatel,0.0,2026S1
+ZACAPA,Zacapa,municipio,Liberty (Columbus),0.0,2026S1
+ZACAPA,Estanzuela,municipio,Cablenet,0.0,2026S1
+ZACAPA,Estanzuela,municipio,Comcel (Tigo),0.0,2026S1
+ZACAPA,Estanzuela,municipio,A-Tel,0.0,2026S1
+ZACAPA,Estanzuela,municipio,Telgua (Claro),1716.0,2026S1
+ZACAPA,Estanzuela,municipio,Teléfonos del Norte,0.0,2026S1
+ZACAPA,Estanzuela,municipio,Claro Guatemala,0.0,2026S1
+ZACAPA,Estanzuela,municipio,Guatel,0.0,2026S1
+ZACAPA,Estanzuela,municipio,Liberty (Columbus),0.0,2026S1
+ZACAPA,Río Hondo,municipio,Cablenet,0.0,2026S1
+ZACAPA,Río Hondo,municipio,Comcel (Tigo),3.0,2026S1
+ZACAPA,Río Hondo,municipio,A-Tel,0.0,2026S1
+ZACAPA,Río Hondo,municipio,Telgua (Claro),711.0,2026S1
+ZACAPA,Río Hondo,municipio,Teléfonos del Norte,0.0,2026S1
+ZACAPA,Río Hondo,municipio,Claro Guatemala,0.0,2026S1
+ZACAPA,Río Hondo,municipio,Guatel,0.0,2026S1
+ZACAPA,Río Hondo,municipio,Liberty (Columbus),0.0,2026S1
+ZACAPA,Gualán,municipio,Cablenet,0.0,2026S1
+ZACAPA,Gualán,municipio,Comcel (Tigo),5.0,2026S1
+ZACAPA,Gualán,municipio,A-Tel,0.0,2026S1
+ZACAPA,Gualán,municipio,Telgua (Claro),2629.0,2026S1
+ZACAPA,Gualán,municipio,Teléfonos del Norte,0.0,2026S1
+ZACAPA,Gualán,municipio,Claro Guatemala,0.0,2026S1
+ZACAPA,Gualán,municipio,Guatel,0.0,2026S1
+ZACAPA,Gualán,municipio,Liberty (Columbus),0.0,2026S1
+ZACAPA,Teculután,municipio,Cablenet,0.0,2026S1
+ZACAPA,Teculután,municipio,Comcel (Tigo),1.0,2026S1
+ZACAPA,Teculután,municipio,A-Tel,0.0,2026S1
+ZACAPA,Teculután,municipio,Telgua (Claro),2036.0,2026S1
+ZACAPA,Teculután,municipio,Teléfonos del Norte,0.0,2026S1
+ZACAPA,Teculután,municipio,Claro Guatemala,0.0,2026S1
+ZACAPA,Teculután,municipio,Guatel,0.0,2026S1
+ZACAPA,Teculután,municipio,Liberty (Columbus),0.0,2026S1
+ZACAPA,Usumatlán,municipio,Cablenet,0.0,2026S1
+ZACAPA,Usumatlán,municipio,Comcel (Tigo),0.0,2026S1
+ZACAPA,Usumatlán,municipio,A-Tel,0.0,2026S1
+ZACAPA,Usumatlán,municipio,Telgua (Claro),575.0,2026S1
+ZACAPA,Usumatlán,municipio,Teléfonos del Norte,0.0,2026S1
+ZACAPA,Usumatlán,municipio,Claro Guatemala,0.0,2026S1
+ZACAPA,Usumatlán,municipio,Guatel,0.0,2026S1
+ZACAPA,Usumatlán,municipio,Liberty (Columbus),0.0,2026S1
+ZACAPA,Cabañas,municipio,Cablenet,0.0,2026S1
+ZACAPA,Cabañas,municipio,Comcel (Tigo),0.0,2026S1
+ZACAPA,Cabañas,municipio,A-Tel,0.0,2026S1
+ZACAPA,Cabañas,municipio,Telgua (Claro),392.0,2026S1
+ZACAPA,Cabañas,municipio,Teléfonos del Norte,0.0,2026S1
+ZACAPA,Cabañas,municipio,Claro Guatemala,0.0,2026S1
+ZACAPA,Cabañas,municipio,Guatel,0.0,2026S1
+ZACAPA,Cabañas,municipio,Liberty (Columbus),0.0,2026S1
+ZACAPA,San Diego,municipio,Cablenet,0.0,2026S1
+ZACAPA,San Diego,municipio,Comcel (Tigo),1.0,2026S1
+ZACAPA,San Diego,municipio,A-Tel,0.0,2026S1
+ZACAPA,San Diego,municipio,Telgua (Claro),392.0,2026S1
+ZACAPA,San Diego,municipio,Teléfonos del Norte,0.0,2026S1
+ZACAPA,San Diego,municipio,Claro Guatemala,0.0,2026S1
+ZACAPA,San Diego,municipio,Guatel,0.0,2026S1
+ZACAPA,San Diego,municipio,Liberty (Columbus),0.0,2026S1
+ZACAPA,La Unión,municipio,Cablenet,0.0,2026S1
+ZACAPA,La Unión,municipio,Comcel (Tigo),1.0,2026S1
+ZACAPA,La Unión,municipio,A-Tel,0.0,2026S1
+ZACAPA,La Unión,municipio,Telgua (Claro),447.0,2026S1
+ZACAPA,La Unión,municipio,Teléfonos del Norte,0.0,2026S1
+ZACAPA,La Unión,municipio,Claro Guatemala,0.0,2026S1
+ZACAPA,La Unión,municipio,Guatel,0.0,2026S1
+ZACAPA,La Unión,municipio,Liberty (Columbus),0.0,2026S1
+ZACAPA,Huité,municipio,Cablenet,0.0,2026S1
+ZACAPA,Huité,municipio,Comcel (Tigo),0.0,2026S1
+ZACAPA,Huité,municipio,A-Tel,0.0,2026S1
+ZACAPA,Huité,municipio,Telgua (Claro),711.0,2026S1
+ZACAPA,Huité,municipio,Teléfonos del Norte,16.0,2026S1
+ZACAPA,Huité,municipio,Claro Guatemala,0.0,2026S1
+ZACAPA,Huité,municipio,Guatel,0.0,2026S1
+ZACAPA,Huité,municipio,Liberty (Columbus),0.0,2026S1
+ZACAPA,San Jorge,municipio,Cablenet,0.0,2026S1
+ZACAPA,San Jorge,municipio,Comcel (Tigo),0.0,2026S1
+ZACAPA,San Jorge,municipio,A-Tel,0.0,2026S1
+ZACAPA,San Jorge,municipio,Telgua (Claro),0.0,2026S1
+ZACAPA,San Jorge,municipio,Teléfonos del Norte,0.0,2026S1
+ZACAPA,San Jorge,municipio,Claro Guatemala,0.0,2026S1
+ZACAPA,San Jorge,municipio,Guatel,0.0,2026S1
+ZACAPA,San Jorge,municipio,Liberty (Columbus),0.0,2026S1
+CHIQUIMULA,CHIQUIMULA,departamento,Cablenet,0.0,2026S1
+CHIQUIMULA,CHIQUIMULA,departamento,Comcel (Tigo),65.0,2026S1
+CHIQUIMULA,CHIQUIMULA,departamento,A-Tel,0.0,2026S1
+CHIQUIMULA,CHIQUIMULA,departamento,Telgua (Claro),14191.0,2026S1
+CHIQUIMULA,CHIQUIMULA,departamento,Teléfonos del Norte,0.0,2026S1
+CHIQUIMULA,CHIQUIMULA,departamento,Claro Guatemala,0.0,2026S1
+CHIQUIMULA,CHIQUIMULA,departamento,Guatel,0.0,2026S1
+CHIQUIMULA,CHIQUIMULA,departamento,Liberty (Columbus),0.0,2026S1
+CHIQUIMULA,Chiquimula,municipio,Cablenet,0.0,2026S1
+CHIQUIMULA,Chiquimula,municipio,Comcel (Tigo),5.0,2026S1
+CHIQUIMULA,Chiquimula,municipio,A-Tel,0.0,2026S1
+CHIQUIMULA,Chiquimula,municipio,Telgua (Claro),6603.0,2026S1
+CHIQUIMULA,Chiquimula,municipio,Teléfonos del Norte,0.0,2026S1
+CHIQUIMULA,Chiquimula,municipio,Claro Guatemala,0.0,2026S1
+CHIQUIMULA,Chiquimula,municipio,Guatel,0.0,2026S1
+CHIQUIMULA,Chiquimula,municipio,Liberty (Columbus),0.0,2026S1
+CHIQUIMULA,San José La Arada,municipio,Cablenet,0.0,2026S1
+CHIQUIMULA,San José La Arada,municipio,Comcel (Tigo),0.0,2026S1
+CHIQUIMULA,San José La Arada,municipio,A-Tel,0.0,2026S1
+CHIQUIMULA,San José La Arada,municipio,Telgua (Claro),319.0,2026S1
+CHIQUIMULA,San José La Arada,municipio,Teléfonos del Norte,0.0,2026S1
+CHIQUIMULA,San José La Arada,municipio,Claro Guatemala,0.0,2026S1
+CHIQUIMULA,San José La Arada,municipio,Guatel,0.0,2026S1
+CHIQUIMULA,San José La Arada,municipio,Liberty (Columbus),0.0,2026S1
+CHIQUIMULA,San Juan Ermita,municipio,Cablenet,0.0,2026S1
+CHIQUIMULA,San Juan Ermita,municipio,Comcel (Tigo),0.0,2026S1
+CHIQUIMULA,San Juan Ermita,municipio,A-Tel,0.0,2026S1
+CHIQUIMULA,San Juan Ermita,municipio,Telgua (Claro),1.0,2026S1
+CHIQUIMULA,San Juan Ermita,municipio,Teléfonos del Norte,0.0,2026S1
+CHIQUIMULA,San Juan Ermita,municipio,Claro Guatemala,0.0,2026S1
+CHIQUIMULA,San Juan Ermita,municipio,Guatel,0.0,2026S1
+CHIQUIMULA,San Juan Ermita,municipio,Liberty (Columbus),0.0,2026S1
+CHIQUIMULA,Jocotán,municipio,Cablenet,0.0,2026S1
+CHIQUIMULA,Jocotán,municipio,Comcel (Tigo),1.0,2026S1
+CHIQUIMULA,Jocotán,municipio,A-Tel,0.0,2026S1
+CHIQUIMULA,Jocotán,municipio,Telgua (Claro),760.0,2026S1
+CHIQUIMULA,Jocotán,municipio,Teléfonos del Norte,0.0,2026S1
+CHIQUIMULA,Jocotán,municipio,Claro Guatemala,0.0,2026S1
+CHIQUIMULA,Jocotán,municipio,Guatel,0.0,2026S1
+CHIQUIMULA,Jocotán,municipio,Liberty (Columbus),0.0,2026S1
+CHIQUIMULA,Camotán,municipio,Cablenet,0.0,2026S1
+CHIQUIMULA,Camotán,municipio,Comcel (Tigo),4.0,2026S1
+CHIQUIMULA,Camotán,municipio,A-Tel,0.0,2026S1
+CHIQUIMULA,Camotán,municipio,Telgua (Claro),301.0,2026S1
+CHIQUIMULA,Camotán,municipio,Teléfonos del Norte,0.0,2026S1
+CHIQUIMULA,Camotán,municipio,Claro Guatemala,0.0,2026S1
+CHIQUIMULA,Camotán,municipio,Guatel,0.0,2026S1
+CHIQUIMULA,Camotán,municipio,Liberty (Columbus),0.0,2026S1
+CHIQUIMULA,Olopa,municipio,Cablenet,0.0,2026S1
+CHIQUIMULA,Olopa,municipio,Comcel (Tigo),0.0,2026S1
+CHIQUIMULA,Olopa,municipio,A-Tel,0.0,2026S1
+CHIQUIMULA,Olopa,municipio,Telgua (Claro),1.0,2026S1
+CHIQUIMULA,Olopa,municipio,Teléfonos del Norte,0.0,2026S1
+CHIQUIMULA,Olopa,municipio,Claro Guatemala,0.0,2026S1
+CHIQUIMULA,Olopa,municipio,Guatel,0.0,2026S1
+CHIQUIMULA,Olopa,municipio,Liberty (Columbus),0.0,2026S1
+CHIQUIMULA,Esquipulas,municipio,Cablenet,0.0,2026S1
+CHIQUIMULA,Esquipulas,municipio,Comcel (Tigo),38.0,2026S1
+CHIQUIMULA,Esquipulas,municipio,A-Tel,0.0,2026S1
+CHIQUIMULA,Esquipulas,municipio,Telgua (Claro),3952.0,2026S1
+CHIQUIMULA,Esquipulas,municipio,Teléfonos del Norte,0.0,2026S1
+CHIQUIMULA,Esquipulas,municipio,Claro Guatemala,0.0,2026S1
+CHIQUIMULA,Esquipulas,municipio,Guatel,0.0,2026S1
+CHIQUIMULA,Esquipulas,municipio,Liberty (Columbus),0.0,2026S1
+CHIQUIMULA,Concepción Las Minas,municipio,Cablenet,0.0,2026S1
+CHIQUIMULA,Concepción Las Minas,municipio,Comcel (Tigo),11.0,2026S1
+CHIQUIMULA,Concepción Las Minas,municipio,A-Tel,0.0,2026S1
+CHIQUIMULA,Concepción Las Minas,municipio,Telgua (Claro),485.0,2026S1
+CHIQUIMULA,Concepción Las Minas,municipio,Teléfonos del Norte,0.0,2026S1
+CHIQUIMULA,Concepción Las Minas,municipio,Claro Guatemala,0.0,2026S1
+CHIQUIMULA,Concepción Las Minas,municipio,Guatel,0.0,2026S1
+CHIQUIMULA,Concepción Las Minas,municipio,Liberty (Columbus),0.0,2026S1
+CHIQUIMULA,Quezaltepeque,municipio,Cablenet,0.0,2026S1
+CHIQUIMULA,Quezaltepeque,municipio,Comcel (Tigo),5.0,2026S1
+CHIQUIMULA,Quezaltepeque,municipio,A-Tel,0.0,2026S1
+CHIQUIMULA,Quezaltepeque,municipio,Telgua (Claro),529.0,2026S1
+CHIQUIMULA,Quezaltepeque,municipio,Teléfonos del Norte,0.0,2026S1
+CHIQUIMULA,Quezaltepeque,municipio,Claro Guatemala,0.0,2026S1
+CHIQUIMULA,Quezaltepeque,municipio,Guatel,0.0,2026S1
+CHIQUIMULA,Quezaltepeque,municipio,Liberty (Columbus),0.0,2026S1
+CHIQUIMULA,San Jacinto,municipio,Cablenet,0.0,2026S1
+CHIQUIMULA,San Jacinto,municipio,Comcel (Tigo),1.0,2026S1
+CHIQUIMULA,San Jacinto,municipio,A-Tel,0.0,2026S1
+CHIQUIMULA,San Jacinto,municipio,Telgua (Claro),437.0,2026S1
+CHIQUIMULA,San Jacinto,municipio,Teléfonos del Norte,0.0,2026S1
+CHIQUIMULA,San Jacinto,municipio,Claro Guatemala,0.0,2026S1
+CHIQUIMULA,San Jacinto,municipio,Guatel,0.0,2026S1
+CHIQUIMULA,San Jacinto,municipio,Liberty (Columbus),0.0,2026S1
+CHIQUIMULA,Ipala,municipio,Cablenet,0.0,2026S1
+CHIQUIMULA,Ipala,municipio,Comcel (Tigo),0.0,2026S1
+CHIQUIMULA,Ipala,municipio,A-Tel,0.0,2026S1
+CHIQUIMULA,Ipala,municipio,Telgua (Claro),803.0,2026S1
+CHIQUIMULA,Ipala,municipio,Teléfonos del Norte,0.0,2026S1
+CHIQUIMULA,Ipala,municipio,Claro Guatemala,0.0,2026S1
+CHIQUIMULA,Ipala,municipio,Guatel,0.0,2026S1
+CHIQUIMULA,Ipala,municipio,Liberty (Columbus),0.0,2026S1
+JALAPA,JALAPA,departamento,Cablenet,0.0,2026S1
+JALAPA,JALAPA,departamento,Comcel (Tigo),10.0,2026S1
+JALAPA,JALAPA,departamento,A-Tel,0.0,2026S1
+JALAPA,JALAPA,departamento,Telgua (Claro),10119.0,2026S1
+JALAPA,JALAPA,departamento,Teléfonos del Norte,0.0,2026S1
+JALAPA,JALAPA,departamento,Claro Guatemala,0.0,2026S1
+JALAPA,JALAPA,departamento,Guatel,0.0,2026S1
+JALAPA,JALAPA,departamento,Liberty (Columbus),0.0,2026S1
+JALAPA,Jalapa,municipio,Cablenet,0.0,2026S1
+JALAPA,Jalapa,municipio,Comcel (Tigo),6.0,2026S1
+JALAPA,Jalapa,municipio,A-Tel,0.0,2026S1
+JALAPA,Jalapa,municipio,Telgua (Claro),7362.0,2026S1
+JALAPA,Jalapa,municipio,Teléfonos del Norte,0.0,2026S1
+JALAPA,Jalapa,municipio,Claro Guatemala,0.0,2026S1
+JALAPA,Jalapa,municipio,Guatel,0.0,2026S1
+JALAPA,Jalapa,municipio,Liberty (Columbus),0.0,2026S1
+JALAPA,San Pedro Pinula,municipio,Cablenet,0.0,2026S1
+JALAPA,San Pedro Pinula,municipio,Comcel (Tigo),1.0,2026S1
+JALAPA,San Pedro Pinula,municipio,A-Tel,0.0,2026S1
+JALAPA,San Pedro Pinula,municipio,Telgua (Claro),274.0,2026S1
+JALAPA,San Pedro Pinula,municipio,Teléfonos del Norte,0.0,2026S1
+JALAPA,San Pedro Pinula,municipio,Claro Guatemala,0.0,2026S1
+JALAPA,San Pedro Pinula,municipio,Guatel,0.0,2026S1
+JALAPA,San Pedro Pinula,municipio,Liberty (Columbus),0.0,2026S1
+JALAPA,San Luis Jilotepeque,municipio,Cablenet,0.0,2026S1
+JALAPA,San Luis Jilotepeque,municipio,Comcel (Tigo),0.0,2026S1
+JALAPA,San Luis Jilotepeque,municipio,A-Tel,0.0,2026S1
+JALAPA,San Luis Jilotepeque,municipio,Telgua (Claro),811.0,2026S1
+JALAPA,San Luis Jilotepeque,municipio,Teléfonos del Norte,0.0,2026S1
+JALAPA,San Luis Jilotepeque,municipio,Claro Guatemala,0.0,2026S1
+JALAPA,San Luis Jilotepeque,municipio,Guatel,0.0,2026S1
+JALAPA,San Luis Jilotepeque,municipio,Liberty (Columbus),0.0,2026S1
+JALAPA,San Manuel Chaparrón,municipio,Cablenet,0.0,2026S1
+JALAPA,San Manuel Chaparrón,municipio,Comcel (Tigo),1.0,2026S1
+JALAPA,San Manuel Chaparrón,municipio,A-Tel,0.0,2026S1
+JALAPA,San Manuel Chaparrón,municipio,Telgua (Claro),51.0,2026S1
+JALAPA,San Manuel Chaparrón,municipio,Teléfonos del Norte,0.0,2026S1
+JALAPA,San Manuel Chaparrón,municipio,Claro Guatemala,0.0,2026S1
+JALAPA,San Manuel Chaparrón,municipio,Guatel,0.0,2026S1
+JALAPA,San Manuel Chaparrón,municipio,Liberty (Columbus),0.0,2026S1
+JALAPA,San Carlos Alzatate,municipio,Cablenet,0.0,2026S1
+JALAPA,San Carlos Alzatate,municipio,Comcel (Tigo),0.0,2026S1
+JALAPA,San Carlos Alzatate,municipio,A-Tel,0.0,2026S1
+JALAPA,San Carlos Alzatate,municipio,Telgua (Claro),0.0,2026S1
+JALAPA,San Carlos Alzatate,municipio,Teléfonos del Norte,0.0,2026S1
+JALAPA,San Carlos Alzatate,municipio,Claro Guatemala,0.0,2026S1
+JALAPA,San Carlos Alzatate,municipio,Guatel,0.0,2026S1
+JALAPA,San Carlos Alzatate,municipio,Liberty (Columbus),0.0,2026S1
+JALAPA,Monjas,municipio,Cablenet,0.0,2026S1
+JALAPA,Monjas,municipio,Comcel (Tigo),1.0,2026S1
+JALAPA,Monjas,municipio,A-Tel,0.0,2026S1
+JALAPA,Monjas,municipio,Telgua (Claro),719.0,2026S1
+JALAPA,Monjas,municipio,Teléfonos del Norte,0.0,2026S1
+JALAPA,Monjas,municipio,Claro Guatemala,0.0,2026S1
+JALAPA,Monjas,municipio,Guatel,0.0,2026S1
+JALAPA,Monjas,municipio,Liberty (Columbus),0.0,2026S1
+JALAPA,Mataquescuintla,municipio,Cablenet,0.0,2026S1
+JALAPA,Mataquescuintla,municipio,Comcel (Tigo),1.0,2026S1
+JALAPA,Mataquescuintla,municipio,A-Tel,0.0,2026S1
+JALAPA,Mataquescuintla,municipio,Telgua (Claro),902.0,2026S1
+JALAPA,Mataquescuintla,municipio,Teléfonos del Norte,0.0,2026S1
+JALAPA,Mataquescuintla,municipio,Claro Guatemala,0.0,2026S1
+JALAPA,Mataquescuintla,municipio,Guatel,0.0,2026S1
+JALAPA,Mataquescuintla,municipio,Liberty (Columbus),0.0,2026S1
+JUTIAPA,JUTIAPA,departamento,Cablenet,0.0,2026S1
+JUTIAPA,JUTIAPA,departamento,Comcel (Tigo),116.0,2026S1
+JUTIAPA,JUTIAPA,departamento,A-Tel,0.0,2026S1
+JUTIAPA,JUTIAPA,departamento,Telgua (Claro),59134.0,2026S1
+JUTIAPA,JUTIAPA,departamento,Teléfonos del Norte,0.0,2026S1
+JUTIAPA,JUTIAPA,departamento,Claro Guatemala,0.0,2026S1
+JUTIAPA,JUTIAPA,departamento,Guatel,0.0,2026S1
+JUTIAPA,JUTIAPA,departamento,Liberty (Columbus),0.0,2026S1
+JUTIAPA,Jutiapa,municipio,Cablenet,0.0,2026S1
+JUTIAPA,Jutiapa,municipio,Comcel (Tigo),9.0,2026S1
+JUTIAPA,Jutiapa,municipio,A-Tel,0.0,2026S1
+JUTIAPA,Jutiapa,municipio,Telgua (Claro),47471.0,2026S1
+JUTIAPA,Jutiapa,municipio,Teléfonos del Norte,0.0,2026S1
+JUTIAPA,Jutiapa,municipio,Claro Guatemala,0.0,2026S1
+JUTIAPA,Jutiapa,municipio,Guatel,0.0,2026S1
+JUTIAPA,Jutiapa,municipio,Liberty (Columbus),0.0,2026S1
+JUTIAPA,El Progreso,municipio,Cablenet,0.0,2026S1
+JUTIAPA,El Progreso,municipio,Comcel (Tigo),0.0,2026S1
+JUTIAPA,El Progreso,municipio,A-Tel,0.0,2026S1
+JUTIAPA,El Progreso,municipio,Telgua (Claro),0.0,2026S1
+JUTIAPA,El Progreso,municipio,Teléfonos del Norte,0.0,2026S1
+JUTIAPA,El Progreso,municipio,Claro Guatemala,0.0,2026S1
+JUTIAPA,El Progreso,municipio,Guatel,0.0,2026S1
+JUTIAPA,El Progreso,municipio,Liberty (Columbus),0.0,2026S1
+JUTIAPA,Santa Catarina Mita,municipio,Cablenet,0.0,2026S1
+JUTIAPA,Santa Catarina Mita,municipio,Comcel (Tigo),3.0,2026S1
+JUTIAPA,Santa Catarina Mita,municipio,A-Tel,0.0,2026S1
+JUTIAPA,Santa Catarina Mita,municipio,Telgua (Claro),1569.0,2026S1
+JUTIAPA,Santa Catarina Mita,municipio,Teléfonos del Norte,0.0,2026S1
+JUTIAPA,Santa Catarina Mita,municipio,Claro Guatemala,0.0,2026S1
+JUTIAPA,Santa Catarina Mita,municipio,Guatel,0.0,2026S1
+JUTIAPA,Santa Catarina Mita,municipio,Liberty (Columbus),0.0,2026S1
+JUTIAPA,Agua Blanca,municipio,Cablenet,0.0,2026S1
+JUTIAPA,Agua Blanca,municipio,Comcel (Tigo),8.0,2026S1
+JUTIAPA,Agua Blanca,municipio,A-Tel,0.0,2026S1
+JUTIAPA,Agua Blanca,municipio,Telgua (Claro),711.0,2026S1
+JUTIAPA,Agua Blanca,municipio,Teléfonos del Norte,0.0,2026S1
+JUTIAPA,Agua Blanca,municipio,Claro Guatemala,0.0,2026S1
+JUTIAPA,Agua Blanca,municipio,Guatel,0.0,2026S1
+JUTIAPA,Agua Blanca,municipio,Liberty (Columbus),0.0,2026S1
+JUTIAPA,Asunción Mita,municipio,Cablenet,0.0,2026S1
+JUTIAPA,Asunción Mita,municipio,Comcel (Tigo),16.0,2026S1
+JUTIAPA,Asunción Mita,municipio,A-Tel,0.0,2026S1
+JUTIAPA,Asunción Mita,municipio,Telgua (Claro),6494.0,2026S1
+JUTIAPA,Asunción Mita,municipio,Teléfonos del Norte,0.0,2026S1
+JUTIAPA,Asunción Mita,municipio,Claro Guatemala,0.0,2026S1
+JUTIAPA,Asunción Mita,municipio,Guatel,0.0,2026S1
+JUTIAPA,Asunción Mita,municipio,Liberty (Columbus),0.0,2026S1
+JUTIAPA,Yupiltepeque,municipio,Cablenet,0.0,2026S1
+JUTIAPA,Yupiltepeque,municipio,Comcel (Tigo),2.0,2026S1
+JUTIAPA,Yupiltepeque,municipio,A-Tel,0.0,2026S1
+JUTIAPA,Yupiltepeque,municipio,Telgua (Claro),78.0,2026S1
+JUTIAPA,Yupiltepeque,municipio,Teléfonos del Norte,0.0,2026S1
+JUTIAPA,Yupiltepeque,municipio,Claro Guatemala,0.0,2026S1
+JUTIAPA,Yupiltepeque,municipio,Guatel,0.0,2026S1
+JUTIAPA,Yupiltepeque,municipio,Liberty (Columbus),0.0,2026S1
+JUTIAPA,Atescatempa,municipio,Cablenet,0.0,2026S1
+JUTIAPA,Atescatempa,municipio,Comcel (Tigo),11.0,2026S1
+JUTIAPA,Atescatempa,municipio,A-Tel,0.0,2026S1
+JUTIAPA,Atescatempa,municipio,Telgua (Claro),856.0,2026S1
+JUTIAPA,Atescatempa,municipio,Teléfonos del Norte,0.0,2026S1
+JUTIAPA,Atescatempa,municipio,Claro Guatemala,0.0,2026S1
+JUTIAPA,Atescatempa,municipio,Guatel,0.0,2026S1
+JUTIAPA,Atescatempa,municipio,Liberty (Columbus),0.0,2026S1
+JUTIAPA,Jerez,municipio,Cablenet,0.0,2026S1
+JUTIAPA,Jerez,municipio,Comcel (Tigo),2.0,2026S1
+JUTIAPA,Jerez,municipio,A-Tel,0.0,2026S1
+JUTIAPA,Jerez,municipio,Telgua (Claro),256.0,2026S1
+JUTIAPA,Jerez,municipio,Teléfonos del Norte,0.0,2026S1
+JUTIAPA,Jerez,municipio,Claro Guatemala,0.0,2026S1
+JUTIAPA,Jerez,municipio,Guatel,0.0,2026S1
+JUTIAPA,Jerez,municipio,Liberty (Columbus),0.0,2026S1
+JUTIAPA,El Adelanto,municipio,Cablenet,0.0,2026S1
+JUTIAPA,El Adelanto,municipio,Comcel (Tigo),0.0,2026S1
+JUTIAPA,El Adelanto,municipio,A-Tel,0.0,2026S1
+JUTIAPA,El Adelanto,municipio,Telgua (Claro),0.0,2026S1
+JUTIAPA,El Adelanto,municipio,Teléfonos del Norte,0.0,2026S1
+JUTIAPA,El Adelanto,municipio,Claro Guatemala,0.0,2026S1
+JUTIAPA,El Adelanto,municipio,Guatel,0.0,2026S1
+JUTIAPA,El Adelanto,municipio,Liberty (Columbus),0.0,2026S1
+JUTIAPA,Zapotitlán,municipio,Cablenet,0.0,2026S1
+JUTIAPA,Zapotitlán,municipio,Comcel (Tigo),7.0,2026S1
+JUTIAPA,Zapotitlán,municipio,A-Tel,0.0,2026S1
+JUTIAPA,Zapotitlán,municipio,Telgua (Claro),0.0,2026S1
+JUTIAPA,Zapotitlán,municipio,Teléfonos del Norte,0.0,2026S1
+JUTIAPA,Zapotitlán,municipio,Claro Guatemala,0.0,2026S1
+JUTIAPA,Zapotitlán,municipio,Guatel,0.0,2026S1
+JUTIAPA,Zapotitlán,municipio,Liberty (Columbus),0.0,2026S1
+JUTIAPA,Comapa,municipio,Cablenet,0.0,2026S1
+JUTIAPA,Comapa,municipio,Comcel (Tigo),21.0,2026S1
+JUTIAPA,Comapa,municipio,A-Tel,0.0,2026S1
+JUTIAPA,Comapa,municipio,Telgua (Claro),102.0,2026S1
+JUTIAPA,Comapa,municipio,Teléfonos del Norte,0.0,2026S1
+JUTIAPA,Comapa,municipio,Claro Guatemala,0.0,2026S1
+JUTIAPA,Comapa,municipio,Guatel,0.0,2026S1
+JUTIAPA,Comapa,municipio,Liberty (Columbus),0.0,2026S1
+JUTIAPA,Jalpatagua,municipio,Cablenet,0.0,2026S1
+JUTIAPA,Jalpatagua,municipio,Comcel (Tigo),20.0,2026S1
+JUTIAPA,Jalpatagua,municipio,A-Tel,0.0,2026S1
+JUTIAPA,Jalpatagua,municipio,Telgua (Claro),610.0,2026S1
+JUTIAPA,Jalpatagua,municipio,Teléfonos del Norte,0.0,2026S1
+JUTIAPA,Jalpatagua,municipio,Claro Guatemala,0.0,2026S1
+JUTIAPA,Jalpatagua,municipio,Guatel,0.0,2026S1
+JUTIAPA,Jalpatagua,municipio,Liberty (Columbus),0.0,2026S1
+JUTIAPA,Conguaco,municipio,Cablenet,0.0,2026S1
+JUTIAPA,Conguaco,municipio,Comcel (Tigo),5.0,2026S1
+JUTIAPA,Conguaco,municipio,A-Tel,0.0,2026S1
+JUTIAPA,Conguaco,municipio,Telgua (Claro),120.0,2026S1
+JUTIAPA,Conguaco,municipio,Teléfonos del Norte,0.0,2026S1
+JUTIAPA,Conguaco,municipio,Claro Guatemala,0.0,2026S1
+JUTIAPA,Conguaco,municipio,Guatel,0.0,2026S1
+JUTIAPA,Conguaco,municipio,Liberty (Columbus),0.0,2026S1
+JUTIAPA,Moyuta,municipio,Cablenet,0.0,2026S1
+JUTIAPA,Moyuta,municipio,Comcel (Tigo),6.0,2026S1
+JUTIAPA,Moyuta,municipio,A-Tel,0.0,2026S1
+JUTIAPA,Moyuta,municipio,Telgua (Claro),747.0,2026S1
+JUTIAPA,Moyuta,municipio,Teléfonos del Norte,0.0,2026S1
+JUTIAPA,Moyuta,municipio,Claro Guatemala,0.0,2026S1
+JUTIAPA,Moyuta,municipio,Guatel,0.0,2026S1
+JUTIAPA,Moyuta,municipio,Liberty (Columbus),0.0,2026S1
+JUTIAPA,Pasaco,municipio,Cablenet,0.0,2026S1
+JUTIAPA,Pasaco,municipio,Comcel (Tigo),1.0,2026S1
+JUTIAPA,Pasaco,municipio,A-Tel,0.0,2026S1
+JUTIAPA,Pasaco,municipio,Telgua (Claro),120.0,2026S1
+JUTIAPA,Pasaco,municipio,Teléfonos del Norte,0.0,2026S1
+JUTIAPA,Pasaco,municipio,Claro Guatemala,0.0,2026S1
+JUTIAPA,Pasaco,municipio,Guatel,0.0,2026S1
+JUTIAPA,Pasaco,municipio,Liberty (Columbus),0.0,2026S1
+JUTIAPA,San José Acatempa,municipio,Cablenet,0.0,2026S1
+JUTIAPA,San José Acatempa,municipio,Comcel (Tigo),3.0,2026S1
+JUTIAPA,San José Acatempa,municipio,A-Tel,0.0,2026S1
+JUTIAPA,San José Acatempa,municipio,Telgua (Claro),0.0,2026S1
+JUTIAPA,San José Acatempa,municipio,Teléfonos del Norte,0.0,2026S1
+JUTIAPA,San José Acatempa,municipio,Claro Guatemala,0.0,2026S1
+JUTIAPA,San José Acatempa,municipio,Guatel,0.0,2026S1
+JUTIAPA,San José Acatempa,municipio,Liberty (Columbus),0.0,2026S1
+JUTIAPA,Quesada,municipio,Cablenet,0.0,2026S1
+JUTIAPA,Quesada,municipio,Comcel (Tigo),2.0,2026S1
+JUTIAPA,Quesada,municipio,A-Tel,0.0,2026S1
+JUTIAPA,Quesada,municipio,Telgua (Claro),0.0,2026S1
+JUTIAPA,Quesada,municipio,Teléfonos del Norte,0.0,2026S1
+JUTIAPA,Quesada,municipio,Claro Guatemala,0.0,2026S1
+JUTIAPA,Quesada,municipio,Guatel,0.0,2026S1
+JUTIAPA,Quesada,municipio,Liberty (Columbus),0.0,2026S1
+JUTIAPA,TOTAL,total,Cablenet,0.0,2026S1
+JUTIAPA,TOTAL,total,Comcel (Tigo),381493.0,2026S1
+JUTIAPA,TOTAL,total,A-Tel,11.0,2026S1
+JUTIAPA,TOTAL,total,Telgua (Claro),1723344.0,2026S1
+JUTIAPA,TOTAL,total,Teléfonos del Norte,158.0,2026S1
+JUTIAPA,TOTAL,total,Claro Guatemala,0.0,2026S1
+JUTIAPA,TOTAL,total,Guatel,0.0,2026S1
+JUTIAPA,TOTAL,total,Liberty (Columbus),6.0,2026S1

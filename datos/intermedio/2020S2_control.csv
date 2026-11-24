@@ -1,0 +1,46 @@
+﻿variable,departamento,declarado,suma_municipios,diferencia,periodo
+lineas_fijas,ALTA VERAPAZ,16671.0,16671.0,0.0,2020S2
+lineas_fijas,BAJA VERAPAZ,6145.0,6145.0,0.0,2020S2
+lineas_fijas,CHIMALTENANGO,17355.0,17355.0,0.0,2020S2
+lineas_fijas,CHIQUIMULA,22685.0,22685.0,0.0,2020S2
+lineas_fijas,ESCUINTLA,40442.0,40442.0,0.0,2020S2
+lineas_fijas,GUATEMALA,1706439.0,1706439.0,0.0,2020S2
+lineas_fijas,HUEHUETENANGO,28748.0,28748.0,0.0,2020S2
+lineas_fijas,IZABAL,25589.0,25589.0,0.0,2020S2
+lineas_fijas,JALAPA,9966.0,9966.0,0.0,2020S2
+lineas_fijas,JUTIAPA,67807.0,67807.0,0.0,2020S2
+lineas_fijas,EL PETÉN,13462.0,13462.0,0.0,2020S2
+lineas_fijas,EL PROGRESO,9134.0,9134.0,0.0,2020S2
+lineas_fijas,QUETZALTENANGO,140253.0,140253.0,0.0,2020S2
+lineas_fijas,QUICHÉ,15931.0,15931.0,0.0,2020S2
+lineas_fijas,RETALHULEU,13433.0,13433.0,0.0,2020S2
+lineas_fijas,SACATEPEQUEZ,27553.0,27553.0,0.0,2020S2
+lineas_fijas,SAN MARCOS,38174.0,38174.0,0.0,2020S2
+lineas_fijas,SANTA ROSA,11633.0,11633.0,0.0,2020S2
+lineas_fijas,SOLOLA,11382.0,11382.0,0.0,2020S2
+lineas_fijas,SUCHITEPEQUEZ,17729.0,17729.0,0.0,2020S2
+lineas_fijas,TOTONICAPAN,15458.0,15458.0,0.0,2020S2
+lineas_fijas,ZACAPA,16478.0,16478.0,0.0,2020S2
+lineas_fijas,TOTAL PAÍS,2272467.0,2272467.0,0.0,2020S2
+radiobases,Alta Verapaz,,539.0,,2020S2
+radiobases,Baja Verapaz,,227.0,,2020S2
+radiobases,Chimaltenango,,435.0,,2020S2
+radiobases,Chiquimula,,371.0,,2020S2
+radiobases,Escuintla,,693.0,,2020S2
+radiobases,Guatemala,,3262.0,,2020S2
+radiobases,Huehuetenango,,2489.0,,2020S2
+radiobases,Izabal,,374.0,,2020S2
+radiobases,Jalapa,,244.0,,2020S2
+radiobases,Jutiapa,,618.0,,2020S2
+radiobases,El Petén,,578.0,,2020S2
+radiobases,El Progreso,,262.0,,2020S2
+radiobases,Quetzaltenango,,787.0,,2020S2
+radiobases,Quiché,,539.0,,2020S2
+radiobases,Retalhuleu,,338.0,,2020S2
+radiobases,Sacatepéquez,,430.0,,2020S2
+radiobases,San Marcos,,719.0,,2020S2
+radiobases,Santa Rosa,,437.0,,2020S2
+radiobases,Sololá,,285.0,,2020S2
+radiobases,Suchitepéquez,,435.0,,2020S2
+radiobases,Totonicapán,,250.0,,2020S2
+radiobases,Zacapa,,256.0,,2020S2

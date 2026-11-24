@@ -1,0 +1,348 @@
+Anexo A (corto) p.28: cifra 271 sin fila en y=644
+Anexo A (corto) p.28: cifra 34 sin fila en y=644
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: ALTA VERAPAZ / ALTA VERAPAZ
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: ALTA VERAPAZ / CAHABÓN
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: ALTA VERAPAZ / CHAHAL
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: ALTA VERAPAZ / CHISEC
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: ALTA VERAPAZ / COBÁN
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: ALTA VERAPAZ / FRAY BARTOLOMÉ DE LAS CASAS
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: ALTA VERAPAZ / LANQUÍN
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: ALTA VERAPAZ / PANZOS
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: ALTA VERAPAZ / RAXRUHÁ
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: ALTA VERAPAZ / SAN CRISTÓBAL VERAPAZ
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: ALTA VERAPAZ / SAN JUAN CHAMELCO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: ALTA VERAPAZ / SAN PEDRO CARCHÁ
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: ALTA VERAPAZ / SANTA CATARINA LA TINTA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: ALTA VERAPAZ / SANTA CRUZ VERAPAZ
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: ALTA VERAPAZ / SENAHÚ
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: ALTA VERAPAZ / TACTIC
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: ALTA VERAPAZ / TAMAHÚ
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: ALTA VERAPAZ / TUCURÚ
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: BAJA VERAPAZ / BAJA VERAPAZ
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: BAJA VERAPAZ / CUBULCO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: BAJA VERAPAZ / EL CHOL
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: BAJA VERAPAZ / GRANADOS
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: BAJA VERAPAZ / PURULHÁ
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: BAJA VERAPAZ / RABINAL
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: BAJA VERAPAZ / SALAMÁ
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: BAJA VERAPAZ / SAN JERÓNIMO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: BAJA VERAPAZ / SAN MIGUEL CHICAJ
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: CHIMALTENANGO / CHIMALTENANGO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: CHIMALTENANGO / ACATENANGO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: CHIMALTENANGO / CHIMALTENANGO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: CHIMALTENANGO / EL TEJAR
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: CHIMALTENANGO / PARRAMOS
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: CHIMALTENANGO / PATZÚN
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: CHIMALTENANGO / SAN ANDRÉS ITZAPA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: CHIMALTENANGO / SAN JOSÉ POAQUIL
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: CHIMALTENANGO / SAN JUAN COMALAPA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: CHIMALTENANGO / SAN MARTÍN JILOTEPEQUE
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: CHIMALTENANGO / SAN MIGUEL POCHUTA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: CHIMALTENANGO / SAN PEDRO YEPOCAPA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: CHIMALTENANGO / SANTA APOLONIA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: CHIMALTENANGO / SANTA CRUZ BALANYÁ
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: CHIMALTENANGO / TECPÁN GUATEMALA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: CHIMALTENANGO / ZARAGOZA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: CHIQUIMULA / CHIQUIMULA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: CHIQUIMULA / CAMOTÁN
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: CHIQUIMULA / CHIQUIMULA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: CHIQUIMULA / CONCEPCIÓN LAS MINAS
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: CHIQUIMULA / ESQUIPULAS
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: CHIQUIMULA / IPALA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: CHIQUIMULA / JOCOTÁN
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: CHIQUIMULA / OLOPA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: CHIQUIMULA / QUEZALTEPEQUE
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: CHIQUIMULA / SAN JACINTO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: CHIQUIMULA / SAN JOSÉ LA ARADA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: CHIQUIMULA / SAN JUAN LA ERMITA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: EL PROGRESO / EL PROGRESO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: EL PROGRESO / EL JÍCARO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: EL PROGRESO / GUASTATOYA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: EL PROGRESO / MORAZÁN
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: EL PROGRESO / SAN AGUSTÍN ACASAGUASTLÁN
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: EL PROGRESO / SAN ANTONIO LA PAZ
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: EL PROGRESO / SAN CRISTÓBAL ACASAGUASTLÁN
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: EL PROGRESO / SANARATE
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: EL PROGRESO / SANSARE
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: ESCUINTLA / ESCUINTLA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: ESCUINTLA / ESCUINTLA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: ESCUINTLA / GUANAGAZAPA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: ESCUINTLA / IZTAPA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: ESCUINTLA / LA DEMOCRACIA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: ESCUINTLA / LA GOMERA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: ESCUINTLA / MASAGUA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: ESCUINTLA / NUEVA CONCEPCIÓN
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: ESCUINTLA / PALÍN
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: ESCUINTLA / SAN JOSÉ
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: ESCUINTLA / SAN VICENTE PACAYA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: ESCUINTLA / SIQUINALÁ
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: ESCUINTLA / TIQUISATE
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: GUATEMALA / GUATEMALA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: GUATEMALA / AMATITLÁN
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: GUATEMALA / CHINAUTLA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: GUATEMALA / CHUARRANCHO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: GUATEMALA / FRAIJANES
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: GUATEMALA / GUATEMALA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: GUATEMALA / MIXCO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: GUATEMALA / PALENCIA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: GUATEMALA / SAN JOSÉ DEL GOLFO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: GUATEMALA / SAN JOSÉ PINULA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: GUATEMALA / SAN JUAN SACATEPÉQUEZ
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: GUATEMALA / SAN MIGUEL PETAPA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: GUATEMALA / SAN PEDRO AYAMPUC
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: GUATEMALA / SAN PEDRO SACATEPÉQUEZ
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: GUATEMALA / SAN RAIMUNDO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: GUATEMALA / SANTA CATARINA PINULA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: GUATEMALA / VILLA CANALES
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: GUATEMALA / VILLA NUEVA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: HUEHUETENANGO / HUEHUETENANGO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: HUEHUETENANGO / AGUACATÁN
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: HUEHUETENANGO / CHIANTLA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: HUEHUETENANGO / COLOTENANGO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: HUEHUETENANGO / CONCEPCIÓN HUISTA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: HUEHUETENANGO / CUILCO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: HUEHUETENANGO / HUEHUETENANGO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: HUEHUETENANGO / IXTAHUACÁN
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: HUEHUETENANGO / JACALTENANGO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: HUEHUETENANGO / LA DEMOCRACIA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: HUEHUETENANGO / LA LIBERTAD
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: HUEHUETENANGO / MALACATANCITO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: HUEHUETENANGO / NENTÓN
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: HUEHUETENANGO / SAN ANTONIO HUISTA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: HUEHUETENANGO / SAN GASPAR IXCHIL
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: HUEHUETENANGO / SAN JUAN ATITÁN
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: HUEHUETENANGO / SAN JUAN IXCOY
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: HUEHUETENANGO / SAN MATEO IXTATÁN
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: HUEHUETENANGO / SAN PEDRO NECTA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: HUEHUETENANGO / SAN PEDRO SOLOMA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: HUEHUETENANGO / SAN RAFAEL LA INDEPENDENCIA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: HUEHUETENANGO / SAN RAFAEL PETZAL
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: HUEHUETENANGO / SAN SEBASTIÁN COATÁN
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: HUEHUETENANGO / HUEHUETENANGO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: HUEHUETENANGO / SANTA ANA HUISTA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: HUEHUETENANGO / SANTA BÁRBARA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: HUEHUETENANGO / SANTA CRUZ BARILLAS
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: HUEHUETENANGO / SANTA EULALIA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: HUEHUETENANGO / SANTIAGO CHIMALTENANGO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: HUEHUETENANGO / TECTITÁN
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: HUEHUETENANGO / TODOS SANTOS CUCHUMATÁN
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: HUEHUETENANGO / UNIÓN CANTINIL
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: IZABAL / IZABAL
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: IZABAL / EL ESTOR
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: IZABAL / LIVINGSTON
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: IZABAL / LOS AMATES
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: IZABAL / MORALES
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: IZABAL / PUERTO BARRIOS
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: JALAPA / JALAPA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: JALAPA / JALAPA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: JALAPA / MATAQUESCUINTLA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: JALAPA / MONJAS
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: JALAPA / SAN CARLOS ALZATATE
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: JALAPA / SAN LUIS JILOTEPEQUE
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: JALAPA / SAN MANUEL CHAPARRÓN
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: JALAPA / SAN PEDRO PINULA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: JUTIAPA / JUTIAPA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: JUTIAPA / AGUA BLANCA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: JUTIAPA / ASUNCIÓN MITA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: JUTIAPA / ATESCATEMPA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: JUTIAPA / COMAPA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: JUTIAPA / CONGUACO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: JUTIAPA / EL ADELANTO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: JUTIAPA / JALPATAGUA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: JUTIAPA / JEREZ
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: JUTIAPA / JUTIAPA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: JUTIAPA / MOYUTA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: JUTIAPA / PASACO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: JUTIAPA / PROGRESO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: JUTIAPA / QUEZADA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: JUTIAPA / SAN JOSÉ ACATEMPA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: JUTIAPA / SANTA CATARINA MITA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: JUTIAPA / YUPILTEPEQUE
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: JUTIAPA / ZAPOTITLÁN
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: PETÉN / PETÉN
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: PETÉN / DOLORES
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: PETÉN / FLORES
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: PETÉN / LA LIBERTAD
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: PETÉN / MELCHOR DE MENCOS
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: PETÉN / POPTÚN
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: PETÉN / SAN ANDRÉS
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: PETÉN / SAN BENITO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: PETÉN / SAN FRANCISCO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: PETÉN / SAN JOSÉ
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: PETÉN / SAN LUIS
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: PETÉN / SANTA ANA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: PETÉN / SAYAXCHÉ
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: QUETZALTENANGO / QUETZALTENANGO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: QUETZALTENANGO / ALMOLONGA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: QUETZALTENANGO / CABRICÁN
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: QUETZALTENANGO / CAJOLÁ
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: QUETZALTENANGO / CANTEL
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: QUETZALTENANGO / COATEPEQUE
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: QUETZALTENANGO / COLOMBA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: QUETZALTENANGO / CONCEPCIÓN CHIQUIRICHAPA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: QUETZALTENANGO / EL NUEVO PALMAR
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: QUETZALTENANGO / FLORES COSTA CUCA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: QUETZALTENANGO / GÉNOVA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: QUETZALTENANGO / HUITÁN
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: QUETZALTENANGO / LA ESPERANZA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: QUETZALTENANGO / OLINTEPEQUE
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: QUETZALTENANGO / PALESTINA DE LOS ALTOS
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: QUETZALTENANGO / QUETZALTENANGO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: QUETZALTENANGO / SALCAJÁ
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: QUETZALTENANGO / SAN CARLOS SIJA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: QUETZALTENANGO / SAN FRANCISCO LA UNIÓN
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: QUETZALTENANGO / SAN JUAN OSTUNCALCO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: QUETZALTENANGO / SAN MARTÍN SACATEPÉQUEZ
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: QUETZALTENANGO / SAN MATEO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: QUETZALTENANGO / SAN MIGUEL SIGUILÁ
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: QUETZALTENANGO / SIBILIA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: QUETZALTENANGO / ZUNIL
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: QUICHÉ / QUICHÉ
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: QUICHÉ / CANILLÁ
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: QUICHÉ / CHAJUL
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: QUICHÉ / CHICAMÁN
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: QUICHÉ / CHICHÉ
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: QUICHÉ / CHICHICASTENANGO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: QUICHÉ / CHINIQUE
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: QUICHÉ / CUNÉN
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: QUICHÉ / IXCÁN
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: QUICHÉ / JOYABAJ
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: QUICHÉ / NEBAJ
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: QUICHÉ / PACHALUM
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: QUICHÉ / PATZITÉ
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: QUICHÉ / SACAPULAS
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: QUICHÉ / SAN ANDRÉS SAJCABAJÁ
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: QUICHÉ / SAN ANTONIO ILOTENANGO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: QUICHÉ / SAN BARTOLOMÉ JOCOTENANGO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: QUICHÉ / SAN JUAN COTZAL
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: QUICHÉ / SAN PEDRO JOCOPILAS
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: QUICHÉ / SANTA CRUZ DEL QUICHÉ
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: QUICHÉ / USPANTÁN
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: QUICHÉ / ZACUALPA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: RETALHULEU / RETALHULEU
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: RETALHULEU / CHAMPERICO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: RETALHULEU / EL ASINTAL
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: RETALHULEU / NUEVO SAN CARLOS
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: RETALHULEU / RETALHULEU
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: RETALHULEU / SAN ANDRÉS VILLA SECA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: RETALHULEU / SAN FELIPE
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: RETALHULEU / SAN MARTÍN ZAPOTITLÁN
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: RETALHULEU / SAN SEBASTIÁN
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: RETALHULEU / SANTA CRUZ MULUÁ
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SACATEPÉQUEZ / SACATEPÉQUEZ
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SACATEPÉQUEZ / ALOTENANGO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SACATEPÉQUEZ / ANTIGUA GUATEMALA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SACATEPÉQUEZ / CIUDAD VIEJA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SACATEPÉQUEZ / JOCOTENANGO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SACATEPÉQUEZ / MAGDALENA MILPAS ALTAS
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SACATEPÉQUEZ / PASTORES
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SACATEPÉQUEZ / SAN ANTONIO AGUAS CALIENTES
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SACATEPÉQUEZ / SAN BARTOLOMÉ MILPAS ALTAS
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SACATEPÉQUEZ / SAN LUCAS SACATEPÉQUEZ
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SACATEPÉQUEZ / SAN MIGUEL DUEÑAS
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SACATEPÉQUEZ / SANTA CATARINA BARAHONA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SACATEPÉQUEZ / SANTA LUCÍA MILPAS ALTAS
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SACATEPÉQUEZ / SANTIAGO SACATEPÉQUEZ
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SACATEPÉQUEZ / SANTO DOMINGO XENACOJ
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SACATEPÉQUEZ / SUMPANGO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SAN MARCOS / SAN MARCOS
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SAN MARCOS / CATARINA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SAN MARCOS / CIUDAD TECÚN UMÁN (AYUTLA)
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SAN MARCOS / CONCEPCIÓN TUTUAPA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SAN MARCOS / EL QUETZAL
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SAN MARCOS / EL RODEO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SAN MARCOS / EL TUMBADOR
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SAN MARCOS / ESQUIPULAS PALO GORDO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SAN MARCOS / IXCHIGUÁN
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SAN MARCOS / LA REFORMA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SAN MARCOS / MALACATÁN
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SAN MARCOS / NUEVO PROGRESO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SAN MARCOS / OCOS
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SAN MARCOS / PAJAPITA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SAN MARCOS / RÍO BLANCO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SAN MARCOS / SAN ANTONIO SACATEPÉQUEZ
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SAN MARCOS / SAN CRISTÓBAL CUCHO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SAN MARCOS / SAN JOSÉ OJETENAM
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SAN MARCOS / SAN LORENZO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SAN MARCOS / SAN MARCOS
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SAN MARCOS / SAN MIGUEL IXTAHUACÁN
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SAN MARCOS / SAN PABLO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SAN MARCOS / SAN PEDRO SACATEPÉQUEZ
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SAN MARCOS / SIBINAL
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SAN MARCOS / SIPACAPA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SAN MARCOS / TACANÁ
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SAN MARCOS / TAJUMULCO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SAN MARCOS / TEJUTLA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SANTA ROSA / SANTA ROSA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SANTA ROSA / BARBERENA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SANTA ROSA / CASILLAS
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SANTA ROSA / CHIQUIMULILLA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SANTA ROSA / CUILAPA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SANTA ROSA / GUAZACAPÁN
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SANTA ROSA / NUEVA SANTA ROSA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SANTA ROSA / ORATORIO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SANTA ROSA / PUEBLO NUEVO VIÑAS
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SANTA ROSA / SAN JUAN TECUACO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SANTA ROSA / SAN RAFAEL LAS FLORES
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SANTA ROSA / SANTA CRUZ NARANJO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SANTA ROSA / SANTA ROSA DE LIMA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SANTA ROSA / TAXISCO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SOLOLÁ / SOLOLÁ
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SOLOLÁ / CONCEPCIÓN
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SOLOLÁ / NAHUALÁ
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SOLOLÁ / PANAJACHEL
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SOLOLÁ / SAN ANDRÉS SEMETABAJ
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SOLOLÁ / SAN ANTONIO PALOPÓ
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SOLOLÁ / SAN JOSÉ CHACAYÁ
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SOLOLÁ / SAN JUAN LA LAGUNA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SOLOLÁ / SAN LUCAS TOLIMÁN
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SOLOLÁ / SAN MARCOS LA LAGUNA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SOLOLÁ / SAN PABLO LA LAGUNA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SOLOLÁ / SAN PEDRO LA LAGUNA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SOLOLÁ / SANTA CATARINA IXTAHUACÁN
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SOLOLÁ / SANTA CATARINA PALOPÓ
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SOLOLÁ / SANTA CLARA LA LAGUNA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SOLOLÁ / SANTA CRUZ LA LAGUNA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SOLOLÁ / SANTA LUCIA UTATLÁN
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SOLOLÁ / SANTA MARÍA VISITACIÓN
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SOLOLÁ / SANTIAGO ATITLÁN
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SOLOLÁ / SOLOLÁ
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SUCHITEPÉQUEZ / SUCHITEPÉQUEZ
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SUCHITEPÉQUEZ / CHICACAO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SUCHITEPÉQUEZ / CUYOTENANGO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SUCHITEPÉQUEZ / MAZATENANGO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SUCHITEPÉQUEZ / PATULUL
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SUCHITEPÉQUEZ / PUEBLO NUEVO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SUCHITEPÉQUEZ / RÍO BRAVO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SUCHITEPÉQUEZ / SAMAYAC
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SUCHITEPÉQUEZ / SAN ANTONIO SUCHITEPÉQUEZ
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SUCHITEPÉQUEZ / SAN BERNARDINO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SUCHITEPÉQUEZ / SAN FRANCISCO ZAPOTITLÁN
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SUCHITEPÉQUEZ / SAN GABRIEL
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SUCHITEPÉQUEZ / SAN JUAN BAUTISTA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SUCHITEPÉQUEZ / SAN LORENZO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SUCHITEPÉQUEZ / SAN MIGUEL PANÁN
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SUCHITEPÉQUEZ / SAN PABLO JOCOPILAS
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SUCHITEPÉQUEZ / SANTA BÁRBARA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: SUCHITEPÉQUEZ / ZUNILITO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: TOTONICAPÁN / TOTONICAPÁN
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: TOTONICAPÁN / MOMOSTENANGO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: TOTONICAPÁN / SAN ANDRÉS XECUL
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: TOTONICAPÁN / SAN BARTOLO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: TOTONICAPÁN / SAN CRISTÓBAL TOTONICAPÁN
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: TOTONICAPÁN / SAN FRANCISCO EL ALTO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: TOTONICAPÁN / SANTA LUCÍA LA REFORMA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: TOTONICAPÁN / SANTA MARÍA CHIQUIMULA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: TOTONICAPÁN / TOTONICAPÁN
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: ZACAPA / ZACAPA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: ZACAPA / CABAÑAS
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: ZACAPA / ESTANZUELA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: ZACAPA / GUALÁN
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: ZACAPA / HUITÉ
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: ZACAPA / LA UNIÓN
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: ZACAPA / RÍO HONDO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: ZACAPA / SAN DIEGO
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: ZACAPA / TECULUTÁN
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: ZACAPA / USUMATLÁN
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: ZACAPA / ZACAPA
+Anexo A (corto): fila repetida en el PDF, se ignora la segunda: ZACAPA / TOTAL DE LÍNEAS FIJAS

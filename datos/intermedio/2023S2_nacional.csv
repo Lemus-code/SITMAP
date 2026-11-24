@@ -1,0 +1,108 @@
+﻿tabla,operador,indicador,valor,unidad,periodo
+Telefonía Fija: Líneas en Operación,Teléfonos del Norte,lineas_fijas,206.0,líneas,2023S2
+Telefonía Fija: Líneas en Operación,Teléfonos del Norte,participacion_lineas_fijas,0.0106,%,2023S2
+Telefonía Fija: Líneas en Operación,A-Tel,lineas_fijas,11.0,líneas,2023S2
+Telefonía Fija: Líneas en Operación,A-Tel,participacion_lineas_fijas,0.0006,%,2023S2
+Telefonía Fija: Líneas en Operación,Guatel,lineas_fijas,0.0,líneas,2023S2
+Telefonía Fija: Líneas en Operación,Guatel,participacion_lineas_fijas,0.0,%,2023S2
+Telefonía Fija: Líneas en Operación,Cablenet,lineas_fijas,50779.0,líneas,2023S2
+Telefonía Fija: Líneas en Operación,Cablenet,participacion_lineas_fijas,2.62,%,2023S2
+Telefonía Fija: Líneas en Operación,Liberty (Columbus),lineas_fijas,6.0,líneas,2023S2
+Telefonía Fija: Líneas en Operación,Liberty (Columbus),participacion_lineas_fijas,0.0003,%,2023S2
+Telefonía Fija: Líneas en Operación,Claro Guatemala,lineas_fijas,0.0,líneas,2023S2
+Telefonía Fija: Líneas en Operación,Claro Guatemala,participacion_lineas_fijas,0.0,%,2023S2
+Telefonía Fija: Líneas en Operación,Comcel (Tigo),lineas_fijas,354194.0,líneas,2023S2
+Telefonía Fija: Líneas en Operación,Comcel (Tigo),participacion_lineas_fijas,18.27,%,2023S2
+Telefonía Fija: Líneas en Operación,Telgua (Claro),lineas_fijas,1533811.0,líneas,2023S2
+Telefonía Fija: Líneas en Operación,Telgua (Claro),participacion_lineas_fijas,79.1,%,2023S2
+Telefonía Fija: Líneas en Operación,TOTAL,lineas_fijas,1939007.0,líneas,2023S2
+Telefonía Fija: Líneas en Operación,TOTAL,participacion_lineas_fijas,100.0,%,2023S2
+Telefonía Móvil: Usuarios en Operación,Claro Guatemala,usuarios_moviles,0.0,usuarios,2023S2
+Telefonía Móvil: Usuarios en Operación,Claro Guatemala,participacion_usuarios_moviles,0.0,%,2023S2
+Telefonía Móvil: Usuarios en Operación,Comcel (Tigo),usuarios_moviles,11718613.0,usuarios,2023S2
+Telefonía Móvil: Usuarios en Operación,Comcel (Tigo),participacion_usuarios_moviles,56.86,%,2023S2
+Telefonía Móvil: Usuarios en Operación,Telgua (Claro),usuarios_moviles,8891027.0,usuarios,2023S2
+Telefonía Móvil: Usuarios en Operación,Telgua (Claro),participacion_usuarios_moviles,43.14,%,2023S2
+Telefonía Móvil: Usuarios en Operación,TOTAL,usuarios_moviles,20609640.0,usuarios,2023S2
+Telefonía Móvil: Usuarios en Operación,TOTAL,participacion_usuarios_moviles,100.0,%,2023S2
+Usuarios Móviles Crédito por Operador,Claro Guatemala,usuarios_pospago,0.0,usuarios,2023S2
+Usuarios Móviles Crédito por Operador,Claro Guatemala,participacion_pospago,0.0,%,2023S2
+Usuarios Móviles Crédito por Operador,Comcel (Tigo),usuarios_pospago,999421.0,usuarios,2023S2
+Usuarios Móviles Crédito por Operador,Comcel (Tigo),participacion_pospago,44.82,%,2023S2
+Usuarios Móviles Crédito por Operador,Telgua (Claro),usuarios_pospago,1230270.0,usuarios,2023S2
+Usuarios Móviles Crédito por Operador,Telgua (Claro),participacion_pospago,55.18,%,2023S2
+Usuarios Móviles Crédito por Operador,TOTAL,usuarios_pospago,2229691.0,usuarios,2023S2
+Usuarios Móviles Crédito por Operador,TOTAL,participacion_pospago,100.0,%,2023S2
+Usuarios Móviles Prepago por Operador,Claro Guatemala,usuarios_prepago,0.0,usuarios,2023S2
+Usuarios Móviles Prepago por Operador,Claro Guatemala,participacion_prepago,0.0,%,2023S2
+Usuarios Móviles Prepago por Operador,Comcel (Tigo),usuarios_prepago,10719192.0,usuarios,2023S2
+Usuarios Móviles Prepago por Operador,Comcel (Tigo),participacion_prepago,58.32,%,2023S2
+Usuarios Móviles Prepago por Operador,Telgua (Claro),usuarios_prepago,7660757.0,usuarios,2023S2
+Usuarios Móviles Prepago por Operador,Telgua (Claro),participacion_prepago,41.68,%,2023S2
+Usuarios Móviles Prepago por Operador,TOTAL,usuarios_prepago,18379949.0,usuarios,2023S2
+Usuarios Móviles Prepago por Operador,TOTAL,participacion_prepago,100.0,%,2023S2
+Red de Telefonía Fija: Tráfico Nacional,Teléfonos del Norte,trafico_fijo_a_moviles_min,194835.0,minutos,2023S2
+Red de Telefonía Fija: Tráfico Nacional,Teléfonos del Norte,trafico_fijo_a_fijas_min,37731.0,minutos,2023S2
+Red de Telefonía Fija: Tráfico Nacional,Teléfonos del Norte,trafico_fijo_on_net_min,5312.0,minutos,2023S2
+Red de Telefonía Fija: Tráfico Nacional,Teléfonos del Norte,trafico_fijo_total_min,237878.0,minutos,2023S2
+Red de Telefonía Fija: Tráfico Nacional,Teléfonos del Norte,participacion_trafico_fijo,0.05018,%,2023S2
+Red de Telefonía Fija: Tráfico Nacional,A-Tel,trafico_fijo_a_moviles_min,1239036.0,minutos,2023S2
+Red de Telefonía Fija: Tráfico Nacional,A-Tel,trafico_fijo_a_fijas_min,132406.0,minutos,2023S2
+Red de Telefonía Fija: Tráfico Nacional,A-Tel,trafico_fijo_on_net_min,22202.0,minutos,2023S2
+Red de Telefonía Fija: Tráfico Nacional,A-Tel,trafico_fijo_total_min,1393644.0,minutos,2023S2
+Red de Telefonía Fija: Tráfico Nacional,A-Tel,participacion_trafico_fijo,0.29,%,2023S2
+Red de Telefonía Fija: Tráfico Nacional,Guatel,trafico_fijo_a_moviles_min,0.0,minutos,2023S2
+Red de Telefonía Fija: Tráfico Nacional,Guatel,trafico_fijo_a_fijas_min,0.0,minutos,2023S2
+Red de Telefonía Fija: Tráfico Nacional,Guatel,trafico_fijo_on_net_min,0.0,minutos,2023S2
+Red de Telefonía Fija: Tráfico Nacional,Guatel,trafico_fijo_total_min,0.0,minutos,2023S2
+Red de Telefonía Fija: Tráfico Nacional,Guatel,participacion_trafico_fijo,0.0,%,2023S2
+Red de Telefonía Fija: Tráfico Nacional,Cablenet,trafico_fijo_a_moviles_min,6619021.0,minutos,2023S2
+Red de Telefonía Fija: Tráfico Nacional,Cablenet,trafico_fijo_a_fijas_min,2580745.0,minutos,2023S2
+Red de Telefonía Fija: Tráfico Nacional,Cablenet,trafico_fijo_on_net_min,1049758.0,minutos,2023S2
+Red de Telefonía Fija: Tráfico Nacional,Cablenet,trafico_fijo_total_min,10249524.0,minutos,2023S2
+Red de Telefonía Fija: Tráfico Nacional,Cablenet,participacion_trafico_fijo,2.16,%,2023S2
+Red de Telefonía Fija: Tráfico Nacional,Liberty (Columbus),trafico_fijo_a_moviles_min,696.0,minutos,2023S2
+Red de Telefonía Fija: Tráfico Nacional,Liberty (Columbus),trafico_fijo_a_fijas_min,2205.0,minutos,2023S2
+Red de Telefonía Fija: Tráfico Nacional,Liberty (Columbus),trafico_fijo_on_net_min,0.0,minutos,2023S2
+Red de Telefonía Fija: Tráfico Nacional,Liberty (Columbus),trafico_fijo_total_min,2901.0,minutos,2023S2
+Red de Telefonía Fija: Tráfico Nacional,Liberty (Columbus),participacion_trafico_fijo,0.00061,%,2023S2
+Red de Telefonía Fija: Tráfico Nacional,Claro Guatemala,trafico_fijo_a_moviles_min,0.0,minutos,2023S2
+Red de Telefonía Fija: Tráfico Nacional,Claro Guatemala,trafico_fijo_a_fijas_min,0.0,minutos,2023S2
+Red de Telefonía Fija: Tráfico Nacional,Claro Guatemala,trafico_fijo_on_net_min,0.0,minutos,2023S2
+Red de Telefonía Fija: Tráfico Nacional,Claro Guatemala,trafico_fijo_total_min,0.0,minutos,2023S2
+Red de Telefonía Fija: Tráfico Nacional,Claro Guatemala,participacion_trafico_fijo,0.0,%,2023S2
+Red de Telefonía Fija: Tráfico Nacional,Comcel (Tigo),trafico_fijo_a_moviles_min,35709482.0,minutos,2023S2
+Red de Telefonía Fija: Tráfico Nacional,Comcel (Tigo),trafico_fijo_a_fijas_min,5641681.0,minutos,2023S2
+Red de Telefonía Fija: Tráfico Nacional,Comcel (Tigo),trafico_fijo_on_net_min,17568.0,minutos,2023S2
+Red de Telefonía Fija: Tráfico Nacional,Comcel (Tigo),trafico_fijo_total_min,41368731.0,minutos,2023S2
+Red de Telefonía Fija: Tráfico Nacional,Comcel (Tigo),participacion_trafico_fijo,8.73,%,2023S2
+Red de Telefonía Fija: Tráfico Nacional,Telgua (Claro),trafico_fijo_a_moviles_min,330643996.72,minutos,2023S2
+Red de Telefonía Fija: Tráfico Nacional,Telgua (Claro),trafico_fijo_a_fijas_min,14083634.73,minutos,2023S2
+Red de Telefonía Fija: Tráfico Nacional,Telgua (Claro),trafico_fijo_on_net_min,76032503.51,minutos,2023S2
+Red de Telefonía Fija: Tráfico Nacional,Telgua (Claro),trafico_fijo_total_min,420760134.97,minutos,2023S2
+Red de Telefonía Fija: Tráfico Nacional,Telgua (Claro),participacion_trafico_fijo,88.77,%,2023S2
+Red de Telefonía Fija: Tráfico Nacional,TOTAL,trafico_fijo_a_moviles_min,374407066.72,minutos,2023S2
+Red de Telefonía Fija: Tráfico Nacional,TOTAL,trafico_fijo_a_fijas_min,22478402.73,minutos,2023S2
+Red de Telefonía Fija: Tráfico Nacional,TOTAL,trafico_fijo_on_net_min,77127343.51,minutos,2023S2
+Red de Telefonía Fija: Tráfico Nacional,TOTAL,trafico_fijo_total_min,474012812.97,minutos,2023S2
+Red de Telefonía Fija: Tráfico Nacional,TOTAL,participacion_trafico_fijo,100.0,%,2023S2
+Telefonía Móvil: Tráfico Nacional,Claro Guatemala,trafico_movil_a_fijas_min,0.0,minutos,2023S2
+Telefonía Móvil: Tráfico Nacional,Claro Guatemala,trafico_movil_a_moviles_min,0.0,minutos,2023S2
+Telefonía Móvil: Tráfico Nacional,Claro Guatemala,trafico_movil_on_net_min,0.0,minutos,2023S2
+Telefonía Móvil: Tráfico Nacional,Claro Guatemala,trafico_movil_total_min,0.0,minutos,2023S2
+Telefonía Móvil: Tráfico Nacional,Claro Guatemala,participacion_trafico_movil,0.0,%,2023S2
+Telefonía Móvil: Tráfico Nacional,Comcel (Tigo),trafico_movil_a_fijas_min,147420531.0,minutos,2023S2
+Telefonía Móvil: Tráfico Nacional,Comcel (Tigo),trafico_movil_a_moviles_min,1563917248.0,minutos,2023S2
+Telefonía Móvil: Tráfico Nacional,Comcel (Tigo),trafico_movil_on_net_min,6452965562.0,minutos,2023S2
+Telefonía Móvil: Tráfico Nacional,Comcel (Tigo),trafico_movil_total_min,8164303341.0,minutos,2023S2
+Telefonía Móvil: Tráfico Nacional,Comcel (Tigo),participacion_trafico_movil,52.99,%,2023S2
+Telefonía Móvil: Tráfico Nacional,Telgua (Claro),trafico_movil_a_fijas_min,84474311.79,minutos,2023S2
+Telefonía Móvil: Tráfico Nacional,Telgua (Claro),trafico_movil_a_moviles_min,1879479243.26,minutos,2023S2
+Telefonía Móvil: Tráfico Nacional,Telgua (Claro),trafico_movil_on_net_min,5278103719.81,minutos,2023S2
+Telefonía Móvil: Tráfico Nacional,Telgua (Claro),trafico_movil_total_min,7242057274.86,minutos,2023S2
+Telefonía Móvil: Tráfico Nacional,Telgua (Claro),participacion_trafico_movil,47.01,%,2023S2
+Telefonía Móvil: Tráfico Nacional,TOTAL,trafico_movil_a_fijas_min,231894842.79,minutos,2023S2
+Telefonía Móvil: Tráfico Nacional,TOTAL,trafico_movil_a_moviles_min,3443396491.26,minutos,2023S2
+Telefonía Móvil: Tráfico Nacional,TOTAL,trafico_movil_on_net_min,11731069281.81,minutos,2023S2
+Telefonía Móvil: Tráfico Nacional,TOTAL,trafico_movil_total_min,15406360615.86,minutos,2023S2
+Telefonía Móvil: Tráfico Nacional,TOTAL,participacion_trafico_movil,100.0,%,2023S2

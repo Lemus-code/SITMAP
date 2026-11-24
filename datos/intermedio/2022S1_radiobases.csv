@@ -1,0 +1,344 @@
+﻿departamento_boletin,nombre_boletin,tipo,radiobases,periodo
+Alta Verapaz,Cahabón,municipio,17.0,2022S1
+Alta Verapaz,Chahal,municipio,9.0,2022S1
+Alta Verapaz,Chisec,municipio,49.0,2022S1
+Alta Verapaz,Cobán,municipio,153.0,2022S1
+Alta Verapaz,Fray Bartolomé de las Casas,municipio,40.0,2022S1
+Alta Verapaz,Lanquín,municipio,9.0,2022S1
+Alta Verapaz,Panzós,municipio,21.0,2022S1
+Alta Verapaz,Raxruhá,municipio,23.0,2022S1
+Alta Verapaz,San Cristóbal Verapaz,municipio,30.0,2022S1
+Alta Verapaz,San Juan Chamelco,municipio,14.0,2022S1
+Alta Verapaz,San Pedro Carchá,municipio,80.0,2022S1
+Alta Verapaz,Santa Catalina La Tinta,municipio,17.0,2022S1
+Alta Verapaz,Santa Cruz Verapaz,municipio,20.0,2022S1
+Alta Verapaz,Senahú,municipio,14.0,2022S1
+Alta Verapaz,Tactic,municipio,30.0,2022S1
+Alta Verapaz,Tamahú,municipio,7.0,2022S1
+Alta Verapaz,Tucurú,municipio,18.0,2022S1
+Baja Verapaz,Cubulco,municipio,26.0,2022S1
+Baja Verapaz,El Chol,municipio,15.0,2022S1
+Baja Verapaz,Granados,municipio,15.0,2022S1
+Baja Verapaz,Purulhá,municipio,17.0,2022S1
+Baja Verapaz,Rabinal,municipio,28.0,2022S1
+Baja Verapaz,Salamá,municipio,68.0,2022S1
+Baja Verapaz,San Jerónimo,municipio,35.0,2022S1
+Baja Verapaz,San Miguel Chicaj,municipio,25.0,2022S1
+Chimaltenango,Acatenango,municipio,19.0,2022S1
+Chimaltenango,Chimaltenango,municipio,59.0,2022S1
+Chimaltenango,Comalapa,municipio,26.0,2022S1
+Chimaltenango,El Tejar,municipio,36.0,2022S1
+Chimaltenango,Parramos,municipio,9.0,2022S1
+Chimaltenango,Patzicia,municipio,24.0,2022S1
+Chimaltenango,Patzún,municipio,32.0,2022S1
+Chimaltenango,Pochuta,municipio,10.0,2022S1
+Chimaltenango,San Andrés Iztapa,municipio,26.0,2022S1
+Chimaltenango,San José Poaquil,municipio,14.0,2022S1
+Chimaltenango,San Martín Jilotepeque,municipio,73.0,2022S1
+Chimaltenango,Santa Apolonia,municipio,15.0,2022S1
+Chimaltenango,Santa Cruz Balanyá,municipio,13.0,2022S1
+Chimaltenango,Tecpán Guatemala,municipio,54.0,2022S1
+Chimaltenango,Yepocapa,municipio,17.0,2022S1
+Chimaltenango,Zaragoza,municipio,14.0,2022S1
+Chiquimula,Camotán,municipio,23.0,2022S1
+Chiquimula,Chiquimula,municipio,108.0,2022S1
+Chiquimula,Concepción las Minas,municipio,27.0,2022S1
+Chiquimula,Esquipulas,municipio,85.0,2022S1
+Chiquimula,Ipala,municipio,44.0,2022S1
+Chiquimula,Jocotán,municipio,23.0,2022S1
+Chiquimula,Olopa,municipio,10.0,2022S1
+Chiquimula,Quezaltepeque,municipio,20.0,2022S1
+Chiquimula,San Jacinto,municipio,14.0,2022S1
+Chiquimula,San José la Arada,municipio,12.0,2022S1
+Chiquimula,San Juan Ermita,municipio,10.0,2022S1
+Escuintla,Escuintla,municipio,190.0,2022S1
+Escuintla,Guanagazapa,municipio,14.0,2022S1
+Escuintla,Iztapa,municipio,22.0,2022S1
+Escuintla,La Democracia,municipio,20.0,2022S1
+Escuintla,La Gomera,municipio,63.0,2022S1
+Escuintla,Masagua,municipio,63.0,2022S1
+Escuintla,Nueva Concepción,municipio,69.0,2022S1
+Escuintla,Palín,municipio,55.0,2022S1
+Escuintla,San José,municipio,108.0,2022S1
+Escuintla,San Vicente Pacaya,municipio,16.0,2022S1
+Escuintla,Santa Lucía Cotzumalguapa,municipio,96.0,2022S1
+Escuintla,Sipacate,municipio,6.0,2022S1
+Escuintla,Siquinalá,municipio,35.0,2022S1
+Escuintla,Tiquisate,municipio,61.0,2022S1
+Guatemala,Amatitlán,municipio,136.0,2022S1
+Guatemala,Chinautla,municipio,86.0,2022S1
+Guatemala,Chuarrancho,municipio,22.0,2022S1
+Guatemala,Fraijanes,municipio,129.0,2022S1
+Guatemala,Guatemala,municipio,2359.0,2022S1
+Guatemala,Mixco,municipio,631.0,2022S1
+Guatemala,Palencia,municipio,70.0,2022S1
+Guatemala,Petapa,municipio,141.0,2022S1
+Guatemala,San José del Golfo,municipio,13.0,2022S1
+Guatemala,San José Pinula,municipio,94.0,2022S1
+Guatemala,San Juan Sacatepéquez,municipio,171.0,2022S1
+Guatemala,San Pedro Ayampuc,municipio,42.0,2022S1
+Guatemala,San Pedro Sacatepéquez,municipio,64.0,2022S1
+Guatemala,San Raymundo,municipio,41.0,2022S1
+Guatemala,Santa Catarina Pinula,municipio,303.0,2022S1
+Guatemala,Villa Canales,municipio,189.0,2022S1
+Guatemala,Villa Nueva,municipio,416.0,2022S1
+Huehuetenango,Aguacatán,municipio,31.0,2022S1
+Huehuetenango,Chiantla,municipio,52.0,2022S1
+Huehuetenango,Colotenango,municipio,11.0,2022S1
+Huehuetenango,Concepción Huista,municipio,19.0,2022S1
+Huehuetenango,Cuilco,municipio,37.0,2022S1
+Huehuetenango,Huehuetenango,municipio,97.0,2022S1
+Huehuetenango,Jacaltenango,municipio,12.0,2022S1
+Huehuetenango,La Democracia,municipio,65.0,2022S1
+Huehuetenango,La Libertad,municipio,18.0,2022S1
+Huehuetenango,Malacatancito,municipio,91.0,2022S1
+Huehuetenango,Nentón,municipio,68.0,2022S1
+Huehuetenango,Petatán,municipio,2.0,2022S1
+Huehuetenango,San Antonio Huista,municipio,20.0,2022S1
+Huehuetenango,San Gaspar Ixchil,municipio,6.0,2022S1
+Huehuetenango,San Idelfonso Ixtahuacán,municipio,24.0,2022S1
+Huehuetenango,San Juan Atitán,municipio,16.0,2022S1
+Huehuetenango,San Juan Ixcoy,municipio,20.0,2022S1
+Huehuetenango,San Mateo Ixtatán,municipio,14.0,2022S1
+Huehuetenango,San Miguel Acatán,municipio,19.0,2022S1
+Huehuetenango,San Pedro Necta,municipio,8.0,2022S1
+Huehuetenango,San Pedro Soloma,municipio,29.0,2022S1
+Huehuetenango,San Rafael Petzal,municipio,9.0,2022S1
+Huehuetenango,San Rafel la Independencia,municipio,12.0,2022S1
+Huehuetenango,San Sebastián Coatán,municipio,9.0,2022S1
+Huehuetenango,San Sebastián Huehuetenango,municipio,19.0,2022S1
+Huehuetenango,Santa Ana Huista,municipio,32.0,2022S1
+Huehuetenango,Santa Bárbara,municipio,21.0,2022S1
+Huehuetenango,Santa Cruz Barillas,municipio,59.0,2022S1
+Huehuetenango,Santa Eulalia,municipio,22.0,2022S1
+Huehuetenango,Santiago Chimaltenango,municipio,4.0,2022S1
+Huehuetenango,Tectitán,municipio,17.0,2022S1
+Huehuetenango,Todos Santos Cuchumatán,municipio,34.0,2022S1
+Huehuetenango,Unión Cantinil,municipio,16.0,2022S1
+Izabal,El Estor,municipio,36.0,2022S1
+Izabal,Livingston,municipio,86.0,2022S1
+Izabal,Los Amates,municipio,79.0,2022S1
+Izabal,Morales,municipio,140.0,2022S1
+Izabal,Puerto Barrios,municipio,131.0,2022S1
+Izabal,Santo Tomás de Castilla,municipio,0.0,2022S1
+Jalapa,Jalapa,municipio,135.0,2022S1
+Jalapa,Mataquiescuintla,municipio,34.0,2022S1
+Jalapa,Monjas,municipio,37.0,2022S1
+Jalapa,San Carlos Alzatate,municipio,7.0,2022S1
+Jalapa,San Luis Jilotepeque,municipio,28.0,2022S1
+Jalapa,San Manuel Chaparron,municipio,15.0,2022S1
+Jalapa,San Pedro Pinula,municipio,47.0,2022S1
+Jutiapa,Agua Blanca,municipio,29.0,2022S1
+Jutiapa,Asunción Mita,municipio,59.0,2022S1
+Jutiapa,Atescatempa,municipio,16.0,2022S1
+Jutiapa,Comapa,municipio,28.0,2022S1
+Jutiapa,Conguaco,municipio,20.0,2022S1
+Jutiapa,El Adelanto,municipio,8.0,2022S1
+Jutiapa,El Progreso,municipio,33.0,2022S1
+Jutiapa,Jalpatagua,municipio,39.0,2022S1
+Jutiapa,Jerez,municipio,4.0,2022S1
+Jutiapa,Jutiapa,municipio,122.0,2022S1
+Jutiapa,Moyuta,municipio,57.0,2022S1
+Jutiapa,Pasaco,municipio,22.0,2022S1
+Jutiapa,Quesada,municipio,25.0,2022S1
+Jutiapa,San José Acatempa,municipio,21.0,2022S1
+Jutiapa,Santa Catarina Mita,municipio,38.0,2022S1
+Jutiapa,Yupiltepeque,municipio,12.0,2022S1
+Jutiapa,Zapotitlán,municipio,5.0,2022S1
+El Petén,Dolores,municipio,33.0,2022S1
+El Petén,El Chal,municipio,26.0,2022S1
+El Petén,Flores,municipio,54.0,2022S1
+El Petén,La Libertad,municipio,93.0,2022S1
+El Petén,Las Cruces,municipio,53.0,2022S1
+El Petén,Melchor de Mencos,municipio,26.0,2022S1
+El Petén,Poptún,municipio,41.0,2022S1
+El Petén,San Andrés,municipio,17.0,2022S1
+El Petén,San Benito,municipio,54.0,2022S1
+El Petén,San Francisco,municipio,22.0,2022S1
+El Petén,San José,municipio,10.0,2022S1
+El Petén,San Luis,municipio,88.0,2022S1
+El Petén,Santa Ana,municipio,43.0,2022S1
+El Petén,Santa Elena,municipio,0.0,2022S1
+El Petén,Sayaxché,municipio,72.0,2022S1
+El Progreso,El Jicaro,municipio,18.0,2022S1
+El Progreso,Guastatoya,municipio,49.0,2022S1
+El Progreso,Morazán,municipio,22.0,2022S1
+El Progreso,San Agustín Acasaguastlán,municipio,42.0,2022S1
+El Progreso,San Antonio La Paz,municipio,28.0,2022S1
+El Progreso,San Cristobál Acasaguastlán,municipio,12.0,2022S1
+El Progreso,Sanarate,municipio,50.0,2022S1
+El Progreso,Sansare,municipio,20.0,2022S1
+Quetzaltenango,Almolonga,municipio,11.0,2022S1
+Quetzaltenango,Cabricán,municipio,15.0,2022S1
+Quetzaltenango,Cajolá,municipio,7.0,2022S1
+Quetzaltenango,Cantel,municipio,21.0,2022S1
+Quetzaltenango,Coatepeque,municipio,131.0,2022S1
+Quetzaltenango,Colomba Costa Cuca,municipio,36.0,2022S1
+Quetzaltenango,Concepción Chiquirichapa,municipio,15.0,2022S1
+Quetzaltenango,El Palmar,municipio,14.0,2022S1
+Quetzaltenango,Flores Costa Cuca,municipio,17.0,2022S1
+Quetzaltenango,Génova,municipio,30.0,2022S1
+Quetzaltenango,Huitán,municipio,12.0,2022S1
+Quetzaltenango,La Esperanza,municipio,21.0,2022S1
+Quetzaltenango,Olintepeque,municipio,22.0,2022S1
+Quetzaltenango,Palestina de Los Altos,municipio,12.0,2022S1
+Quetzaltenango,Quetzaltenango,municipio,275.0,2022S1
+Quetzaltenango,Salcajá,municipio,16.0,2022S1
+Quetzaltenango,San Carlos Sijá,municipio,54.0,2022S1
+Quetzaltenango,San Francisco La Unión,municipio,6.0,2022S1
+Quetzaltenango,San Juan Ostuncalco,municipio,28.0,2022S1
+Quetzaltenango,San Martín Sacatepéquez,municipio,23.0,2022S1
+Quetzaltenango,San Mateo,municipio,6.0,2022S1
+Quetzaltenango,San Miguel Siguilá,municipio,4.0,2022S1
+Quetzaltenango,Sibilia,municipio,10.0,2022S1
+Quetzaltenango,Zunil,municipio,17.0,2022S1
+Quiché,Canillá,municipio,11.0,2022S1
+Quiché,Chajul,municipio,15.0,2022S1
+Quiché,Chicamán,municipio,20.0,2022S1
+Quiché,Chiché,municipio,14.0,2022S1
+Quiché,Chichicastenango,municipio,69.0,2022S1
+Quiché,Chinique,municipio,13.0,2022S1
+Quiché,Cotzal,municipio,17.0,2022S1
+Quiché,Cunen,municipio,26.0,2022S1
+Quiché,Ixcán,municipio,79.0,2022S1
+Quiché,Joyabaj,municipio,56.0,2022S1
+Quiché,Nebaj,municipio,45.0,2022S1
+Quiché,Pachalum,municipio,4.0,2022S1
+Quiché,Patzité,municipio,8.0,2022S1
+Quiché,Sacapulas,municipio,29.0,2022S1
+Quiché,San Andrés Sajcabajá,municipio,9.0,2022S1
+Quiché,San Antonio Ilotenango,municipio,19.0,2022S1
+Quiché,San Bartolomé Jocotenango,municipio,3.0,2022S1
+Quiché,San Pedro Jocopilas,municipio,22.0,2022S1
+Quiché,Santa Cruz del Quiché,municipio,55.0,2022S1
+Quiché,Uspantán,municipio,25.0,2022S1
+Quiché,Zacualpa,municipio,14.0,2022S1
+Retalhuleu,Champerico,municipio,40.0,2022S1
+Retalhuleu,El Asintal,municipio,40.0,2022S1
+Retalhuleu,Nuevo San Carlos,municipio,36.0,2022S1
+Retalhuleu,Retalhuleu,municipio,114.0,2022S1
+Retalhuleu,San Andrés Villa Seca,municipio,32.0,2022S1
+Retalhuleu,San Felipe Realhuleu,municipio,25.0,2022S1
+Retalhuleu,San Martín Zapotitlán,municipio,10.0,2022S1
+Retalhuleu,San Sebastián,municipio,18.0,2022S1
+Retalhuleu,Santa Cruz Mulúa,municipio,33.0,2022S1
+Sacatepéquez,Alotenango,municipio,19.0,2022S1
+Sacatepéquez,Antigua Guatemala,municipio,161.0,2022S1
+Sacatepéquez,Ciudad Vieja,municipio,19.0,2022S1
+Sacatepéquez,Jocotenango,municipio,27.0,2022S1
+Sacatepéquez,Magdalena Milpas Altas,municipio,11.0,2022S1
+Sacatepéquez,Pastores,municipio,17.0,2022S1
+Sacatepéquez,San Antonio Aguas Calientes,municipio,4.0,2022S1
+Sacatepéquez,San Bartolomé Milpas Altas,municipio,8.0,2022S1
+Sacatepéquez,San Lucas Sacatepéquez,municipio,52.0,2022S1
+Sacatepéquez,San Miguel Dueñas,municipio,6.0,2022S1
+Sacatepéquez,Santa Catarina Barahona,municipio,5.0,2022S1
+Sacatepéquez,Santa Lucia Milpas Altas,municipio,25.0,2022S1
+Sacatepéquez,Santa María de Jesús,municipio,6.0,2022S1
+Sacatepéquez,Santiago Sacatepéquez,municipio,32.0,2022S1
+Sacatepéquez,Santo Domingo Xenacoj,municipio,7.0,2022S1
+Sacatepéquez,Sumpango,municipio,41.0,2022S1
+San Marcos,Ayutla,municipio,42.0,2022S1
+San Marcos,Catarina,municipio,30.0,2022S1
+San Marcos,Comitancillo,municipio,26.0,2022S1
+San Marcos,Concepcion Tutuapa,municipio,33.0,2022S1
+San Marcos,El Quetzal,municipio,14.0,2022S1
+San Marcos,El Tumbador,municipio,28.0,2022S1
+San Marcos,Esquipulas Palo Gordo,municipio,19.0,2022S1
+San Marcos,Ixchiguan,municipio,19.0,2022S1
+San Marcos,La Blanca,municipio,17.0,2022S1
+San Marcos,La Reforma,municipio,10.0,2022S1
+San Marcos,Malacatán,municipio,81.0,2022S1
+San Marcos,Nuevo Progreso,municipio,20.0,2022S1
+San Marcos,Ocos,municipio,14.0,2022S1
+San Marcos,Pajapita,municipio,25.0,2022S1
+San Marcos,Rio Blanco,municipio,5.0,2022S1
+San Marcos,San Antonio Sacatepequez,municipio,14.0,2022S1
+San Marcos,San Cristobal Cucho,municipio,13.0,2022S1
+San Marcos,San Jose El Rodeo,municipio,24.0,2022S1
+San Marcos,San Jose Ojetenam,municipio,19.0,2022S1
+San Marcos,San Lorenzo,municipio,8.0,2022S1
+San Marcos,San Marcos,municipio,50.0,2022S1
+San Marcos,San Miguel Ixtahuacan,municipio,27.0,2022S1
+San Marcos,San Pablo,municipio,25.0,2022S1
+San Marcos,San Pedro Sacatepequez,municipio,44.0,2022S1
+San Marcos,San Rafael Pie De La Cuesta,municipio,17.0,2022S1
+San Marcos,Sibinal,municipio,8.0,2022S1
+San Marcos,Sipacapa,municipio,12.0,2022S1
+San Marcos,Tacana,municipio,50.0,2022S1
+San Marcos,Tajumulco,municipio,17.0,2022S1
+San Marcos,Tejutla,municipio,16.0,2022S1
+Santa Rosa,Barberena,municipio,36.0,2022S1
+Santa Rosa,Casillas,municipio,25.0,2022S1
+Santa Rosa,Chiquimulilla,municipio,82.0,2022S1
+Santa Rosa,Cuilapa,municipio,49.0,2022S1
+Santa Rosa,Guazacapan,municipio,19.0,2022S1
+Santa Rosa,Nueva Santa Rosa,municipio,40.0,2022S1
+Santa Rosa,Oratorio,municipio,27.0,2022S1
+Santa Rosa,Pueblo Nuevo Viñas,municipio,30.0,2022S1
+Santa Rosa,San Juan Tecuaco,municipio,3.0,2022S1
+Santa Rosa,San Rafael las Flores,municipio,16.0,2022S1
+Santa Rosa,Santa Cruz el Naranjo,municipio,13.0,2022S1
+Santa Rosa,Santa María Ixhuatan,municipio,16.0,2022S1
+Santa Rosa,Santa Rosa de Lima,municipio,25.0,2022S1
+Santa Rosa,Taxisco,municipio,65.0,2022S1
+Sololá,Concepción,municipio,2.0,2022S1
+Sololá,Nahualá,municipio,44.0,2022S1
+Sololá,Panajachel,municipio,27.0,2022S1
+Sololá,San Andrés Semetabaj,municipio,12.0,2022S1
+Sololá,San Antonio Palopó,municipio,16.0,2022S1
+Sololá,San Jorge La Laguna,municipio,0.0,2022S1
+Sololá,San José Chacayá,municipio,6.0,2022S1
+Sololá,San Juan La Laguna,municipio,7.0,2022S1
+Sololá,San Lucas Toliman,municipio,21.0,2022S1
+Sololá,San Marcos La Laguna,municipio,3.0,2022S1
+Sololá,San Pablo La Laguna,municipio,5.0,2022S1
+Sololá,San Pedro La Laguna,municipio,10.0,2022S1
+Sololá,Santa Catarina Ixtahuacán,municipio,26.0,2022S1
+Sololá,Santa Catarina Palopó,municipio,3.0,2022S1
+Sololá,Santa Clara La Laguna,municipio,5.0,2022S1
+Sololá,Santa Cruz La Laguna,municipio,10.0,2022S1
+Sololá,Santa Lucia Utatlán,municipio,19.0,2022S1
+Sololá,Santa María Visitación,municipio,0.0,2022S1
+Sololá,Santiago Atitlán,municipio,19.0,2022S1
+Sololá,Sololá,municipio,57.0,2022S1
+Suchitepéquez,Chicacao,municipio,27.0,2022S1
+Suchitepéquez,Cuyotenango,municipio,30.0,2022S1
+Suchitepéquez,Mazatenango,municipio,69.0,2022S1
+Suchitepéquez,Patulul,municipio,37.0,2022S1
+Suchitepéquez,Pueblo Nuevo,municipio,6.0,2022S1
+Suchitepéquez,Río Bravo,municipio,25.0,2022S1
+Suchitepéquez,Samayac,municipio,14.0,2022S1
+Suchitepéquez,San Antonio Suchitepéquez,municipio,51.0,2022S1
+Suchitepéquez,San Bernardino,municipio,12.0,2022S1
+Suchitepéquez,San Francisco Zapotitlán,municipio,15.0,2022S1
+Suchitepéquez,San Gabriel,municipio,10.0,2022S1
+Suchitepéquez,San José El Ídolo,municipio,5.0,2022S1
+Suchitepéquez,San José la Máquina,municipio,17.0,2022S1
+Suchitepéquez,San Juan Bautista,municipio,5.0,2022S1
+Suchitepéquez,San Lorenzo,municipio,32.0,2022S1
+Suchitepéquez,San Miguel Panán,municipio,8.0,2022S1
+Suchitepéquez,San Pablo Jocopilas,municipio,15.0,2022S1
+Suchitepéquez,Santa Bárbara,municipio,26.0,2022S1
+Suchitepéquez,Santo Domingo Suchitepéquez,municipio,27.0,2022S1
+Suchitepéquez,Santo Tomás La Unión,municipio,15.0,2022S1
+Suchitepéquez,Zunilito,municipio,3.0,2022S1
+Totonicapán,Momostenango,municipio,66.0,2022S1
+Totonicapán,San Andres Xecul,municipio,7.0,2022S1
+Totonicapán,San Bartolo Aguas Calientes,municipio,8.0,2022S1
+Totonicapán,San Cristobal Totonicapán,municipio,27.0,2022S1
+Totonicapán,San Francisco El Alto,municipio,27.0,2022S1
+Totonicapán,Santa Lucia La Reforma,municipio,4.0,2022S1
+Totonicapán,Santa Maria Chiquimula,municipio,26.0,2022S1
+Totonicapán,Totonicapán,municipio,88.0,2022S1
+Zacapa,Cabañas,municipio,9.0,2022S1
+Zacapa,Estanzuela,municipio,11.0,2022S1
+Zacapa,Gualán,municipio,53.0,2022S1
+Zacapa,Huité,municipio,11.0,2022S1
+Zacapa,La Unión,municipio,9.0,2022S1
+Zacapa,Río Hondo,municipio,39.0,2022S1
+Zacapa,San Diego,municipio,10.0,2022S1
+Zacapa,San Jorge,municipio,14.0,2022S1
+Zacapa,Teculután,municipio,18.0,2022S1
+Zacapa,Usumatlán,municipio,16.0,2022S1
+Zacapa,Zacapa,municipio,65.0,2022S1
