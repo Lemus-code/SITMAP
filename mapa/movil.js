@@ -61,6 +61,26 @@
     document.querySelectorAll('.panel-right').forEach((d) => obs.observe(d, { attributes: true, attributeFilter: ['hidden'] }));
   }
 
+  function tema() {
+    const btn = document.getElementById('btn-tema');
+    if (!btn) return;
+    const actual = () => document.documentElement.dataset.tema || (matchMedia('(prefers-color-scheme: light)').matches ? 'claro' : 'oscuro');
+    const pintarBoton = () => {
+      const t = actual();
+      btn.setAttribute('aria-label', t === 'claro' ? 'Cambiar a tema oscuro' : 'Cambiar a tema claro');
+      const m = document.querySelector('meta[name="theme-color"]');
+      if (m) m.setAttribute('content', t === 'claro' ? '#f3f3f1' : '#141517');
+    };
+    btn.onclick = () => {
+      const t = actual() === 'claro' ? 'oscuro' : 'claro';
+      document.documentElement.dataset.tema = t;
+      try { localStorage.setItem('sit-tema', t); } catch (e) { /* sin almacenamiento */ }
+      pintarBoton();
+      window.dispatchEvent(new Event('resize')); // redibuja los canvas con los colores nuevos
+    };
+    pintarBoton();
+  }
+
   window.SITMAP = { movil, extent };
-  document.addEventListener('DOMContentLoaded', () => { hojas(); buscador(); fichas(); });
+  document.addEventListener('DOMContentLoaded', () => { hojas(); buscador(); fichas(); tema(); });
 }());

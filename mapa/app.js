@@ -183,7 +183,7 @@
     }
     if (capas.lugares && k >= 5) {
       ctx.globalAlpha = 1; ctx.font = `500 ${k >= 8 ? 11 : 10}px Inter, Segoe UI, sans-serif`;
-      ctx.lineWidth = 3; ctx.strokeStyle = 'rgba(11,18,32,0.85)'; ctx.fillStyle = '#e8eef8';
+      const cs = getComputedStyle(document.documentElement); ctx.lineWidth = 3; ctx.strokeStyle = cs.getPropertyValue('--etiqueta-borde').trim() || 'rgba(20,21,23,0.9)'; ctx.fillStyle = cs.getPropertyValue('--fg').trim() || '#ededee';
       for (let i = 0; i < baseLug.length; i++) {
         const c = lugares[i][2];
         if (!(c === 'CIUDAD' || c === 'PUEBLO' || c === 'VILLA' || (k >= 8 && c === 'ALDEA'))) continue;
